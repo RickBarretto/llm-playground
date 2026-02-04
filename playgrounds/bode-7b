@@ -1,0 +1,149 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "gpuType": "T4",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    },
+    "accelerator": "GPU"
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/RickBarretto/llm-playground/blob/main/playgrounds/bode-7b\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "- Author: [Recogna NLP](https://huggingface.co/recogna-nlp)\n",
+        "- Source: [Collab](https://colab.research.google.com/drive/1uqVCED2wNPXIa7On0OAnghJNr13PUB5o?usp=sharing)\n",
+        "- Repository: [BODE](https://huggingface.co/recogna-nlp/bode-7b-alpaca-pt-br-no-peft)\n",
+        "- License: [MIT](https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/mit.md)"
+      ],
+      "metadata": {
+        "id": "HFnBtOgsAydn"
+      }
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "Imu1mXl2Vr_H"
+      },
+      "outputs": [],
+      "source": [
+        "!pip install transformers\n",
+        "!pip install einops accelerate bitsandbytes\n",
+        "!pip install sentence_transformers\n",
+        "#!pip install git+https://github.com/huggingface/peft.git"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "from transformers import AutoModelForCausalLM, AutoTokenizer, GenerationConfig\n",
+        "#from peft import PeftModel, PeftConfig\n",
+        "\n",
+        "llm_model = 'recogna-nlp/bode-7b-alpaca-pt-br-no-peft'\n",
+        "#llm_model = 'recogna-nlp/bode-7b-alpaca-pt-br'\n",
+        "hf_auth = '<HF_ACCESS_KEY>'\n",
+        "#config = PeftConfig.from_pretrained(llm_model)\n",
+        "model = AutoModelForCausalLM.from_pretrained(llm_model, trust_remote_code=True, return_dict=True, load_in_4bit=True, device_map='auto', token=hf_auth)\n",
+        "tokenizer = AutoTokenizer.from_pretrained(llm_model, token=hf_auth)\n",
+        "#model = PeftModel.from_pretrained(model, llm_model) # Caso ocorra o seguinte erro: \"ValueError: We need an `offload_dir`... Você deve acrescentar o parâmetro: offload_folder=\"./offload_dir\".\n"
+      ],
+      "metadata": {
+        "id": "FroPG_JqVzpP"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "model = model.eval()"
+      ],
+      "metadata": {
+        "id": "OmVU2akDV9gc"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "def generate_prompt(instruction, input=None):\n",
+        "    if input:\n",
+        "        return f\"\"\"Abaixo está uma instrução que descreve uma tarefa, juntamente com uma entrada que fornece mais contexto. Escreva uma resposta que complete adequadamente o pedido.\n",
+        "\n",
+        "### Instrução:\n",
+        "{instruction}\n",
+        "\n",
+        "### Entrada:\n",
+        "{input}\n",
+        "\n",
+        "### Resposta:\"\"\"\n",
+        "    else:\n",
+        "        return f\"\"\"Abaixo está uma instrução que descreve uma tarefa. Escreva uma resposta que complete adequadamente o pedido.\n",
+        "\n",
+        "### Instrução:\n",
+        "{instruction}\n",
+        "\n",
+        "### Resposta:\"\"\"\n",
+        "\n",
+        "generation_config = GenerationConfig(\n",
+        "    temperature=0.5,\n",
+        "    top_p=0.75,\n",
+        "    num_beams=2,\n",
+        "    do_sample=True\n",
+        ")\n",
+        "\n",
+        "def evaluate(instruction, input=None):\n",
+        "    prompt = generate_prompt(instruction, input)\n",
+        "    inputs = tokenizer(prompt, return_tensors=\"pt\")\n",
+        "    input_ids = inputs[\"input_ids\"].cuda()\n",
+        "    generation_output = model.generate(\n",
+        "        input_ids=input_ids,\n",
+        "        generation_config=generation_config,\n",
+        "        return_dict_in_generate=True,\n",
+        "        output_scores=True,\n",
+        "        max_length=300\n",
+        "    )\n",
+        "    for s in generation_output.sequences:\n",
+        "        output = tokenizer.decode(s)\n",
+        "        print(\"Resposta:\", output.split(\"### Resposta:\")[1].strip())"
+      ],
+      "metadata": {
+        "id": "jpvjoQTGXCTc"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "evaluate(\"Responda com detalhes: O que é um bode?\")\n"
+      ],
+      "metadata": {
+        "id": "T_SsskJBXGhJ"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
