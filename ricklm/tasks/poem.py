@@ -13,6 +13,7 @@ class Poem:
         title_part = f' intitulado "{self.title}"' if self.title else ""
         return f"Escreva um poema no estilo de {self.style}{title_part}."
     
+    @property
     def full(self) -> str:
         return "\n".join([
             "Model",
