@@ -39,8 +39,10 @@ class Tucano(GeneratesText):
     def _normalize_size(self, size: str) -> str:
         assert size.endswith("B"), "Size must end with 'B'"
         if "." in size:
+            # "1.3B" => "1b3"
             return size.replace("B", "").replace(".", "b")
         else:
+            # "2B" => "2b"
             return size.replace("B", "b")
 
     @property
