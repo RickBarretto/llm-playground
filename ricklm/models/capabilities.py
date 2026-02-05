@@ -1,4 +1,4 @@
-from models._base import Model
+from ricklm.models._base import Model
 
 class GeneratesText(Model):
 

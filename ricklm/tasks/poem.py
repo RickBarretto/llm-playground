@@ -1,6 +1,6 @@
 import attrs
 
-from src.models.capabilities import GeneratesText
+from ricklm.models.capabilities import GeneratesText
 
 @attrs.frozen(kw_only=True)
 class Poem:
