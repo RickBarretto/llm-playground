@@ -22,11 +22,12 @@ class AmadeusVerbo(GeneratesText):
 class Gaia(GeneratesText):
     owner: ClassVar[str] = "CEIA-UFG"
     _model: ClassVar[str] = "Gemma-3-Gaia-PT-BR-{size}-it"
-    size: Literal["4b"] = "4b"
+    size: Literal["4B"] = "4B"
 
     @property
     def model(self) -> str:
-        return self._model.format(size=self.size)
+        size = self.size.replace("B", "b")
+        return self._model.format(size=size)
 
 
 @attrs.frozen
