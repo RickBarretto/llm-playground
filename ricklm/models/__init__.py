@@ -62,4 +62,5 @@ class TeenyTinyLlama(GeneratesText):
         pipe = self.pipeline("text-generation")
         instruction = f"<instruction>{prompt}</instruction>"
         response = pipe(instruction, max_new_tokens=512, do_sample=True, temperature=0.7)
+        self.pipeline.cache_clear()
         return normalize(response[0]["generated_text"].replace(instruction, "", count=1))
