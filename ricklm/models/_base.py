@@ -14,12 +14,12 @@ class Model:
         return self._model
     
     @property
-    def huggginface(self) -> str:
-        return f"https://huggingface.co/{self.owner}/{self.model}"
-
-    @property
     def id(self) -> str:
         return f"{self.owner}/{self.model}"
+
+    @property
+    def huggginface(self) -> str:
+        return f"https://huggingface.co/{self.id}"
     
     @lru_cache(maxsize=None)
     def pipeline(self, task: str) -> str:
