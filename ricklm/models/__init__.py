@@ -28,3 +28,21 @@ class Gaia(GeneratesText):
     def model(self) -> str:
         return self._model.format(size=self.size)
 
+
+@attrs.frozen
+class Tucano(GeneratesText):
+    owner: ClassVar[str] = "TucanoBR"
+    _model: ClassVar[str] = "Tucano-1b1-Instruct"
+    size: Literal["1.1B", "2.4B"] = "2.4B"
+
+    def _normalize_size(self, size: str) -> str:
+        assert size.endswith("B"), "Size must end with 'B'"
+        if "." in size:
+            return size.replace("B", "").replace(".", "b")
+        else:
+            return size.replace("B", "b")
+
+    @property
+    def model(self) -> str:
+        size = self._normalize_size(self.size)
+        return self._model.format(size=size)
