@@ -1,6 +1,6 @@
 from ricklm.models._base import Model
 
-def _normalize(response: str) -> str:
+def normalize(response: str) -> str:
     return response.strip().replace("\\n", "\n").replace("\\t", "\t")
 
 class GeneratesText(Model):
@@ -9,4 +9,4 @@ class GeneratesText(Model):
         pipe = self.pipeline("text-generation")
         messages = [{"role": "user", "content": prompt},]
         response = pipe(messages, max_new_tokens=512, do_sample=True, temperature=0.7)
-        return _normalize(response[0]["generated_text"][-1]["content"])
+        return normalize(response[0]["generated_text"][-1]["content"])
