@@ -26,6 +26,7 @@ class Gaia(GeneratesText):
 
     @property
     def model(self) -> str:
+        # 4B => 4b
         size = self.size.replace("B", "b")
         return self._model.format(size=size)
 
