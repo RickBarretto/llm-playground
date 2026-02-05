@@ -2,7 +2,7 @@ from typing import Literal, ClassVar, overload
 
 import attrs
 
-from ricklm.models.capabilities import GeneratesText
+from ricklm.models.capabilities import GeneratesText, normalize
 
 
 __all__ = ["AmadeusVerbo"]
@@ -46,3 +46,20 @@ class Tucano(GeneratesText):
     def model(self) -> str:
         size = self._normalize_size(self.size)
         return self._model.format(size=size)
+
+
+@attrs.frozen
+class TeenyTinyLlama(GeneratesText):
+    owner: ClassVar[str] = "nicholasKluge"
+    _model: ClassVar[str] = "TeenyTinyLlama-{size}-Chat"
+    size: Literal["460m"] = "460m"
+
+    @property
+    def model(self) -> str:
+        return self._model.format(size=self.size)
+    
+    def text(self, prompt: str) -> str:
+        pipe = self.pipeline("text-generation")
+        instruction = f"<instruction>{prompt}</instruction>"
+        response = pipe(instruction, max_new_tokens=512, do_sample=True, temperature=0.7)
+        return normalize(response[0]["generated_text"].replace(instruction, "", count=1))
