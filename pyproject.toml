@@ -8,3 +8,10 @@ dependencies = [
     "attrs>=25.4.0",
     "transformers>=5.0.0",
 ]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
