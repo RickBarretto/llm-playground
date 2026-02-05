@@ -18,3 +18,13 @@ class AmadeusVerbo(GeneratesText):
     def model(self) -> str:
         return self._model.format(size=self.size)
 
+@attrs.frozen
+class Gaia(GeneratesText):
+    owner: ClassVar[str] = "CEIA-UFG"
+    _model: ClassVar[str] = "Gemma-3-Gaia-PT-BR-{size}-it"
+    size: Literal["4b"] = "4b"
+
+    @property
+    def model(self) -> str:
+        return self._model.format(size=self.size)
+
