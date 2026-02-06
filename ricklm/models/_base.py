@@ -1,4 +1,5 @@
 from functools import lru_cache
+import gc
 from typing import ClassVar
 
 import attrs
@@ -31,3 +32,7 @@ class Model:
         """Clean up memory and cached files before switching models."""
         clear.release_gpu()
         clear.clear_storage(self.id)
+
+    def __del__(self):
+        self.release()
+        gc.collect()
