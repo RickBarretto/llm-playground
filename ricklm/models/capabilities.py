@@ -1,3 +1,4 @@
+import attrs
 from transformers import Pipeline, pipeline
 
 from ricklm.models._base import Model
