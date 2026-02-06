@@ -8,6 +8,13 @@ class Poem:
     style: str = attrs.field()
     title: str = attrs.field(default="", alias="titled")
 
+    def __enter__(self):
+        self.model.__enter__()
+        return self
+
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        self.model.__exit__(exc_type, exc_val, exc_tb)
+
     @property
     def prompt(self) -> str:
         title_part = f' intitulado "{self.title}"' if self.title else ""

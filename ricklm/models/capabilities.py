@@ -11,7 +11,7 @@ class GeneratesText(Model):
     def __enter__(self):
         self._pipe = self.pipeline("text-generation")
         return self
-    
+
     def __exit__(self, exc_type, exc_value, traceback):
         self.pipeline.cache_clear()
         self._pipe = None
