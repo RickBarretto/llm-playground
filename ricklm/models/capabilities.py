@@ -9,7 +9,7 @@ class GeneratesText(Model):
     _pipe: Pipeline | None = None
 
     def __enter__(self):
-        object.setattr(self, "_pipe", self.pipeline("text-generation"))
+        object.__setattr__(self, "_pipe", self.pipeline("text-generation"))
         return self
 
     def __exit__(self, exc_type, exc_value, traceback):
