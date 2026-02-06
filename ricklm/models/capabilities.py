@@ -1,4 +1,3 @@
-import attrs
 from transformers import Pipeline, pipeline
 
 from ricklm.models._base import Model
@@ -10,7 +9,8 @@ class GeneratesText(Model):
     _pipe: Pipeline | None = None
 
     def __enter__(self):
-        return attrs.evolve(self, _pipe=self._pipe)
+        object.setattr(self, "_pipe", self.pipeline("text-generation"))
+        return self
 
     def __exit__(self, exc_type, exc_value, traceback):
         self.pipeline.cache_clear()
