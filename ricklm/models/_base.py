@@ -33,6 +33,3 @@ class Model:
         clear.release_gpu()
         clear.clear_storage(self.id)
 
-    def __del__(self):
-        self.release()
-        gc.collect()
