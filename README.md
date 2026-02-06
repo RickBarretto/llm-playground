@@ -4,12 +4,8 @@ This repository aims to quickly test some AI models using Collab.
 
 ## How to use it
 
-If you want to play with the Language Models,
-open [`playgrounds/`](https://github.com/RickBarretto/llm-playground/tree/main/playgrounds).
-
-You will find Markdown and Jupyter Notebooks. 
-Inside them, you'll find "Open in Collab" or "Chat Playground" links,
-so you can quickly open and play with them.
+On [`play.ipynb`](./play.ipynb) click on "Open in Collab",
+modify as you need and have fun!
 
 ### Prompts
 
