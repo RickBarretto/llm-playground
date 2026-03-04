@@ -64,10 +64,16 @@ def evaluate(
     poem = Poem(by=model, **params)
     with poem:
         for i in range(1, iterations + 1):
-            result = str(poem.full)
+            result = str(poem)
+            
             filepath = output_dir / f"{i}.txt"
             filepath.write_text(result, encoding="utf-8")
+
             print(f"  [{requested}] Saved {filepath.relative_to(root)}")
+
+        prompt_path = output_dir / f"prompt.txt"
+        prompt_path.write_text(poem.prompt, encoding="utf-8")
+        print(f"  [{requested}] Saved prompt to {prompt_path.relative_to(root)}")
 
     return output_dir
 
