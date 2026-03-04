@@ -8,7 +8,7 @@ class Poem:
     style: str = attrs.field()
     title: str = attrs.field(default="", alias="titled")
     context: str = attrs.field(default="", alias="knowing")
-    examples: list[str] = attrs.field(default_factory=list, alias="eg")
+    examples: list[str] = attrs.field(factory=list, alias="eg")
 
 
     def __enter__(self):
