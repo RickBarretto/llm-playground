@@ -1,6 +1,10 @@
+from pathlib import Path
+
 from ricklm.features.github.push import push_to_github
 
 from attrs import frozen
+
+__all__ = ["GitHub", 'Path']
 
 @frozen(kw_only=True)
 class GitHub:
@@ -8,6 +12,7 @@ class GitHub:
     token: str
     username: str
     email: str
+    root: Path = Path(".")
     branch: str = "main"
 
     def push(self, message: str) -> None:
@@ -15,5 +20,5 @@ class GitHub:
             repo=self.repo,
             branch=self.branch,
             message=message,
-            root=Path("."),
+            root=self.root,
         )
