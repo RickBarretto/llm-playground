@@ -23,7 +23,7 @@ class Poem:
         title_part = f' intitulado "{self.title}"' if self.title else ""
         context_part = f" considerando o contexto: {self.context}" if self.context else ""
         examples_part = f" com os seguintes exemplos: {'\n\n---\n\n'.join(self.examples)}" if self.examples else ""
-        return f"Escreva um poema no estilo de {self.style}{title_part}{context_part}{examples_part}."
+        return f"Escreva um poema original no estilo de {self.style}{title_part}{context_part}{examples_part}."
     
     @property
     def full(self) -> str:
