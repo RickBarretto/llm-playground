@@ -94,39 +94,43 @@ def evaluate_all(
 
 # -- GitHub push --------------------------------------------------------------
 
-def _resolve_token(token: str | None) -> str:
-    """Try to obtain a GitHub token from argument → env var → Colab secrets."""
-    if token:
-        return token
+def _resolve_secret(value: str | None, key: str) -> str:
+    """Resolve a secret from argument → env var → Colab userdata secrets."""
+    if value:
+        return value
 
-    from_env = os.environ.get("GITHUB_TOKEN")
+    from_env = os.environ.get(key)
     if from_env:
         return from_env
 
     try:                                       # Colab userdata secrets
         from google.colab import userdata      # type: ignore[import-untyped]
-        secret = userdata.get("GITHUB_TOKEN")
+        secret = userdata.get(key)
         if secret:
             return secret
     except Exception:
         pass
 
     raise ValueError(
-        "GitHub token not found. "
-        "Set GITHUB_TOKEN as an env‑var / Colab secret, or pass token= directly."
+        f"{key} not found. "
+        f"Set {key} as an env‑var / Colab secret, or pass it directly."
     )
 
 
 def push_to_github(
     *,
     token: str | None = None,
+    name: str | None = None,
+    email: str | None = None,
     repo: str = "RickBarretto/llm-playground",
     branch: str = "main",
     message: str = "Add evaluation results",
     root: Path,
 ) -> None:
     """Stage ``evaluations/``, commit, and push to *repo* on *branch*."""
-    token = _resolve_token(token)
+    token = _resolve_secret(token, "GITHUB_TOKEN")
+    name = _resolve_secret(name, "GIT_NAME")
+    email = _resolve_secret(email, "GIT_EMAIL")
     cwd = str(root)
     remote = f"https://x-access-token:{token}@github.com/{repo}.git"
 
@@ -135,6 +139,17 @@ def push_to_github(
             ["git", *args], cwd=cwd,
             check=True, capture_output=True, text=True,
         )
+
+    # Ensure we are inside the cloned repo
+    if not (root / ".git").exists():
+        raise RuntimeError(
+            f"{root} is not a git repository. "
+            "Make sure the repo was cloned first."
+        )
+
+    # Colab has no git identity by default
+    git("config", "user.email", email)
+    git("config", "user.name", name)
 
     git("remote", "set-url", "origin", remote)
     git("add", "evaluations/")
