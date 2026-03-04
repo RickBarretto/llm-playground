@@ -1,5 +1,5 @@
-import ricklm.models
-import ricklm.tasks
-import ricklm.evaluation
+from ricklm import models
+from ricklm import tasks
+from ricklm import features
 
-__all__ = ["models", "tasks", "evaluation"]
+__all__ = ["models", "tasks", "features"]

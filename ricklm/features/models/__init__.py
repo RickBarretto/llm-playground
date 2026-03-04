@@ -2,7 +2,7 @@ from typing import Literal, ClassVar, overload
 
 import attrs
 
-from ricklm.models.capabilities import GeneratesText, normalize
+from ricklm.shared.models.capabilities import GeneratesText, normalize
 
 
 __all__ = ["AmadeusVerbo"]

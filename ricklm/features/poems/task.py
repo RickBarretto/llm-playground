@@ -1,6 +1,9 @@
 import attrs
 
-from ricklm.models.capabilities import GeneratesText
+from ricklm.shared.models.capabilities import GeneratesText
+
+__all__ = ["Poem"]
+
 
 @attrs.frozen(kw_only=True)
 class Poem:

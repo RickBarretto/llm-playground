@@ -1,9 +1,11 @@
 from transformers import Pipeline, pipeline
 
-from ricklm.models._base import Model
+from ricklm.shared.models.base import Model
+
 
 def normalize(response: str) -> str:
     return response.strip().replace("\\n", "\n").replace("\\t", "\t")
+
 
 class GeneratesText(Model):
     _pipe: Pipeline | None = None
