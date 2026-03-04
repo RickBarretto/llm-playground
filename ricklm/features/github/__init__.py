@@ -17,6 +17,9 @@ class GitHub:
 
     def push(self, message: str) -> None:
         push_to_github(
+            token=self.token,
+            name=self.username,
+            email=self.email,
             repo=self.repo,
             branch=self.branch,
             message=message,
