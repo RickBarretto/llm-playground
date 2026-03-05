@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "insuficiente",
+            "justificativa": "O poema usa vocabulário simples e versos curtos, sem a prosa densa, análise histórica ou tom ensaístico e erudito característicos de Euclides da Cunha."
+        },
+        "coerencia_tematica": {
+            "score": "satisfatório",
+            "justificativa": "Mantém um tema central (sertão, Canudos, sofrimento e resiliência) com progressão básica ao longo dos versos."
+        },
+        "metrica_estrutura": {
+            "score": "regular",
+            "justificativa": "Estrutura em versos livres e quadras simples sem regularidade métrica ou escolha formal que remeta ao estilo do autor solicitado."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Algumas repetições e cadência elementar, mas ausência de trabalho sonoro consistente ou uso intencional de rima."
+        },
+        "forca_imagetica_figuras": {
+            "score": "regular",
+            "justificativa": "Imagens genéricas (sol, céu, montanhas) evocam o sertão, mas faltam metáforas originais, densidade e precisão descritiva esperadas."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "regular",
+            "justificativa": "Inspira-se nos temas de Euclides sem replicar trechos, mas não desenvolve voz própria nem aprofundamento formal."
+        },
+        "registro_vocabulario": {
+            "score": "insuficiente",
+            "justificativa": "Registro coloquial e simplista; distante do léxico erudito, técnico e sintaxe elaborada associados a Euclides da Cunha."
+        },
+        "impacto_emocional_literario": {
+            "score": "regular",
+            "justificativa": "Transmite empatia e reconhecimento temático, mas carece de densidade literária e impacto intelectual característicos do autor referenciado."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Euclides da Cunha",
+        "autor_ou_estilo_identificado_no_poema": "Poema genérico de temática regional/ensaiística, voz popular e descritiva simples",
+        "escola_literaria": "Regionalismo / prosa de caráter descritivo (superficial)",
+        "nivel_alinhamento": "baixo",
+        "evidencias_textuais": "Menções explícitas a 'Guerra de Canudos' e 'sertão' indicam referência temática; frases curtas, vocabulário simples ('sol quente', 'céus azuis', 'vida difícil') e falta de construção sintática complexa contradizem a prosa densa e analítica de Euclides."
+    },
+    "analise_critica": "O poema acerta ao escolher temas centrais ligados a Euclides da Cunha (sertão, Canudos, resistência), porém o faz com linguagem e estrutura demasiadamente simples. Falta-lhe a voz ensaística, a erudição léxica e a densidade descritiva que caracterizam o autor pedido; as imagens são genéricas e a construção poética pouco trabalhada. Em suma, atende ao conteúdo tópico, mas não ao estilo nem à profundidade literária esperados.",
+    "veredito_final": "regular",
+    "justificativa_veredito": "O resultado é tematicamente alinhado e legível, mas stylisticamente raso: satisfaz a temática solicitada, porém falha em reproduzir a voz, o registro e a densidade literária de Euclides da Cunha, resultando em qualidade geral mediana."
+}

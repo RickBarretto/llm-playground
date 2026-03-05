@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "insuficiente",
+            "justificativa": "O poema não reproduz a voz de Euclides da Cunha: falta o registro erudito, a sintaxe densa e o olhar ensaístico-histórico; menciona o autor em primeira pessoa, fazendo metalinguagem em vez de emular sua prosódia ou análise social."
+        },
+        "coerencia_tematica": {
+            "score": "satisfatório",
+            "justificativa": "Mantém um tema central — o sertão, a natureza e as lutas — com progressão mínima; porém trata os tópicos de forma genérica e repetitiva, sem aprofundamento histórico ou sociopolítico."
+        },
+        "metrica_estrutura": {
+            "score": "regular",
+            "justificativa": "Apresenta estrofes rimadas e versos curtos, mas sem regularidade métrica consistente; a escolha formal é genérica e não corresponde ao estilo prosaico e analítico de Euclides."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Rimas simples e previsíveis conferem musicalidade elementar, porém parecem forçadas em alguns versos e não enriquecem a densidade sonora exigida pelo referente estilístico."
+        },
+        "forca_imagetica_figuras": {
+            "score": "regular",
+            "justificativa": "Algumas imagens (\"ventos uivam\", \"areias rodam\") são evocativas, mas amplamente clichês; há escasso uso de figuras complexas ou imagens originais que sustentem um olhar crítico sobre o sertão."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "regular",
+            "justificativa": "O poema imita temas associados a Euclides (sertão, lutas) mas faz isso de modo superficial; há pouca voz própria e nenhuma reapropriação estilística profunda."
+        },
+        "registro_vocabulario": {
+            "score": "regular",
+            "justificativa": "Vocabulário simples e contemporâneo, sem o léxico técnico, histórico ou empírico que caracterizaria uma aproximação convincente do registro de Euclides."
+        },
+        "impacto_emocional_literario": {
+            "score": "regular",
+            "justificativa": "Gera sentimento elementar de admiração e nostalgia, mas carece de densidade intelectual e emocional — não provoca reflexão crítica nem a sensação de estranhamento lírico esperada."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Euclides da Cunha",
+        "autor_ou_estilo_identificado_no_poema": "Poesia popular/romântica genérica com influência didática; voz narrativa direta",
+        "escola_literaria": "O autor solicitado pertence ao Realismo/Naturalismo (ensaio histórico), enquanto o poema aproxima-se de uma poesia popular contemporânea",
+        "nivel_alinhamento": "baixo",
+        "evidencias_textuais": "Uso de frases diretas como \"Euclides da Cunha escreveu\" (metalinguagem) em vez de construção ensaística; imagens clichês como \"ventos uivam\" e \"areias rodam\"; estrofação rimada e léxico simples, sem o tom científico-crítico nem a sintaxe periodal típica de 'Os Sertões'."
+    },
+    "analise_critica": "O poema cumpre a tarefa básica de evocar o sertão e os temas associados a Euclides da Cunha, mas o faz por meio de linguagem simplificada, rimas elementares e imagens estereotipadas. Em vez de emular a voz ensaística, erudita e analítica de Euclides — caracterizada por períodos complexos, referências históricas e observação quase científica da paisagem e do conflito social — o texto prefere um tom laudatório e descritivo superficial. A presença explícita do nome do autor torna a peça mais uma homenagem ou explicação do que uma tentativa convincente de escrita no estilo solicitado.",
+    "veredito_final": "regular",
+    "justificativa_veredito": "Alinha-se tematicamente ao pedido, mas falha em reproduzir o registro, a densidade e a estratégia discursiva de Euclides da Cunha; resultado literário é correto em intenção porém raso em execução estilística."
+}
