@@ -1,0 +1,114 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Voz lírica contemplativa com tom didático/inspiracional; narrador coletivo/afirmativo.",
+            "evidencias_no_texto": "Frases como \"A vida é uma jornada sem fim\", \"Então vamos valorizar estes momentos\", e o uso de \"nosso/nós\" indicam um endereço coletivo e aconselhador."
+        },
+        "vocabulario": {
+            "registro": "coloquial-acessível, pontualmente formal",
+            "observacoes": "Predomina vocabulário simples e direto (\"vida\", \"amor\", \"momento(s)\"). Há palavras mais formais/institucionais pontuais (\"reivindicado\", \"profundidade\")."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "verso livre",
+            "padrao_identificado": "irregular — sem contagem silábica ou esquema métrico consistente",
+            "observacoes": "Linhas de extensão variável, sem regularidade em sílabas. Pontuação e quebras criam pequenas pausas mas não um ritmo métrico fixo."
+        },
+        "uso_de_rimas": {
+            "tipo": "predominantemente ausente",
+            "esquema": "sem esquema regular de rimas",
+            "observacoes": "Não há par de rimas consonantes sistemático; eventuais ressonâncias sonoras não formam um esquema deliberado."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "metáfora",
+                "repetição",
+                "personificação",
+                "hipérbole",
+                "anáfora (leve)"
+            ],
+            "exemplos_do_texto": "\"A vida é uma jornada\" (metáfora estruturante); repetição de \"momentos fugazes\"; \"nosso espírito pode subir\" (personificação do espírito); \"um amor que transcende todos\" (hipérbole)."
+        },
+        "temas": {
+            "tema_central": "vida como jornada e a primazia do amor/consolo",
+            "subtemas": [
+                "transitoriedade dos momentos",
+                "sofrimento e redenção/consolo",
+                "caminho interior e paisagem natural como metáfora",
+                "valorização do presente / mensagem moral"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "contemplativo-inspiracional",
+            "justificativa": "Tom majoritariamente tranquilizador e encorajador — reconhece tristeza e dificuldade, mas conclui em conforto e perseverança (ex.: \"Encontramos conforto\", \"o amor sempre prevalecerá\")."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "Poesia contemporânea (final do séc. XX — XXI), tendência popular/inspiracional",
+            "justificativa": "Linguagem direta, verso livre e conteúdo explicitamente moralizante/inspiracional remetem à poesia lírica contemporânea de circulação popular, mais do que a tradição métrica clássica."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Poesia inspiracional / autoajuda (movimento contemporâneo)",
+            "justificativa": "Enfase em consolo, mensagens explícitas de valorização e linguagem acessível, comuns em textos poéticos voltados ao público como orientação emocional.",
+            "elementos_de_correspondencia": [
+                "tom didático e encorajador (\"Então vamos valorizar estes momentos\")",
+                "temática de superação e conforto (\"Encontramos conforto\")",
+                "vocabulário simples e direto"
+            ]
+        },
+        {
+            "nome": "Romantismo popular / lírica romântica simplificada",
+            "justificativa": "Motivos românticos clássicos — jornada, montanhas/vales, amor transcendente — reapropriados em língua simples, aproximando-se do romanticismo em tema, porém sem as construções formais do movimento histórico.",
+            "elementos_de_correspondencia": [
+                "imagens naturais como metáfora (\"montanhas e vales\")",
+                "exaltação do amor (\"Um amor que transcende todos\")",
+                "uso de sentimento e paisagem para efeito emotivo"
+            ]
+        },
+        {
+            "nome": "Verso livre lírico contemporâneo",
+            "justificativa": "Estrutura em versos de extensão variável, ausência de métrica fixa e preferência por enunciados declarativos caracterizam a lírica em verso livre atual.",
+            "elementos_de_correspondencia": [
+                "ausência de esquema métrico ou rimas regulares",
+                "frases curtas e declarações diretas dispersas em estrofes",
+                "repetição e refrão leve (\"momentos fugazes\") como recurso estrutural"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "satisfatório",
+            "justificativa": "O poema mantém unidade temática (jornada/amor/consolo) e progressão lógica, apesar de algumas transições abruptas e repetição literal de versos que enfraquecem a economia discursiva."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "regular",
+            "justificativa": "Imagens e ideias são reconhecíveis e frequentemente clichê (vida = jornada, amor transcendente, montanhas/vales), com poucas imagens inesperadas ou inovadoras."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "regular",
+            "justificativa": "Uso consistente do verso livre é aceitável, mas falta controle rítmico mais refinado e variação formal que poderia sustentar melhor as ideias; pontuação e repetições são por vezes redundantes."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "satisfatório",
+            "justificativa": "Linguagem clara e funcional comunica a mensagem sem barreiras; porém carece de precisão imagética e variedade lexical que elevem o tom poético."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "satisfatório",
+            "justificativa": "O texto se encaixa num perfil reconhecível (poesia inspiracional/verso livre contemporâneo), embora não seja exemplar de uma tradição culta ou experimental definida."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Poema de tom inspiracional e didático, coerente e acessível, porém marcado por lugares-comuns e por estrutura rítmica pouco trabalhada.",
+        "justificativa_geral": "O poema comunica com clareza uma visão consoladora sobre a vida como jornada e a primazia do amor — qualidade útil para leitores que buscam afirmação. Em termos literários, peca pela previsibilidade imagética, repetição desnecessária e falta de rigor formal que poderiam transformar declarações bem-intencionadas em imagens poéticas efetivas.",
+        "pontos_fortes": [
+            "tom acolhedor e claro, de fácil apreensão",
+            "unidade temática consistente (jornada → sofrimento → consolo)",
+            "uso de metáforas tradicionais que facilitam identificação emocional"
+        ],
+        "pontos_a_melhorar": [
+            "reduzir lugares-comuns e buscar imagens mais específicas/originas",
+            "trabalhar ritmo interno e variação formal para evitar monotonia",
+            "eliminar repetições literais ou justificá-las como recurso poético"
+        ]
+    }
+}
