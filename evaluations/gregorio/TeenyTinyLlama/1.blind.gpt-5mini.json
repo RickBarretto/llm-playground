@@ -1,0 +1,114 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Voz lírica e confessional, por vezes moralizadora; alterna introspecção melancólica e apelo coletivo/exortativo.",
+            "evidencias_no_texto": "\"Dos quais o coração bate, a mente faz uma pausa.\" / \"Ah, os pobres são sempre tão desfeitores\" / repetição de \"Então\" que marca apelo e convite."
+        },
+        "vocabulario": {
+            "registro": "Predominantemente coloquial com traços literários; pontuais termos arcaizantes/estranhos.",
+            "observacoes": "Léxico direto e acessível (\"pobres\", \"ricos\", \"coração\", \"música\"); termo atípico/possivelmente incorreto: \"desfeitores\"."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "Verso livre (sem padrão métrico regular evidente)",
+            "padrao_identificado": "Linhas de extensão variável; ausência de contagem silábica regular ou ritmo estritamente decassílabo/alexandrino.",
+            "observacoes": "Algumas repetições anafóricas (\"Então\") criam ritmo interno, mas não compõem um padrão métrico clássico."
+        },
+        "uso_de_rimas": {
+            "tipo": "Ausente/irregular",
+            "esquema": "Não há um esquema de rimas consistente perceptível",
+            "observacoes": "Algumas rimas incidentais por assonância/consonância parcial, porém sem regularidade."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "metáfora",
+                "personificação",
+                "anáfora",
+                "sinestesia",
+                "imagem sensorial"
+            ],
+            "exemplos_do_texto": "\"Deixe a voz ser meu amigo, minha luz orientadora\" (personificação/metáfora); \"Sua carne me dá arrepios na espinha\" (imagem sensorial/sinestesia); repetição de \"Então\" (anáfora)."
+        },
+        "temas": {
+            "tema_central": "Melancolia pessoal alisada por crítica social e busca de consolo através da música/amor",
+            "subtemas": [
+                "disputa entre pobres e ricos / crítica social",
+                "procura de alívio estético (música, voz)",
+                "dualidade melancolia → esperança/alegria",
+                "porto/abrigo como metáfora de paz e graça"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "Melancólico com transição esperançosa",
+            "justificativa": "Predomina a melancolia e sensação de perda/angústia nas primeiras estâncias; nas últimas estrofes surge convite festivo e busca por paz e amor (tom esperançoso/exultante)."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "Romantismo tardio com traços simbolistas",
+            "justificativa": "Predomínio do subjetivismo e exaltação do sentimento (característico do Romantismo) combinado com imagens musicais e sinestésicas e linguagem alusiva, próximas ao Simbolismo."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Gregório de Matos (referência/eco barroco)",
+            "justificativa": "O texto contém crítica social e enunciado moralizante que lembram a tradição satírica/moral do Barroco; além disso o próprio nome aparece no início, sugerindo invocação ou pastiche.",
+            "elementos_de_correspondencia": [
+                "crítica social explícita (pobres × ricos)",
+                "tom moralizante/irônico em passagens",
+                "invocação nominal que remete ao autor histórico"
+            ]
+        },
+        {
+            "nome": "Romanticismo (poética sentimental/exaltada)",
+            "justificativa": "Forte presença da melancolia, ênfase no eu lírico e na busca de consolo amoroso/musical e imagens nostálgicas, traços típicos do Romantismo.",
+            "elementos_de_correspondencia": [
+                "exaltação do sentimento e da saudade",
+                "busca de refúgio em música, amor e natureza simbólica (porto)",
+                "linguagem emotiva e direta"
+            ]
+        },
+        {
+            "nome": "Simbolismo (poetas simbolistas)",
+            "justificativa": "Uso de imagens musicais, sinestésicas e metáforas que priorizam a sugestão do estado interior em vez da descrição objetiva, característica do Simbolismo.",
+            "elementos_de_correspondencia": [
+                "imagens musicais e sinestésicas (voz como luz, música como consolo)",
+                "linguagem alusiva e evocativa",
+                "foco na atmosfera emocional mais do que na narrativa"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "satisfatório",
+            "justificativa": "Tema central (melancolia + crítica social + busca de consolo) é consistente, embora haja transições abruptas entre crítica social e convite festivo sem desenvolvimento pleno."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "regular",
+            "justificativa": "Algumas imagens sensíveis (voz como luz, porto como abrigo) são eficazes, mas muitos motivos (pobres × ricos, música consoladora, convite à alegria) aparecem como lugares-comuns sem reinvenção marcante."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "regular",
+            "justificativa": "Uso de verso livre e recursos rítmicos simples; não há demonstração de controle métrico clássico ou variação formal sofisticada; certa irregularidade frasal prejudica fluidez em pontos."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "satisfatório",
+            "justificativa": "Linguagem clara e direta que comunica emoções com eficiência, porém apresenta escolha lexical imprecisa/estranha em algumas ocorrências (ex.: \"desfeitores\")."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "satisfatório",
+            "justificativa": "O texto mistura elementos de tradição satírica/moral, lirismo romântico e imagens simbolistas; há pistas para estilos reconhecíveis, mas nenhuma filiação estilística rigorosa e unívoca."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Poema com voz emocional clara e imagens sensoriais pontuais, porém marcado por soluções formais e imagéticas convencionais que limitam sua originalidade.",
+        "justificativa_geral": "O poema comunica um estado afetivo coerente (melancolia que evolui para busca de consolo/alegria) e contém imagens eficazes; entretanto, a irregularidade métrica, escolha lexical por vezes imprecisa e a presença de motivos convencionais reduzem seu impacto estético global.",
+        "pontos_fortes": [
+            "Tom emocional claro e presente ao longo do texto",
+            "Imagens sensoriais e sinestésicas eficazes (arrepios, voz como luz)",
+            "Unidade temática básica (melancolia → procura de consolo)"
+        ],
+        "pontos_a_melhorar": [
+            "Rigor formal/ritmo: trabalhar coesão métrica ou ritmo interno mais consistente",
+            "Precisão lexical: revisar termos atípicos/possivelmente incorretos (\"desfeitores\")",
+            "Originalidade imagética: desenvolver imagens e metáforas menos clichês e com maior densidade simbólica"
+        ]
+    }
+}
