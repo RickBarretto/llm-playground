@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "insuficiente",
+            "justificativa": "Voz genérica e otimista; falta a concisão irônica, a densidade metafórica e o ritmo fragmentado característicos de Carlos Drummond de Andrade."
+        },
+        "coerencia_tematica": {
+            "score": "regular",
+            "justificativa": "Temas solicitados (cotidiano, amor, contradição) aparecem, mas sem unidade ou desenvolvimento crítico — estende-se em imagens repetitivas e soltas."
+        },
+        "metrica_estrutura": {
+            "score": "regular",
+            "justificativa": "Verso livre predominante sem regularidade intencional; ausência de escolhas formais marcantes ou de enjambamentos e cortes que construam sentido."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Algumas rimas e repetições sonoras aparecem, porém de modo esporádico e pouco trabalhado, sem contribuição significativa à musicalidade."
+        },
+        "forca_imagetica_figuras": {
+            "score": "regular",
+            "justificativa": "Imagens simples e previsíveis (pássaros, sol, estrelas); escasseiam metáforas originais ou imagens tensionadas que gerem surpresa poética."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "regular",
+            "justificativa": "Poema aproxima-se superficialmente do tema 'cotidiano' mas não apresenta voz própria nem técnicas distintivas; mais clichê que imitação fiel."
+        },
+        "registro_vocabulario": {
+            "score": "satisfatório",
+            "justificativa": "Linguagem simples e acessível, coerente com pedido, porém sem a economia e precisão lexical típicas do autor referenciado."
+        },
+        "impacto_emocional_literario": {
+            "score": "regular",
+            "justificativa": "Gera leve cordialidade, mas falta intensidade reflexiva e tensão emocional profunda que caracterizam poemas memoráveis de Drummond."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Carlos Drummond de Andrade",
+        "autor_ou_estilo_identificado_no_poema": "Voz genérica de poesia cotidiana; sem identificação clara com Drummond",
+        "escola_literaria": "Poesia coloquial / modernismo tardio (aproximação temática, não estilística)",
+        "nivel_alinhamento": "baixo",
+        "evidencias_textuais": "Uso de imagens do quotidiano (café da manhã, pássaros, rua), vocabulário simples e emoções explícitas; ausência de ironia contida, concisão metafórica, sintaxe tensa e figuras surpreendentes presentes em Drummond."
+    },
+    "analise_critica": "O poema atende ao pedido temático de tratar cotidiano, amor e contradições, mas o faz de forma genérica e descritiva. Falta a tensão formal, a precisão imagética e a ambiguidade crítica que definem a poética de Carlos Drummond de Andrade. Estruturalmente o texto flui de modo narrativo e explicativo, sem cortes, lacunas ou sínteses sorvas que produzam intensidade literária. Em suma, cumpre a demanda superficialmente, sem recuperar a voz nem as estratégias expressivas do autor referenciado.",
+    "veredito_final": "regular",
+    "justificativa_veredito": "Poema tem coerência temática e linguagem acessível, mas falha em recriar a voz, a concentração imagética e a originalidade estilística esperadas para uma emulação de Carlos Drummond de Andrade."
+}

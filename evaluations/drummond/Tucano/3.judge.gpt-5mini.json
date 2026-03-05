@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "insuficiente",
+            "justificativa": "Voz, tom e escolhas formais divergentes: linguagem sentimental, imagens grandiloquentes e rimas convencionais contrastam com o tom irônico, urbano e conciso de Carlos Drummond de Andrade."
+        },
+        "coerencia_tematica": {
+            "score": "regular",
+            "justificativa": "Mantém o tema central (amor) com certa unidade, mas o desenvolvimento é repetitivo, discursivo e carece de aprofundamento analítico típico de Drummond."
+        },
+        "metrica_estrutura": {
+            "score": "regular",
+            "justificativa": "Estrutura híbrida e irregular: mistura de versos rimados e blocos prosaicos; falta de controle formal coerente ou intenção moderna que remeta ao verso livre drummondiano."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Há uso frequente de rimas e sonoridade previsível, por vezes forçadas; musicalidade presente, porém conservadora e pouco sofisticada."
+        },
+        "forca_imagetica_figuras": {
+            "score": "regular",
+            "justificativa": "Imagens convencionais (fogo, mar, folhas, farol) são compreensíveis mas pouco originais ou surpreendentes; faltam imagens concretas e deslocamentos semânticos típicos de Drummond."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "insuficiente",
+            "justificativa": "Uso de clichês e presença de verso diretamente reconhecível de tradição clássica indicam baixa originalidade e mistura de influências, sem voz própria na tradição drummondiana."
+        },
+        "registro_vocabulario": {
+            "score": "regular",
+            "justificativa": "Vocabulário simples e acessível, mas com tom excessivamente lírico e geral; não reproduz o registro coloquial-irônico e preciso de Drummond."
+        },
+        "impacto_emocional_literario": {
+            "score": "regular",
+            "justificativa": "Produz resposta emocional imediata por sentimentalismo, porém carece de densidade literária, ambiguidade reflexiva e efeito perdurável característicos do autor pedido."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Carlos Drummond de Andrade",
+        "autor_ou_estilo_identificado_no_poema": "Poesia lírica sentimental/tradicional (com traços de soneto clássico); presença de afetações da tradição renascentista/romântica (linha semelhante a Luís de Camões).",
+        "escola_literaria": "Lírica tradicional/romântica popular, não modernista; aproximação a convenções clássicas de amor lírico.",
+        "nivel_alinhamento": "baixo",
+        "evidencias_textuais": "Primeira linha e imagens são clichês clássicos; versos moralizantes e explicativos, rimas e metáforas previsíveis; ausência de ironia, imagens urbanas, concisão e deslocamentos semânticos típicos de Drummond."
+    },
+    "analise_critica": "O poema segue uma tradição lírica sentimental conservadora: linguagem explicativa, imagens genéricas e rimas presenciais tornam o texto previsível. Falta-lhe o recorte crítico, a economia verbal e a tensão existencial que caracterizam Carlos Drummond de Andrade. Há ainda indícios de apropriação de fórmulas clássicas (linha inicial e clichês), o que compromete originalidade e fidelidade ao pedido. Em suma, funciona como poema de amor genérico, mas não como boa emulação da voz drummondiana.",
+    "veredito_final": "insuficiente",
+    "justificativa_veredito": "O texto não captura os traços centrais da poética de Carlos Drummond — ironia, precisão imagética, registro coloquial e densidade reflexiva — e contém clichês/linhas de tradição clássica que afastam a peça do estilo solicitado; portanto não atende adequadamente ao pedido."
+}

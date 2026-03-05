@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "regular",
+            "justificativa": "Aborda temas caros a Drummond (solidão, tempo, busca de sentido) mas falha na voz: falta concisão, ironia discreta e imagens cotidianas concretas características do autor; o léxico é genérico e moralizante, não reminiscente da singularidade drummondiana."
+        },
+        "coerencia_tematica": {
+            "score": "satisfatório",
+            "justificativa": "Mantém um centro temático (angústia, passagem do tempo, amor/solidão) e há progressão, embora o desenvolvimento seja repetitivo e por vezes vago."
+        },
+        "metrica_estrutura": {
+            "score": "regular",
+            "justificativa": "Predomina verso livre sem marca formal deliberada; há falta de controle rítmico e de escolhas de encadeamento/encavalamento que tornem a estrutura intencional."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Ausência de rima evidente — compatível com verso livre —, mas a sonoridade é muitas vezes prosaica e pouco trabalhada, reduzindo a musicalidade."
+        },
+        "forca_imagetica_figuras": {
+            "score": "regular",
+            "justificativa": "Algumas imagens (\"mar de angústia\", \"teia\", \"labirinto\") existem, mas são clichês e pouco originais; faltam metáforas concretas e concretude sensorial típicas de Drummond."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "regular",
+            "justificativa": "O poema soa derivativo: tenta imitar o tom lírico e o tema existencial, mas não produz uma voz própria nem uma replicação convincente do estilo pedido."
+        },
+        "registro_vocabulario": {
+            "score": "regular",
+            "justificativa": "Variações de registro (palavras mais eruditas e construções coloquiais) aparecem de forma inconsistente; o vocabulário é frequentemente genérico e não afiado como no autor referenciado."
+        },
+        "impacto_emocional_literario": {
+            "score": "regular",
+            "justificativa": "Produz resposta emocional básica (tristeza, melancolia), porém com pouca densidade literária; tende à sentimentalidade explicativa em vez da intensidade discreta e ambígua que marca poemas maiores."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Carlos Drummond de Andrade",
+        "autor_ou_estilo_identificado_no_poema": "Voz lírico-contemplativa genérica da poesia contemporânea (influência modernista superficial), sem identificação forte e reconhecível com Drummond",
+        "escola_literaria": "Modernismo brasileiro / poesia lírica contemporânea (influências difusas)",
+        "nivel_alinhamento": "baixo",
+        "evidencias_textuais": "Uso de fórmulas abstratas e clichês: \"mar de angústia\", \"labirinto\", \"teia\", \"memória póstuma\", frases explicativas como \"Cada lágrima derramada, é um testemunho...\"; ausência de ironia contida, concisão discursiva e imagens cotidianas concretas (minas, cidades, objetos domésticos) típicas de Drummond."
+    },
+    "analise_critica": "O poema acerta ao escolher temas centrais associados a Drummond (solidão, tempo, amor), mas os trata de forma genérica e por vezes didática. Falta a economia verbal, a densidade metafórica e o humor irônico/sabedoria mordaz que caracterizam a voz drummondiana. As imagens são frequentemente vagas e clichês, a estrutura não explora o movimento interno do verso e a linguagem tende ao explicativo. Como peça isolada, funciona como poema sentimental contemporâneo, mas não convence como imitação ou homenagem profunda a Carlos Drummond de Andrade.",
+    "veredito_final": "regular",
+    "justificativa_veredito": "Poema competente em tratar temas adequados, porém carente da originalidade, precisão imagética e da voz poética particulares a Carlos Drummond de Andrade; atende parcialmente ao pedido, mas não o executa com fidelidade estilística."
+}
