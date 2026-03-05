@@ -1,0 +1,116 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Voz satírica e normativa, de denúncia pública; mistura de lirismo coletivo e tom oratório, com momentos de lamentação e invocatórios (apelo à nação).",
+            "evidencias_no_texto": "Uso de endereçamento coletivo e interjeição: \"Ó, Brasil, terra de promessas desfeitas\"; tom de denúncia: \"A praça, palco de fingidas virtudes\"; voz moralizadora: \"Que a voz do grão-de-bico, em crítica afiada, Desperte a consciência\"."
+        },
+        "vocabulario": {
+            "registro": "Elevado/erudito com traços coloquiais pontuais.",
+            "observacoes": "Predomínio de léxico culto: \"pompa\", \"púrpura\", \"brocado\", \"irradia\"; termos acessíveis e imagéticos: \"teatro\", \"serpente\", \"máscara\". Combinação que reforça o tom barroco-satírico."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "Verso rimado com impacto de verso livre/irregular (estrofes isométricas aparentes, sem rigor métrico consistente).",
+            "padrao_identificado": "Quadras com similar comprimento de verso, sem padrão silábico estrito; ritmo cadenciado por pontuação e pausas sintáticas mais que por contagem silábica regular.",
+            "observacoes": "O autor privilegia paralelo sintático e cesuras (orações longas e encadeadas) em vez de um esquema métrico fixo (não há um decassílabo ou alexandrino uniforme claramente mantido)."
+        },
+        "uso_de_rimas": {
+            "tipo": "Rimas incipientes e frequentemente toantes/assonantes; esquema irregular.",
+            "esquema": "Tentativas de rimas pareadas e alternadas em quadras, porém sem coesão estrita (ex.: \"virtudes\" / \"emumina\" não rimam; \"oração\" / \"ilusão\" aproximam-se por assonância).",
+            "observacoes": "O poeta busca musicalidade através de aliterações e repetições mais do que por um esquema de rimas consonantes regular."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "metáfora",
+                "metonímia",
+                "personificação",
+                "anáfora",
+                "hipérbole",
+                "antítese"
+            ],
+            "exemplos_do_texto": "\"A praça, palco de fingidas virtudes\" (metáfora/teatro); \"A corrupção, serpente em teias estreitas\" (metáfora e personificação); repetição anafórica: \"Enquanto\" em estrofes que contrapõem estados sociais; antíteses: \"pompa... esconde a podridão\"."
+        },
+        "temas": {
+            "tema_central": "Denúncia da corrupção e hipocrisia social e religiosa em contexto colonial/nacional.",
+            "subtemas": [
+                "hipocrisia religiosa",
+                "desigualdade e escravidão",
+                "justiça pervertida e falência institucional",
+                "lamento nacional/patriótico"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "Satírico-indignado com matizes elegíacos (lamentoso).",
+            "justificativa": "Predomina a ironia crítica contra autoridades e instituições, mas há também registro de dor e lamento coletivo em expressões como \"Ó, Brasil, terra de promessas desfeitas\"."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "Barroco / Tradicional satírico-colonial (Barroco brasileiro em tom satírico).",
+            "justificativa": "Uso intensivo de imagens contrastantes, linguajar elevadamente moralista, denúncia social dirigida a clero, nobreza e magistratura; teatro/ máscara/serpente como imagens típicas do imaginário barroco-satírico."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Gregório de Matos",
+            "justificativa": "Correspondência forte com a sátira moral e religiosa, denúncia social explícita e imagética barroca; o poema reproduz com fidelidade traços centrais de sua poética satírica.",
+            "elementos_de_correspondencia": [
+                "tom satírico e moralizador",
+                "crítica ao clero e à nobreza",
+                "imagens barrocas (teatro, máscara, podridão, serpente)",
+                "linguagem elevada mesclada a crueza temática"
+            ]
+        },
+        {
+            "nome": "Barroco (tradição sátira moral/colonial)",
+            "justificativa": "O conjunto de estratégias formais e imagéticas (antíteses, hipérboles, personificações, invocações patrióticas) é típico do Barroco crítico aplicado à realidade colonial.",
+            "elementos_de_correspondencia": [
+                "contraste entre aparência e essência (pompa vs podridão)",
+                "uso de invocatórios e exortações",
+                "metáforas carregadas e repertório religioso-moral"
+            ]
+        },
+        {
+            "nome": "Francisco de Quevedo / Satiristas barrocos ibéricos",
+            "justificativa": "Afinidade com o registro mordaz e moralizante, uso de imagens ferozes para expor corrupção e viciosidade pública — um parentesco estilístico fora do contexto luso-brasileiro estrito, porém verossímil.",
+            "elementos_de_correspondencia": [
+                "sátira social e pessoal com linguagem áspera",
+                "metáforas cáusticas (serpente, podridão)",
+                "tom acusatório e afiado"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "satisfatório",
+            "justificativa": "O poema mantém linha temática clara e encadeamento lógico entre estrofes (vítimas, agentes e instituições), embora haja variações de qualidade imagética e alguns elos métricos irregulares."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "regular",
+            "justificativa": "As imagens e figuras (máscara, serpente, teatro, hipocrisia religiosa) são eficazes, mas recorrentes na tradição satírica-barroca; surge pouco material formalmente inovador."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "regular",
+            "justificativa": "Há controle do fraseamento e cadência por meio de pontuação e anáforas, mas a métrica e o esquema de rimas são irregulares, o que indica domínio parcial das formas clássicas sem rigor meticuloso."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "satisfatório",
+            "justificativa": "Vocabulário adequado ao registro pretendido, mistura de termo erudito e imagens diretas; construção sintática geralmente correta, com alguns versos mais forçados na sonoridade."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "excelente",
+            "justificativa": "A convergência de tom, escolha de imagens, e alvo da crítica (clero, nobreza, justiça, escravidão) corresponde fortemente a um modelo barroco-satírico identificável."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Imitação vigorosa e eficaz de um padrão barroco-satírico, com voz crítica pronunciada, mas com originalidade limitada e forma métrica pouco rigorosa.",
+        "justificativa_geral": "O poema funciona bem como peça de denúncia: a voz é coerente e o repertório imagético reforça a crítica social e moral. Entretanto, muitas soluções são convencionais da tradição satírica e a execução formal (métrica e rima) é irregular, o que reduz um pouco o impacto estético global.",
+        "pontos_fortes": [
+            "Tom satírico e indignado coerente e persistente.",
+            "Imagens barrocamente eficazes (máscara, teatro, serpente) que reforçam a mensagem.",
+            "Clareza temática e progressão argumental entre estrofes."
+        ],
+        "pontos_a_melhorar": [
+            "Aprofundar imagens originais ou giros metafóricos menos previsíveis.",
+            "Maior precisão métrica e coerência de rimas para fortalecer a musicalidade.",
+            "Aperfeiçoar algumas formulações sintáticas para evitar versos sonoramente forçados."
+        ]
+    }
+}

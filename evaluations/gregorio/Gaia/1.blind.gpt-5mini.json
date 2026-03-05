@@ -1,0 +1,116 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Voz denunciadora, profética e confessional; tom jeremíaco e moralizante.",
+            "evidencias_no_texto": "Formas exclamativas e invocatórias ('Deus me livre', 'Que Deus nos guie'), perguntas retóricas ('Quem nos salvará...?'), e apelos diretos à consciência."
+        },
+        "vocabulario": {
+            "registro": "Formal e culto, com recursos coloquiais esporádicos; pontuações religiosas e jurídicas.",
+            "observacoes": "Predomínio de léxico moral/religioso ('Deus', 'padre', 'fé'), jurídico ('lei', 'justiça') e social ('nobreza', 'escravo'); presença ocasional de palavra estrangeira ('malheur') que cria estranhamento estilístico."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "Verso livre com tentativas de cadência regular em estrofes quatrainas.",
+            "padrao_identificado": "Não há métrica constante; alternância entre linhas mais longas e curtas, com ritmo predominantemente anafórico e sintático (orações paralelas).",
+            "observacoes": "O autor privilegia o ritmo retórico e a repetição anafórica sobre uma métrica fixa; a musicalidade surge mais pelo paralelismo e pela pontuação do que por contagem silábica regular."
+        },
+        "uso_de_rimas": {
+            "tipo": "Rimas consoantes ocasionais e rimas imperfeitas; esquema irregular.",
+            "esquema": "Rimas terminales recorrentes em -ão aparecem em vários pares (ostentação/corrupção), mas o padrão não é sistemático por estrofe.",
+            "observacoes": "O poema mistura finais rimados com versos soltos, priorizando o efeito enfático em passagens-chave em vez de manter esquema fixo."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "metáfora",
+                "personificação",
+                "anáfora",
+                "antítese",
+                "perífrase",
+                "pergunta retórica"
+            ],
+            "exemplos_do_texto": "'A justiça, em seu trono de pedra, / É cega e muda' (personificação); 'A lei, em papel, é um espinho' (metáfora); repetições como 'E o homem...' e 'Que Deus...' (anáfora); contraste entre 'beleza' e 'podridão' (antítese)."
+        },
+        "temas": {
+            "tema_central": "Crítica social à hipocrisia e à corrupção institucional",
+            "subtemas": [
+                "hipocrisia religiosa e do clero",
+                "injustiça social e exploração (pobre, escravo)",
+                "decadência moral da nobreza e da lei",
+                "convocação à consciência individual e coletiva",
+                "despertar/iluminação como remédio ético"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "Amargurado / Acusatório",
+            "justificativa": "Predomina a indignação moral, a lamentação e o horror (exclamações, interrogações retóricas) dirigidos às instituições e à condição humana."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "Tradição protestatária do século XIX e vocabulário jeremíaco (Romantismo social / sátira barroca); também afinidades com poesia profética/engajada",
+            "justificativa": "A combinação de invectiva social, apelo religioso e tom moralista remete a poesias de denúncia do século XIX (jeremiads e poesias abolicionistas) e a práticas satíricas críticas do Barroco; não há traço forte de experimentalismo modernista."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Castro Alves (ou tradição abolicionista/jeremíaca do século XIX)",
+            "justificativa": "Proximidade temática e de tom: denúncia social veemente, apelo contra a escravidão/exploração e uso de grande retórica emocional.",
+            "elementos_de_correspondencia": [
+                "tom exaltado e moralizante",
+                "apelos retóricos e exclamativos",
+                "foco em injustiça social e sofrimento dos oprimidos"
+            ]
+        },
+        {
+            "nome": "Gregório de Matos (barroco satírico)",
+            "justificativa": "Afinidade na denúncia corrosiva das instituições (igreja, nobreza), na sátira moral e no ataque direto à hipocrisia social.",
+            "elementos_de_correspondencia": [
+                "satírico-moral contra clero e elite",
+                "linguagem acusatória e imagens de podridão/degeneração",
+                "uso de metáforas agressivas e invectiva"
+            ]
+        },
+        {
+            "nome": "William Blake / poesia profética e visionária",
+            "justificativa": "Semelhança no tom profético, nas invocações divinas e na crítica à religião institucionalizada e ao poder como corruptor.",
+            "elementos_de_correspondencia": [
+                "voz profética e visionária",
+                "antagonismo entre fé autêntica e poder religioso corrompido",
+                "uso de imagens moralizantes e simbólicas"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "satisfatório",
+            "justificativa": "Progressão temática clara (observação → denúncia → apelo → desespero), embora alguns saltos imagéticos diminuam a fluidez localmente."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "regular",
+            "justificativa": "Temas e imagens são convencionais na tradição de poesia de denúncia; há imagens fortes ('lei... é um espinho') mas também lugares-comuns e fórmulas retóricas esperadas."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "regular",
+            "justificativa": "Controle retórico evidente (anáforas, ritmo discursivo), porém sem rigor métrico ou inovação formal marcante; rimas e cadência são irregulares."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "satisfatório",
+            "justificativa": "Léxico apropriado ao tema, claro e contundente; pequena inconsistência estilística (palavra estrangeira isolada) e repetição de fórmulas reduzem excelência."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "satisfatório",
+            "justificativa": "O poema encaixa-se bem na tradição jeremíaca/satírica de crítica social, tornando sua filiação estilística perceptível e coerente."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Poema eficaz na denúncia moral, mas pouco inovador formalmente.",
+        "justificativa_geral": "A voz é convincente e emocionalmente contundente — a peça funciona como invectiva social: identifica agentes (nobreza, clero, lei) e convoca a consciência. Contudo, a dependência de fórmulas retóricas e imagens tradicionais e a irregularidade métrica impedem que alcance maior originalidade literária.",
+        "pontos_fortes": [
+            "Voz potente e coerente de denúncia",
+            "Imagens metafóricas diretas e memoráveis (justiça cega; lei-espinho)",
+            "Boa progressão temática com fechamento autorreflexivo"
+        ],
+        "pontos_a_melhorar": [
+            "Ritmo e métrica: homogenizar o ritmo ou adotar métrica mais deliberada",
+            "Reduzir lugares-comuns e tentar imagens mais originais/concretas",
+            "Ajustar léxico inconsistente (evitar termos estranhos sem função evidente, ex.: 'malheur')"
+        ]
+    }
+}
