@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "insuficiente",
+            "justificativa": "Voz genérica e explicitamente declarativa ('Para Drummond, o poeta'), sem a ironia, precisão imagética e ambiguidade reflexiva típicas de Carlos Drummond de Andrade."
+        },
+        "coerencia_tematica": {
+            "score": "regular",
+            "justificativa": "Há unidade temática (cotidiano, tempo, solidão), mas o desenvolvimento é superficial e previsível, sem aprofundamento conceitual ou mudança significativa ao longo do poema."
+        },
+        "metrica_estrutura": {
+            "score": "regular",
+            "justificativa": "Verso livre simples e estrofação regular; porém as quebras e a inclinação rítmica não apresentam a economia e a tensão formal frequentemente presentes em Drummond."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Ausência de rima estruturada; sonoridade funcional mas pouco trabalhada — falta musicalidade sofisticada ou dissonância intencional."
+        },
+        "forca_imagetica_figuras": {
+            "score": "insuficiente",
+            "justificativa": "Imagens genéricas ('o sol nasce lentamente', 'ruas movimentadas') e metáforas banais que não provocam imagens originais nem densidade simbólica."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "insuficiente",
+            "justificativa": "Imitação superficial e óbvia do tema, sem invenção própria; presença de auto-referência explícita ao autor reduz a autenticidade."
+        },
+        "registro_vocabulario": {
+            "score": "regular",
+            "justificativa": "Linguagem simples e acessível, compatível com o registro de Drummond, mas uso excessivamente plano e pouco preciso no vocabulário poético."
+        },
+        "impacto_emocional_literario": {
+            "score": "insuficiente",
+            "justificativa": "Pouca ressonância emocional ou intelectual: o poema informa mais do que move, carecendo de imagens ou enunciados que gerem surpresa ou profundidade."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Carlos Drummond de Andrade",
+        "autor_ou_estilo_identificado_no_poema": "voz genérica da poesia contemporânea coloquial; aproximação superficial de temática cotidiana",
+        "escola_literaria": "Poesia moderna/contemporânea brasileira (registro coloquial)",
+        "nivel_alinhamento": "baixo",
+        "evidencias_textuais": "Frases descritivas e diretas ('Na quietude da manhã', 'Nas ruas movimentadas'), ausência de imagens inéditas; verso auto-referencial 'Para Drummond, o poeta' evidencia tentativa explícita de associação em vez de assimilação estilística."
+    },
+    "analise_critica": "O poema cumpre o pedido básico ao tratar de temas caros a Drummond (cotidiano, tempo, solidão), mas o faz de modo didático e prosaico, sem as sutilezas formais, a densidade imagética e a tensão discursiva que caracterizam o poeta. A presença de uma linha que nomeia o autor torna a composição ainda mais dependente da referência, em vez de transpor características estilísticas para uma voz própria. Em suma: tem conteúdo tematicamente alinhado, porém pobre em execução poética.",
+    "veredito_final": "regular",
+    "justificativa_veredito": "O texto é competente quanto ao tema, porém falha significativamente na recriação da voz, imagética e intensidade literária de Carlos Drummond de Andrade — resulta numa peça adequada como rascunho temático, mas insuficiente como emulação estilística convincente."
+}

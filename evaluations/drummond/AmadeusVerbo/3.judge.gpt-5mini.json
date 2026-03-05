@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "insuficiente",
+            "justificativa": "Voz genérica e moralizante; faltam ironia, concisão e imagens cotidianas precisas típicas de Carlos Drummond de Andrade."
+        },
+        "coerencia_tematica": {
+            "score": "satisfatório",
+            "justificativa": "Mantém tema central (vida, amor, passagem do tempo) de forma clara, mas sem desenvolvimento profundo ou tensão temática."
+        },
+        "metrica_estrutura": {
+            "score": "regular",
+            "justificativa": "Verso livre simples e regular; ausência das quebras, sintaxe fragmentada e ritmo característicos de Drummond."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Uso esporádico e pouco intencional de sonoridade; musicalidade elementar que não contribui a um efeito distintivo."
+        },
+        "forca_imagetica_figuras": {
+            "score": "regular",
+            "justificativa": "Imagens genéricas (ruas, homem, farol) sem originalidade nem metáforas contundentes que criem surpresa ou densidade."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "regular",
+            "justificativa": "Poema imita um tom lírico sentimental, mas não incorpora traços específicos do autor; soa derivativo, não criativo."
+        },
+        "registro_vocabulario": {
+            "score": "satisfatório",
+            "justificativa": "Linguagem simples e acessível, coerente com o pedido, porém sem a precisão coloquial ou ironia histórica de Drummond."
+        },
+        "impacto_emocional_literario": {
+            "score": "regular",
+            "justificativa": "Evoca leve emoção e conforto, mas carece de densidade literária e de surpresa interpretativa para impacto duradouro."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Carlos Drummond de Andrade",
+        "autor_ou_estilo_identificado_no_poema": "poética lírico-senten‎timental genérica (influência de poesia popular contemporânea)",
+        "escola_literaria": "poesia lírica contemporânea / sentimentalismo moderno",
+        "nivel_alinhamento": "baixo",
+        "evidencias_textuais": "Uso de declarações explícitas ('Ele nos lembra', 'devemos aproveitar'), imagens vagas ('homem com um coração tão puro', 'farol brilhante') e tom consolatório em vez de ironia, ambiguidade e imagens cotidianas concretas presentes em Drummond."
+    },
+    "analise_critica": "O poema atende ao tema proposto (vida, amor, passagem do tempo) com linguagem simples e tom reconfortante, mas falha em reproduzir traços distintivos de Carlos Drummond de Andrade: ausência de ironia reflexiva, concisão lapidar, imagens cotidianas precisas e tensão entre o coloquial e o filosófico. Predomina um lirismo explicativo e moralizante que resulta em lugares-comuns e reduz a profundidade literária esperada.",
+    "veredito_final": "regular",
+    "justificativa_veredito": "Poema competente em clareza e registro simples, porém derivativo e distante do estilo específico solicitado; atende parcialmente ao pedido temático, mas não captura a voz nem a originalidade de Drummond."
+}
