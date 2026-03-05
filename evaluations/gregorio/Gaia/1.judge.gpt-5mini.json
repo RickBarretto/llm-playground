@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "regular",
+            "justificativa": "Aborda os temas caros a Gregório de Matos (corrupção, clero, hipocrisia) porém falha em reproduzir a voz barroca mordaz, a ironia afiada e o léxico arcaizante do autor."
+        },
+        "coerencia_tematica": {
+            "score": "satisfatório",
+            "justificativa": "Mantém um núcleo temático claro (denúncia da corrupção e hipocrisia) com progressão temática, embora apresente digressões e finais mais genéricos."
+        },
+        "metrica_estrutura": {
+            "score": "regular",
+            "justificativa": "Versificação irregular sem escolha formal barroca evidente (redondilhas/sonetos) nem rigor métrico; opta por estrofes quadrilíneas livres."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Existem rimas e padrões sonoros, mas são inconsistentes e pouco trabalhadas em comparação com a musicalidade barroca esperada."
+        },
+        "forca_imagetica_figuras": {
+            "score": "satisfatório",
+            "justificativa": "Uso de metáforas e imagens (véu, espelho, trono de pedra) eficazes porém frequentemente genéricas, sem o virtuosismo e a originalidade metafórica típicos do Barroco."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "regular",
+            "justificativa": "Inspirado nos temas satíricos de Gregório, mas produz uma voz mais moderna e genérica; não há imitação direta de versos, nem voz autoral distintiva forte."
+        },
+        "registro_vocabulario": {
+            "score": "regular",
+            "justificativa": "Léxico contemporâneo e claro, pouco arcaico ou erudito; presença de termo estrangeiro ('malheur') cria anacronismo e quebra de registro."
+        },
+        "impacto_emocional_literario": {
+            "score": "satisfatório",
+            "justificativa": "Provoca indignação moral e compõe imagens críticas, mas carece da acidez, concisão e mordacidade que aumentariam o impacto literário."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Gregório de Matos",
+        "autor_ou_estilo_identificado_no_poema": "poesia satírica moralista de tradição barroca/critico-social (voz contemporânea e genérica)",
+        "escola_literaria": "Barroco (satírico) — aproximado tematicamente, não estilisticamente",
+        "nivel_alinhamento": "médio",
+        "evidencias_textuais": "Temas presentes: ataque à nobreza e ao clero ('o padre... rouba o tesouro'), denúncia da justiça cega ('A justiça, em seu trono de pedra'), metáforas morais ('véu de artifício', 'espelho da realidade'); porém idioma moderno, ausência de ironia cortante e uso anacrônico ('malheur')."
+    },
+    "analise_critica": "O poema cumpre o requisito temático de denunciar corrupção, hipocrisia e decadência moral, retomando tópicos centrais de Gregório de Matos. Todavia a execução estilística é contemporânea e desarmada: falta a mordacidade, o jogo retórico barroco, o léxico arcaico/erudito e a precisão imagética que caracterizam o autor. A métrica e as rimas surgem de forma pontual e irregular, e há escolhas anacrônicas que fragilizam a verossimilhança histórica-estilística. Em suma, trata-se de um poema crítico competente em conteúdo, porém insuficiente como imitação convincente da voz barroca e satírica de Gregório de Matos.",
+    "veredito_final": "regular",
+    "justificativa_veredito": "Atende ao pedido em termos temáticos (denúncia social e sátira), mas não reproduz plenamente os recursos formais, o tom mordaz e o registro barroco esperados; resultado adequado em conteúdo, limitado em fidelidade estilística."
+}
