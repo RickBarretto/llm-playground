@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "excelente",
+            "justificativa": "A voz satírica, o tom moralizante, a crítica social à Bahia mercantil e o léxico de feição seiscentista reproduzem com precisão traços centrais de Gregório de Matos."
+        },
+        "coerencia_tematica": {
+            "score": "excelente",
+            "justificativa": "Há unidade clara em torno da decadência da cidade e da corrupção pelos interesses comerciais, com progressão coesa do lamento inicial ao fecho irônico e censório."
+        },
+        "metrica_estrutura": {
+            "score": "excelente",
+            "justificativa": "O texto adota estrutura de soneto clássico (2 quartetos e 2 tercetos), com construção métrica e formal compatível com a tradição barroca luso-brasileira."
+        },
+        "rimas_sonoridade": {
+            "score": "satisfatório",
+            "justificativa": "As rimas e ecos sonoros sustentam boa musicalidade e reforçam a argumentação satírica; há predomínio de amarração formal consistente ao gênero."
+        },
+        "forca_imagetica_figuras": {
+            "score": "satisfatório",
+            "justificativa": "Emprega antíteses, apóstrofe e ironia de modo eficaz, com imagens de degradação econômica e moral; a força expressiva é sólida, embora mais crítica do que imagética no sentido sensorial."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "insuficiente",
+            "justificativa": "O poema corresponde a texto canônico de Gregório de Matos (reprodução direta), não a uma criação nova em seu estilo; portanto, falha no equilíbrio entre inspiração e autoria própria."
+        },
+        "registro_vocabulario": {
+            "score": "excelente",
+            "justificativa": "O registro arcaizante, a sintaxe inversa e o vocabulário erudito-satírico estão plenamente ajustados ao recorte histórico-estético do autor solicitado."
+        },
+        "impacto_emocional_literario": {
+            "score": "excelente",
+            "justificativa": "O poema produz impacto crítico e intelectual elevado, com densidade retórica e vigor de denúncia social característicos do melhor Gregório satírico."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Gregório de Matos",
+        "autor_ou_estilo_identificado_no_poema": "Gregório de Matos (poema atribuível diretamente ao autor)",
+        "escola_literaria": "Barroco",
+        "nivel_alinhamento": "alto",
+        "evidencias_textuais": "Soneto satírico de dicção seiscentista; apóstrofe à Bahia ('Triste Bahia!'); crítica à mercantilização ('máquina mercante', 'negócio e negociante'); antíteses entre passado próspero e presente degradado; fecho moralizante e irônico."
+    },
+    "analise_critica": "O texto apresenta altíssima aderência ao estilo pedido porque, na prática, é o próprio modelo gregoriano em sua forma e dicção. No entanto, para a tarefa de geração 'ao estilo de', há problema central: não há reinvenção, mas reprodução de peça conhecida. Assim, a qualidade literária intrínseca é alta, porém a adequação como produção original é comprometida.",
+    "veredito_final": "regular",
+    "justificativa_veredito": "Embora literariamente forte e plenamente alinhado ao universo de Gregório de Matos, o resultado falha no critério de originalidade por reproduzir um poema consagrado em vez de criar um novo texto no estilo solicitado."
+}

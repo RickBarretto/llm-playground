@@ -1,0 +1,117 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Voz lírica com forte componente cívico-satírico: o eu poético se dirige diretamente à cidade, fundindo lamento pessoal e crítica social.",
+            "evidencias_no_texto": "Apostrofe em \"Triste Bahia!\"; paralelismo entre sujeito e cidade em \"Estás e estou\"; autorretrato ligado ao coletivo em \"Pobre te vejo a ti, tu a mi empenhado\"."
+        },
+        "vocabulario": {
+            "registro": "Erudito e arcaizante, com marcas lexicais de português antigo e campo semântico mercantil-colonial.",
+            "observacoes": "Formas como \"a mi\", \"trocou-te\", \"fora\" (valor verbal antigo), além de termos como \"máquina mercante\", \"negócio\", \"negociante\", \"drogas\" e \"Brichote\"."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "Versos decassilábicos em forma fixa de soneto.",
+            "padrao_identificado": "Dois quartetos e dois tercetos, com cadência regular e sintaxe invertida (hipérbatos) que reforça solenidade e tensão.",
+            "observacoes": "Predomina ritmo clássico, com encadeamentos sintáticos longos e pausas enfáticas por exclamações e vocativos."
+        },
+        "uso_de_rimas": {
+            "tipo": "Rimas consoantes, externas, regulares.",
+            "esquema": "ABBA ABBA CDE CDE",
+            "observacoes": "Nos quartetos: \"dessemelhante/abundante\" e \"estado/empenhado/entrado/trocado\"; nos tercetos: \"excelente/repente\", \"abelhuda/sisuda\", \"Brichote/capote\"."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "apóstrofe",
+                "antítese",
+                "paralelismo",
+                "anáfora/repetição",
+                "hipérbato",
+                "personificação"
+            ],
+            "exemplos_do_texto": "\"Triste Bahia!\" (apóstrofe); \"Rica te vi eu já\" vs \"Pobre te vejo\" (antítese); \"A ti... / A mim...\" (paralelismo); \"trocou-te... trocando, e tem trocado\" (repetição); cidade tratada como interlocutora (personificação)."
+        },
+        "temas": {
+            "tema_central": "Decadência de uma ordem anterior e crítica aos efeitos do comércio sobre a cidade e o sujeito.",
+            "subtemas": [
+                "nostalgia de um passado próspero",
+                "corrupção de valores por interesses mercantis",
+                "dependência econômica e troca desigual",
+                "fusão entre crise individual e crise coletiva"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "Melancólico, indignado e satírico.",
+            "justificativa": "O poema inicia em lamento e perda, evolui para denúncia do \"negócio\" e encerra com ironia crítica na imagem do \"capote\" de algodão."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "Barroco luso-brasileiro (século XVII).",
+            "justificativa": "Forma soneto regular, contraste e conceptismo (antíteses, engenho verbal), sintaxe invertida e tom moralizante-satírico."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Gregório de Matos",
+            "justificativa": "A combinação de sátira social, crítica à Bahia colonial, dicção barroca e soneto de forte antítese aproxima diretamente desse perfil autoral.",
+            "elementos_de_correspondencia": [
+                "vocativo direto à Bahia",
+                "léxico mercantil com viés crítico",
+                "tensão entre passado idealizado e presente degradado",
+                "agudeza satírica em fecho irônico"
+            ]
+        },
+        {
+            "nome": "Barroco luso-brasileiro (movimento)",
+            "justificativa": "O texto apresenta marcas estruturais e retóricas típicas do período: forma fixa, contraste, engenho conceitual e dramatização do conflito histórico-moral.",
+            "elementos_de_correspondencia": [
+                "soneto com rimas regulares",
+                "antíteses recorrentes",
+                "hipérbatos e construções sintáticas complexas",
+                "tom moral e crítico"
+            ]
+        },
+        {
+            "nome": "Francisco de Quevedo",
+            "justificativa": "Semelhança de atitude satírico-moral e condensação conceptista, com crítica social mediada por jogos de oposição e contundência verbal.",
+            "elementos_de_correspondencia": [
+                "agressividade crítica contra práticas econômicas",
+                "concisão argumentativa em forma clássica",
+                "uso de contrastes para produzir efeito de desengano"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "excelente",
+            "justificativa": "Há progressão clara: invocação da cidade, comparação passado/presente, diagnóstico causal (comércio) e fecho irônico coerente com a crítica."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "satisfatório",
+            "justificativa": "O tema da decadência urbana e moral é tradicional, mas ganha força criativa na fusão entre destino pessoal e destino da cidade e no fechamento imagético."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "excelente",
+            "justificativa": "Estrutura de soneto sólida, rimas consoantes estáveis e ritmo controlado, com variações sintáticas que enriquecem a dicção sem romper a forma."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "excelente",
+            "justificativa": "Vocabulário preciso para o campo histórico-econômico e alta densidade retórica; o arcaísmo funciona como traço de época e elevação estilística."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "excelente",
+            "justificativa": "O poema exibe com nitidez um repertório barroco satírico-conceptista, facilmente reconhecível por forma, linguagem e estratégia argumentativa."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Excelente realização poética em chave satírico-barroca.",
+        "justificativa_geral": "O texto combina forma rigorosa, força crítica e imagética eficaz para representar decadência histórica e moral, mantendo unidade expressiva do início ao fim.",
+        "pontos_fortes": [
+            "integração entre experiência individual e crítica coletiva",
+            "domínio técnico do soneto e das rimas",
+            "uso expressivo de antíteses e paralelismos",
+            "fecho irônico memorável"
+        ],
+        "pontos_a_melhorar": [
+            "alta densidade sintática pode dificultar leitura imediata para leitores contemporâneos",
+            "dependência de referências históricas e lexicais de época pode reduzir transparência sem contextualização"
+        ]
+    }
+}
