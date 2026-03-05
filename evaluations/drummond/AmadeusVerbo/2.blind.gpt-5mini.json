@@ -1,0 +1,113 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Voz lírica e contemplativa com tom interlocutório e didático; alterna observação descritiva e apelo coletivo.",
+            "evidencias_no_texto": "Versos como \"Na quietude da manhã\" e \"Então, vamos aproveitar o dia, / Com amor e bondade em nossos corações\" mostram observação lírica seguida de endereço direto ao leitor."
+        },
+        "vocabulario": {
+            "registro": "Coloquial e acessível",
+            "observacoes": "Léxico simples e cotidiano: termos como \"manhã\", \"ruas movimentadas\", \"amor\", \"propósito\" privilegiam clareza em detrimento de erudição."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "Verso livre",
+            "padrao_identificado": "Ausência de esquema métrico regular ou contagem silábica consistente; versos de extensão variável (majoritariamente curtos a médios).",
+            "observacoes": "Ritmo marcado por frases completas por verso e pausas sintáticas; não há medida fixa (ex.: \"A vida é fugaz,\" vs. \"Nas ruas movimentadas,\")."
+        },
+        "uso_de_rimas": {
+            "tipo": "Ausente / esporádico",
+            "esquema": "Sem esquema de rimas perceptível",
+            "observacoes": "O poema não recorre a rimas consonantes ou toantes regimentadas; predomina o encadeamento prosaico."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "metáfora",
+                "imagens cotidianas",
+                "apóstrofe (chamamento ao leitor)",
+                "generalização reflexiva"
+            ],
+            "exemplos_do_texto": "\"A vida é fugaz\" (metáfora); \"o tempo voa rápido\" (metáfora/imagenização); \"Então, vamos aproveitar o dia\" (apóstrofe/convite)."
+        },
+        "temas": {
+            "tema_central": "Reflexão sobre a condição humana: transitoriedade e busca de sentido",
+            "subtemas": [
+                "cotidiano urbano (ruas, manhã)",
+                "solidão e encontro amoroso",
+                "tempo e efemeridade",
+                "convite à ação ética (amor, bondade) e procura de propósito"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "Contemplativo com picos de melancolia e um desfecho esperançoso",
+            "justificativa": "O texto oscila entre observações melancólicas (\"A vida é fugaz\", \"Outros ficam sozinhos\") e uma proposta de otimismo prático no final (chamada a \"aproveitar o dia\" com \"amor e bondade\")."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "Poesia moderna/contemporânea de registro coloquial (século XX–XXI)",
+            "justificativa": "Linguagem direta, verso livre e temática existencial cotidiana remetem ao modernismo e à poesia lírica contemporânea que valoriza o coloquial e a reflexão urbana."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Carlos Drummond de Andrade",
+            "justificativa": "Afinidade temática com a reflexão sobre a vida urbana, inquietação existencial e tom conversacional; o poema até evoca diretamente 'Drummond' em uma estrofe, sugerindo inspiração ou homenagem.",
+            "elementos_de_correspondencia": [
+                "tom meditativo e urbano",
+                "frases curtas e coloquiais",
+                "preocupação com a condição humana e busca de sentido"
+            ]
+        },
+        {
+            "nome": "Mário Quintana (ou poética afim)",
+            "justificativa": "Uso de linguagem simples, aforística e tom amável/aconselhador que alterna leve melancolia e ternura, características presentes na obra de Quintana e poetas de tom similar.",
+            "elementos_de_correspondencia": [
+                "vocabulário acessível e coloquial",
+                "sentido aforístico em sentenças breves (ex.: \"A vida é fugaz\")",
+                "final reconfortante e didático"
+            ]
+        },
+        {
+            "nome": "Poesia lírica contemporânea de registro popular / inspiração motivacional",
+            "justificativa": "Estrutura e linguagem remetem a poemas de circulação ampla e propósito edificante, próximos de textos poético-inspiracionais contemporâneos que privilegiam a clareza e o apelo direto ao leitor.",
+            "elementos_de_correspondencia": [
+                "apelo coletivo ('vamos')",
+                "imagens do cotidiano facilmente identificáveis",
+                "mensagem ética/encorajadora explícita"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "satisfatório",
+            "justificativa": "As estrofes conectam-se logicamente (da manhã → ruas → reflexão → referência ao poeta → apelo final), embora algumas transições sejam diretas e pouco trabalhadas."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "regular",
+            "justificativa": "Temas e imagens (tempo que voa, vida fugaz, busca de propósito) são convencionais e formulados com frases-clichê, oferecendo pouca surpresa imagética ou linguística."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "regular",
+            "justificativa": "Opção por verso livre é coerente, mas não há demonstração de controle formal complexo (métrica, ritmos calculados ou sonoridades trabalhadas)."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "satisfatório",
+            "justificativa": "Linguagem clara e funcional; escolha lexical adequada ao efeito comunicativo pretendido, porém pouco variada ou distintiva."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "satisfatório",
+            "justificativa": "Há correspondência com traços do modernismo/poesia coloquial brasileira e com vozes como Drummond ou Quintana, mas a identificação não é forte porque o discurso é genérico."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Satisfatório — poema comunicativo, íntimo e bem-intencionado, porém pouco original e formalmente modesto.",
+        "justificativa_geral": "O texto cumpre sua função comunicativa: descreve imagens cotidianas, evoca reflexão existencial e encerra com um convite ético. Contudo, recorre a fórmulas e lugares-comuns que reduzem a potência poética e a singularidade da voz. Falta trabalho mais inventivo sobre linguagem, imagens e sonoridade para elevar o poema a uma ordem superior.",
+        "pontos_fortes": [
+            "Clareza e acessibilidade do discurso",
+            "Tom acolhedor e convite ético convincente",
+            "Coerência temática do início ao fim"
+        ],
+        "pontos_a_melhorar": [
+            "Evitar expressões clichê (ex.: \"o tempo voa rápido\", \"a vida é fugaz\") buscando imagens mais originais",
+            "Trabalhar sonoridade e ritmo interno (aliterações, repetições, variações métricas) para ganhar musicalidade",
+            "Aprofundar ou problematizar o apelo final em vez de encerramento explicativo, para aumentar ambiguidade produtiva e força poética"
+        ]
+    }
+}
