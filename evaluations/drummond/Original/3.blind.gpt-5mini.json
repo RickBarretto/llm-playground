@@ -1,0 +1,113 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Voz narrativa com forte viés irônico e distanciado, próxima do dramático-narrativo, sem confissão íntima direta.",
+            "evidencias_no_texto": "Encadeamento objetivo de ações e destinos: \"João amava Teresa... que não amava ninguém\"; fechamento metapoético e irônico: \"que não tinha entrado na história\"."
+        },
+        "vocabulario": {
+            "registro": "Predominantemente coloquial e cotidiano, com simplicidade lexical.",
+            "observacoes": "Nomes próprios comuns, construções diretas e ausência de ornamento erudito; termos cotidianos como \"Estados Unidos\", \"convento\", \"desastre\", \"ficou para tia\"."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "Verso livre",
+            "padrao_identificado": "Ritmo baseado em repetição sintática e enumeração encadeada, com aceleração narrativa.",
+            "observacoes": "A anáfora de \"que amava\" e a listagem de destinos finais organizam a cadência mais do que contagem silábica regular."
+        },
+        "uso_de_rimas": {
+            "tipo": "Rimas ausentes (sem esquema tradicional)",
+            "esquema": "Não há esquema rimático fixo",
+            "observacoes": "A musicalidade vem do paralelismo e da repetição, não de rima sonora terminal."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "anáfora",
+                "paralelismo",
+                "enumeração",
+                "ironia",
+                "anticlímax"
+            ],
+            "exemplos_do_texto": "Anáfora/paralelismo em \"que amava... que amava...\"; enumeração de personagens e destinos; ironia no desfecho \"que não tinha entrado na história\"; anticlímax no desajuste entre cadeia amorosa e finais prosaicos/trágicos."
+        },
+        "temas": {
+            "tema_central": "Desencontro amoroso e frustração afetiva.",
+            "subtemas": [
+                "acaso e contingência dos destinos",
+                "banalização do trágico",
+                "solidão e não reciprocidade",
+                "crítica irônica à idealização romântica"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "Irônico-melancólico, com traço satírico.",
+            "justificativa": "O poema combina enredo de frustrações e tragédias com dicção seca e quase humorística, produzindo melancolia filtrada pela ironia."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "Modernismo brasileiro (fase de consolidação, poesia de linguagem coloquial e anti-retórica)",
+            "justificativa": "Uso de verso livre, linguagem simples, humor crítico e ruptura com solenidade parnasiana/simbolista sugerem poética modernista."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Carlos Drummond de Andrade",
+            "justificativa": "A combinação de coloquialidade, ironia estrutural e visão desencantada do cotidiano aproxima-se fortemente de uma dicção drummondiana.",
+            "elementos_de_correspondencia": [
+                "verso livre com narrativa breve",
+                "humor seco e anticlímax",
+                "tematização do desencontro humano"
+            ]
+        },
+        {
+            "nome": "Modernismo brasileiro (2ª geração poética)",
+            "justificativa": "Predomínio de linguagem corrente, economia expressiva e crítica implícita às idealizações amorosas, em forma sintaticamente inovadora.",
+            "elementos_de_correspondencia": [
+                "anti-ornamentalismo",
+                "quebra de expectativas líricas tradicionais",
+                "foco no cotidiano e na experiência urbana/social"
+            ]
+        },
+        {
+            "nome": "Manuel Bandeira (afinidade estilística parcial)",
+            "justificativa": "Há proximidade no uso de aparente simplicidade formal para produzir efeito emotivo-irônico e na naturalidade da fala poética.",
+            "elementos_de_correspondencia": [
+                "dicção simples e direta",
+                "tom entre coloquial e melancólico",
+                "efeito poético obtido por montagem sintática, não por metrificação rígida"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "excelente",
+            "justificativa": "A estrutura encadeada mantém unidade lógica do início ao fim e culmina em fechamento coerente com a proposta irônica."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "excelente",
+            "justificativa": "Transforma uma cadeia amorosa simples em dispositivo formal expressivo, com final metanarrativo inesperado."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "satisfatório",
+            "justificativa": "Não há metrificação tradicional nem rimas, mas há controle rítmico eficiente por repetição e paralelismo."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "excelente",
+            "justificativa": "Vocabulário econômico e preciso, adequado ao efeito de naturalidade e ironia, sem excessos."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "excelente",
+            "justificativa": "O conjunto de verso livre, coloquialismo e ironia configura assinatura clara de poética modernista brasileira."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Poema de alta qualidade literária, de concisão exemplar e grande eficácia expressiva.",
+        "justificativa_geral": "Com poucos versos, articula forma e conteúdo de modo rigoroso: a repetição cria ritmo, a narrativa produz tensão e o desfecho irônico amplia o sentido crítico sobre amor, acaso e destino.",
+        "pontos_fortes": [
+            "estrutura formal coesa e memorável",
+            "ironia sofisticada com linguagem simples",
+            "alto rendimento poético em extensão curta"
+        ],
+        "pontos_a_melhorar": [
+            "pode soar excessivamente narrativo para leitores que esperam imagética mais sensorial",
+            "ausência de variedade sonora (rimas/métrica fixa) pode reduzir apelo para leitura mais musical tradicional"
+        ]
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Voz lírica de forte traço confessional e reflexivo, com momentos de autoironia e observação crítica do cotidiano urbano.",
+            "evidencias_no_texto": "Marcas de subjetividade em primeira pessoa: \"Quando nasci\", \"meu coração\", \"Eu não devia te dizer\"; autoironia em \"ser gauche na vida\"; tensão existencial em \"Meu Deus, por que me abandonaste\"."
+        },
+        "vocabulario": {
+            "registro": "Predominantemente coloquial com inserções de densidade simbólica e religiosa.",
+            "observacoes": "Léxico simples e direto (\"bonde\", \"pernas\", \"bigode\", \"conhaque\") combinado a expressões de maior carga abstrata (\"vasto mundo\", \"me abandonaste\"). Mistura de oralidade e elaboração poética."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "Verso livre",
+            "padrao_identificado": "Irregularidade métrica deliberada, com variação de extensão dos versos e pausas sintáticas que organizam o ritmo em blocos.",
+            "observacoes": "O ritmo nasce de cortes, enumerações e repetições (\"Mundo mundo vasto mundo\"), não de contagem silábica fixa."
+        },
+        "uso_de_rimas": {
+            "tipo": "Rimas esparsas e ocasionais, com predominância de ausência de esquema fixo.",
+            "esquema": "Sem esquema regular; ocorrência pontual de aproximações sonoras como \"Raimundo/mundo\".",
+            "observacoes": "A sonoridade é sustentada mais por repetição, paralelismo e cadência frasal do que por rima sistemática."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "personificação",
+                "anáfora",
+                "paradoxo/antítese",
+                "hipérbole",
+                "metonímia/sinédoque",
+                "ironia"
+            ],
+            "exemplos_do_texto": "Personificação: \"As casas espiam os homens\". Anáfora/repetição: \"Mundo mundo vasto mundo\"; \"mas essa lua / mas esse conhaque\". Hipérbole: \"mais vasto é meu coração\". Sinédoque: \"bonde passa cheio de pernas\". Ironia e contraste: \"seria uma rima, não seria uma solução\"."
+        },
+        "temas": {
+            "tema_central": "Desajuste do eu diante do mundo e da experiência moderna.",
+            "subtemas": [
+                "solidão e inadequação existencial",
+                "urbanidade e fragmentação da percepção",
+                "desejo e corpo no espaço público",
+                "crise espiritual",
+                "autoimagem e identidade",
+                "embriaguez emocional e vulnerabilidade afetiva"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "Melancólico-irônico, com inflexões de angústia e comoção.",
+            "justificativa": "Há um eu vulnerável e deslocado (\"ser gauche\"), atravessado por tristeza, perplexidade e humor amargo; o fecho explicita comoção intensa (\"botam a gente comovido como o diabo\")."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "Modernismo (fase de consolidação da poesia moderna em língua portuguesa, com viés urbano e subjetivo).",
+            "justificativa": "Verso livre, linguagem antirretórica, cotidiano urbano, coloquialismo, ironia e reflexão existencial são traços típicos de poesia moderna do século XX."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Carlos Drummond de Andrade (proximidade estilística)",
+            "justificativa": "O texto combina coloquialismo, autoironia, tensão existencial e cenas urbanas em verso livre, com dicção muito próxima da lírica drummondiana.",
+            "elementos_de_correspondencia": [
+                "Expressão de inadequação do sujeito: \"ser gauche na vida\"",
+                "Fusão de cotidiano e metafísica: \"bonde\", \"pernas\" versus \"Meu Deus\" e \"vasto mundo\"",
+                "Repetição enfática e construção reflexiva: \"Mundo mundo vasto mundo\""
+            ]
+        },
+        {
+            "nome": "Mário de Andrade / vertente modernista brasileira de 1922-30",
+            "justificativa": "Há ruptura com métrica e rima tradicionais, incorporação da vida urbana e tom coloquial, marcas centrais da estética modernista brasileira.",
+            "elementos_de_correspondencia": [
+                "Verso livre e ritmo por sintaxe",
+                "Linguagem próxima da fala",
+                "Observação crítica da cidade e dos costumes"
+            ]
+        },
+        {
+            "nome": "Manuel Bandeira (afinidade parcial de tom)",
+            "justificativa": "A simplicidade vocabular, a confessionalidade e a emoção contida, por vezes atravessada por humor, aproximam-se de um lirismo moderno intimista.",
+            "elementos_de_correspondencia": [
+                "Dicção aparentemente simples com alta carga afetiva",
+                "Convivência de coloquialismo e gravidade existencial",
+                "Fecho emotivo sem solenidade clássica"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "excelente",
+            "justificativa": "Apesar da estrutura fragmentada em cenas, o poema mantém unidade pelo eixo do eu deslocado e pela recorrência de motivos (mundo, desejo, inadequação, coração)."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "excelente",
+            "justificativa": "Imagens inesperadas e memoráveis (\"anjo torto\", \"bonde cheio de pernas\") e soluções expressivas irônicas (\"rima\" versus \"solução\") revelam alta inventividade."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "satisfatório",
+            "justificativa": "Não há virtuosismo métrico tradicional, mas há controle consistente do verso livre, da pausa e da repetição como recursos estruturantes."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "excelente",
+            "justificativa": "A linguagem é econômica, precisa e expressiva; articula fala cotidiana e densidade simbólica sem artificialidade."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "excelente",
+            "justificativa": "O texto se inscreve com nitidez em uma poética moderna brasileira: urbana, coloquial, introspectiva e ironicamente crítica."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Poema de alta qualidade literária, com grande força expressiva e consistência estética.",
+        "justificativa_geral": "A obra articula com maestria experiência íntima e observação social, explorando verso livre, imagens originais e uma voz lírica singularmente irônica e vulnerável. O resultado é um texto de forte impacto emocional e grande permanência interpretativa.",
+        "pontos_fortes": [
+            "Voz poética marcante e coerente",
+            "Imagens de grande originalidade",
+            "Equilíbrio entre coloquialismo e profundidade existencial",
+            "Ritmo eficaz sem dependência de métrica fixa"
+        ],
+        "pontos_a_melhorar": [
+            "Menor exploração de variações sonoras sistemáticas (rima/esquema fônico regular), caso esse fosse um objetivo formal específico",
+            "A fragmentação pode desafiar leitores que esperam progressão narrativa linear"
+        ]
+    }
+}
