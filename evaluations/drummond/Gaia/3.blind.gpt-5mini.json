@@ -1,0 +1,115 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Voz contemplativa e observadora, com traços confessionais e um leve distanciamento irônico; fala em primeira pessoa plural ocasionalmente ('A gente') e em primeira pessoa singular implícita na atitude reflexiva.",
+            "evidencias_no_texto": "Frases como \"A gente busca sentido...\", \"Talvez, um pouco mais, eu me levante.\" e a observação impassível \"E a certeza, pequena e incômoda, / De que o mundo continua, indiferente.\""
+        },
+        "vocabulario": {
+            "registro": "coloquial-literário",
+            "observacoes": "Predomina linguagem cotidiana e acessível (\"café\", \"xícara\", \"jornal\", \"rua\", \"a gente\"), pontuada por imagens poéticas simples (\"um pequeno e quente céu\"). Pouco uso de palavras eruditas; tom doméstico e direto."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "verso livre",
+            "padrao_identificado": "ausência de esquema métrico regular; linhas de extensão variável que seguem cadência conversacional",
+            "observacoes": "Ritmo baseado em pausas sintáticas e quebra de linhas mais do que em contagem silábica; lê-se com andamento introspectivo, quase prosaico em alguns trechos."
+        },
+        "uso_de_rimas": {
+            "tipo": "ausentes / irregular",
+            "esquema": "sem esquema de rima regular",
+            "observacoes": "Não há padrão de rima consistente; predomina a sonoridade por repetição lexical e imagens correlatas em vez de rimas formais."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "metáfora",
+                "personificação",
+                "sinestesia",
+                "paradoxo",
+                "enumeração/assíndeto"
+            ],
+            "exemplos_do_texto": "\"A xícara, um pequeno e quente céu.\" (metáfora/sinestesia); \"E a rua, lá fora, já se espreguiça.\" (personificação); \"O café da manhã é um rumor.\" (metáfora); sequência de imagens quotidianas em lista nas primeiras estrofes (enumeração)."
+        },
+        "temas": {
+            "tema_central": "solidão e busca de sentido na rotina cotidiana",
+            "subtemas": [
+                "passagem do tempo",
+                "indiferença do mundo",
+                "memória e lembrança",
+                "rituais domésticos como locus de sentido"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "melancólico e contemplativo, com pitada de ironia resignada",
+            "justificativa": "Predomina uma sensação de tristeza moderada e introspecção (\"Hoje, a solidão é um cobertor pesado.\") combinada com observações secas sobre a continuidade indiferente do mundo (\"o mundo continua, indiferente\")."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "moderno / contemporâneo (século XX–XXI)",
+            "justificativa": "Verso livre, foco no cotidiano urbano, linguagem coloquial e tom existencial combinam com tendências da poesia moderna e da lírica urbana contemporânea."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Carlos Drummond de Andrade (aproximação estilística)",
+            "justificativa": "Similaridade no tratamento do cotidiano urbano, ironia contida, tom melancólico-observador e uso de imagens simples para explorar inquietações existenciais.",
+            "elementos_de_correspondencia": [
+                "imagens domésticas e urbanas (café, jornal, rua)",
+                "voz irônica/resignada",
+                "linguagem coloquial com profundidade reflexiva",
+                "verso livre e cadência conversacional"
+            ]
+        },
+        {
+            "nome": "Modernismo / Poesia urbana do século XX",
+            "justificativa": "A ênfase na linguagem do dia a dia e na experiência urbana, aliada à livre disposição do verso, remete ao modernismo e à tradição de poetas que tornaram o cotidiano tema central.",
+            "elementos_de_correspondencia": [
+                "uso de imagens cotidianas como matéria poética",
+                "ruptura com métrica rígida",
+                "tom reflexivo e socialmente situado"
+            ]
+        },
+        {
+            "nome": "Poesia lírico-confessional contemporânea",
+            "justificativa": "A presença de reflexões íntimas e memórias mescladas a observações objetivas do entorno aproxima o poema de vozes confessionais/íntimas contemporâneas.",
+            "elementos_de_correspondencia": [
+                "foco na experiência pessoal e sensação de solidão",
+                "tom direto e auto-revelador em muitos versos",
+                "valorização do detalhe cotidiano como caminho para o existencial"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "satisfatório",
+            "justificativa": "O poema mantém unidade temática e progressão lógica (do café/rotina para reflexão existencial), embora apresente momentos de imagem que flutuam sem resolução formal."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "regular",
+            "justificativa": "Imagens e temas (café, solidão, indiferença do mundo) são eficazes mas amplamente explorados na tradição poética; há imagens simples e sensíveis, porém poucas soluções metafóricas inesperadas."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "satisfatório",
+            "justificativa": "Uso competente do verso livre e de pausas para controlar o ritmo; não há experimentação métrica complexa nem marca técnica que denote grande ousadia formal."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "satisfatório",
+            "justificativa": "Linguagem clara, adequada ao tom; escolhas vocabulares favorecem a comunicação emocional, embora não apresentem grande austeridade estilística ou a força de imagens lexicalmente inusitadas."
+        },
+        "aderencia_a_um_estilo_reconocivel": {
+            "nivel": "satisfatório",
+            "justificativa": "O poema evoca de forma plausível a tradição de poesia urbana e melancólica (semelhanças claras com vozes conhecidas), mas não reproduz traços distintivos fortes o bastante para uma imitação perfeita."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Poema com boa ressonância emocional e voz estável, porém com originalidade moderada.",
+        "justificativa_geral": "O texto constrói de maneira consistente um estado de espírito melancólico a partir de imagens cotidianas e controladas recursos poéticos; funciona bem como peça reflexiva e evocativa, embora dependa de imagens e temas recorrentes na tradição e raramente surpreenda formalmente.",
+        "pontos_fortes": [
+            "voz observadora e plausível que sustenta o poema",
+            "imagens cotidianas bem trabalhadas que conectam leitor e cenário",
+            "tom emocional coerente (melancolia/ironia resignada)"
+        ],
+        "pontos_a_melhorar": [
+            "buscar imagens metafóricas mais originais ou tensionadas",
+            "introduzir variações rítmicas ou formaliais para aumentar impacto",
+            "elevar o nível de densidade poética em trechos-chave para evitar familiaridade excessiva"
+        ]
+    }
+}

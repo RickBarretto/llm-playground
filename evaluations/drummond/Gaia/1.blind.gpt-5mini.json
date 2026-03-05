@@ -1,0 +1,113 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Voz íntima, confessional e contemplativa, com traços irônicos e distanciação reflexiva.",
+            "evidencias_no_texto": "Uso da primeira pessoa ('E eu, aqui, com a janela'), afirmações prosaicas e reflexivas ('Não há razão para o que é.'), e observação serena do cotidiano (café, janela, rua)."
+        },
+        "vocabulario": {
+            "registro": "coloquial / cotidiano",
+            "observacoes": "Léxico simples e direto, sem termos eruditos; escolhas de palavras que privilegiam a clareza e a imediaticidade (café, janela, pássaro, rua, sorriso)."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "verso livre",
+            "padrao_identificado": "não há métrica regular; versos de extensão variável e pausas marcadas por quebras de linha e estrofes curtas",
+            "observacoes": "Ritmo marcado mais por cadência sintática e pausas do que por contagem silábica regular; predominância de frases curtas e enunciados fragmentados que criam um compasso contemplativo."
+        },
+        "uso_de_rimas": {
+            "tipo": "ausente",
+            "esquema": "sem esquema de rimas regular",
+            "observacoes": "Não há rimagem consistente; o poema recorre mais a assonâncias, repetições temáticas e paralelismos do que a rimas formais."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "metáfora",
+                "paradoxo",
+                "personificação",
+                "imagem sinestésica"
+            ],
+            "exemplos_do_texto": "a chuva não lava a memória do sol (paradoxo/personificação); o pássaro que trazia esperança e torna-se peso no peito (metáfora paradoxal); a rua corre, um rio de rostos e passos (metáfora/síntese imagética); fio desfiado, sorriso no espelho (imagens sinestésicas e simbólicas)."
+        },
+        "temas": {
+            "tema_central": "memória, passagem do tempo e a perda/transformação da esperança",
+            "subtemas": [
+                "solidão e observação urbana",
+                "contradição entre atitude e sensação (promessa vs. peso)",
+                "dúvida existencial e ausência de sentido"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "melancólico, contemplativo",
+            "justificativa": "Predomínio de imagens de peso e perda, registro intimista, frases como 'um peso no peito', 'a dúvida constante' e o tom resignado das conclusões."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "modernismo brasileiro / poesia contemporânea (século XX–XXI)",
+            "justificativa": "Uso de verso livre, linguagem coloquial, foco no cotidiano urbano e tom existencial remete à tradição modernista brasileira e à poesia lírico-reflexiva contemporânea."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Carlos Drummond de Andrade",
+            "justificativa": "Voz confessional e urbana, ironia contida, imagens do cotidiano transformadas em elos existenciais e tom resignado lembram fortemente Drummond.",
+            "elementos_de_correspondencia": [
+                "primeira pessoa reflexiva",
+                "imagens urbanas e domésticas (janela, rua, café)",
+                "contradição entre cotidiano trivial e angústia existencial",
+                "linguagem direta com profundidade aforística ('Não há razão para o que é.')"
+            ]
+        },
+        {
+            "nome": "Mário Quintana",
+            "justificativa": "Economia verbal, ternura melancólica e simplicidade imagética que transformam objetos comuns em símbolos de saudade e dúvida.",
+            "elementos_de_correspondencia": [
+                "vocabulário acessível",
+                "tom nostálgico-suave",
+                "uso de pequenas imagens domésticas como núcleo emotivo"
+            ]
+        },
+        {
+            "nome": "Movimento: Poesia lírico-contemplativa contemporânea / Modernismo tardio",
+            "justificativa": "Estratégias formais (verso livre, foco no cotidiano, fragmentação) e temas existenciais posicionam o texto dentro de uma tradição moderna/contemporânea mais ampla.",
+            "elementos_de_correspondencia": [
+                "verso livre e fluxo discursivo fragmentado",
+                "temática da memória e do tempo",
+                "priorização da voz íntima e observacional"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "satisfatório",
+            "justificativa": "O poema mantém unidade temática e progressão lógica entre imagens (chuva → café → pássaro → rua → conclusão), embora haja pequenas passagens que funcionam como coleções de imagens mais do que como desenvolvimento narrativo."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "satisfatório",
+            "justificativa": "Algumas imagens (o 'peso do pássaro', a chuva que não lava a memória do sol) são sugestivas e eficazes, mas o conjunto recorre a tópicos e oposições já bastante conhecidos na tradição lírica, reduzindo a sensação de novidade."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "regular",
+            "justificativa": "Uso competente do verso livre e das quebras de linha para criar ritmo, porém sem invenção formal marcante; a variação rítmica poderia ser mais trabalhada para intensificar o efeito poético."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "satisfatório",
+            "justificativa": "Linguagem clara e adequada ao tom, com escolhas vocabulares que favorecem a imediaticidade; faltam, porém, imagens lexicais mais ousadas ou giros expressivos que elevem o discurso."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "excelente",
+            "justificativa": "A opção por coloquialidade, ironia contida, imagens urbanas e introspecção conferem forte afinidade com vozes modernistas brasileiras reconhecíveis, especialmente a de Drummond."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Poema lírico e introspectivo, bem escrito e coeso, com tom melancólico que funciona; eficaz na evocação do cotidiano transformado em reflexão existencial, mas pouco inovador em termos de originalidade formal e imagética.",
+        "justificativa_geral": "O texto demonstra controle do tom e das imagens, conseguindo transmitir uma sensação clara de perda e dúvida através de elementos familiares do cotidiano. A aderência a modelos consagrados faz com que o poema seja reconhecível e comovente, embora a dependência de temas e figuras já muito exploradas limite seu impacto inovador.",
+        "pontos_fortes": [
+            "voz íntima e consistente",
+            "imagens acessíveis e emocionalmente ressonantes (pássaro/peso, chuva/memória)",
+            "clara unidade temática e tonal"
+        ],
+        "pontos_a_melhorar": [
+            "maior risco imagético e lexical para aumentar originalidade",
+            "variação rítmica e sintática mais pronunciada para intensificar música interna",
+            "fecho mais surpreendente ou trabalhado que dê novo desdobramento à metáfora central"
+        ]
+    }
+}
