@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "regular",
+            "justificativa": "Captura temas centrais (sertão, Canudos, engenheiro, sofrimento) mas falha em reproduzir a voz ensaística densa, a sintaxe longa e o tom cientificista e retórico característicos de Euclides da Cunha."
+        },
+        "coerencia_tematica": {
+            "score": "satisfatório",
+            "justificativa": "Mantém tema central da aridez, violência histórica e sofrimento humano com progressão clara do cenário para a reflexão social."
+        },
+        "metrica_estrutura": {
+            "score": "regular",
+            "justificativa": "Verso livre consistente, mas sem escolha métrica ou formal deliberada que remeta à prática do autor (que não escrevia poesia formalmente), resultando em estrutura pouco impositiva."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Ausência de esquema de rimas; sonoridade simples e por vezes prosaica, sem elaboração musical marcada que realce ritmo ou cadência específica."
+        },
+        "forca_imagetica_figuras": {
+            "score": "satisfatório",
+            "justificativa": "Imagens evocativas (\"cinza do cume\", \"tronco rachado\", \"poços profundos\") funcionam bem para transmitir aridez e sofrimento, embora algumas imagens sejam convencionais."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "regular",
+            "justificativa": "Há dependência explícita de referências históricas (Guerra de Canudos, engenheiro) e leituras diretas do tema, sem voz própria suficientemente distinta da mera imitação temática."
+        },
+        "registro_vocabulario": {
+            "score": "satisfatório",
+            "justificativa": "Vocabulário adequado ao tema regional e histórico (\"sertanejo\", \"poeira\", \"carne seca\"), porém carece da erudição e do léxico técnico-científico que marcam o registro de Euclides."
+        },
+        "impacto_emocional_literario": {
+            "score": "satisfatório",
+            "justificativa": "Produz resposta emocional de melancolia e indignação; tem densidade afetiva, mas falta a profundidade analítica e a ambivalência moral típicas do autor."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Euclides da Cunha",
+        "autor_ou_estilo_identificado_no_poema": "Verso poético contemporâneo influenciado por temas de Euclides da Cunha (regionalismo, Canudos), sem reprodução fiel da voz ensaística original",
+        "escola_literaria": "Regionalismo/Realismo-Naturalismo com tom ensaístico referenciado",
+        "nivel_alinhamento": "médio",
+        "evidencias_textuais": "Menções diretas: \"Guerra de Canudos\", \"engenheiro\"; temática: aridez, sertanejo, violência histórica; tom: desolação e diagnóstico social, mas sem sintaxe longa ou discurso científico (ausência de períodos analíticos e léxico técnico)."
+    },
+    "analise_critica": "O poema atende ao pedido no que tange aos temas e ao clima do sertão — aridez, sofrimento humano e referência a Canudos — e produz imagens eficazes. Entretanto, confunde afinidade temática com emulação estilística: não reproduz a prosa ensaística, a densidade argumentativa nem a cadência retórica de Euclides da Cunha. O resultado é um poema competente e atmosférico, mas mais próximo de uma peça poética contemporânea inspirada no sertão do que de uma voz convincente de Euclides.",
+    "veredito_final": "satisfatório",
+    "justificativa_veredito": "O poema cumpre a proposta temática e cria imagens plausíveis, demonstrando entendimento do contexto histórico e regional, mas não alcança fidelidade estilística plena à voz complexa e ensaística de Euclides da Cunha; por isso é adequado porém não exemplar."
+}
