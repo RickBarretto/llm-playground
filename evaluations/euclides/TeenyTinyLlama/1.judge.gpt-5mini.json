@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "insuficiente",
+            "justificativa": "Não reproduz a voz de Euclides: falta sintaxe densa, léxico erudito/regional e análise sociopolítica do sertão; tom é laudatório e genérico."
+        },
+        "coerencia_tematica": {
+            "score": "regular",
+            "justificativa": "Há um tema central (elogio a 'Euclides') mas falta unidade com o contexto solicitado (sertão, Canudos, análise histórica) e fraca progressão temática."
+        },
+        "metrica_estrutura": {
+            "score": "regular",
+            "justificativa": "Versos de ritmo irregular e rimas simples; ausência de escolha formal que remeta à prosa ensaística ou à densidade sintática característica do autor."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Há rimas e sonoridade simples que tornam o poema previsível; uso não é subtil nem evocativo do autor referenciado."
+        },
+        "forca_imagetica_figuras": {
+            "score": "regular",
+            "justificativa": "Imagens (sol, rio, fogo, mar) são genéricas e pouco evocativas do sertão; figuras de linguagem superficiais e clichês."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "regular",
+            "justificativa": "Não copia versos conhecidos, mas também não desenvolve uma voz própria dentro da tradição euclidiana; aproximação superficial."
+        },
+        "registro_vocabulario": {
+            "score": "insuficiente",
+            "justificativa": "Vocabulário plano e moderno, sem o tom erudito, técnico e regional que marca Euclides da Cunha."
+        },
+        "impacto_emocional_literario": {
+            "score": "regular",
+            "justificativa": "Provoca resposta emocional leve por ser reverente, mas carece de densidade literária e de conflito moral/histórico que engaje mais profundamente."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Euclides da Cunha",
+        "autor_ou_estilo_identificado_no_poema": "Poesia laudatória genérica (tom romântico/popular), sem traços marcantes de Euclides",
+        "escola_literaria": "Realismo/Naturalismo (regionalista)",
+        "nivel_alinhamento": "baixo",
+        "evidencias_textuais": "Frases simples e elogiosas ('justo e sábio', 'poder dos livros'); referências dispersas (Salvador, canaviais, mar) em vez de imagens sertanejas, ausência de sintaxe analítica/ensaística e de terminologia social/histórica."
+    },
+    "analise_critica": "O poema falha em incorporar as características centrais de Euclides da Cunha: não há a densidade descritiva, o olhar científico-histórico sobre o sertão, nem o léxico e a sintaxe complexa que informam sua prosa. Em vez disso, apresenta versos curtos, rimas simples e clichês laudatórios. Há imagens básicas que funcionam isoladamente, mas não se articulam em análise social ou panorâmica geográfica exigida pelo pedido.",
+    "veredito_final": "insuficiente",
+    "justificativa_veredito": "Diverge significativamente do estilo solicitado: falta profundidade, registro e conteúdo regional-histórico essenciais a uma aproximação convincente de Euclides da Cunha."
+}

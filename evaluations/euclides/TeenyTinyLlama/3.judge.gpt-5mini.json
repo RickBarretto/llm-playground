@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "insuficiente",
+            "justificativa": "Linguagem simples e genérica; ausência do tom ensaístico, erudito e da densidade histórico-política característica de Euclides da Cunha."
+        },
+        "coerencia_tematica": {
+            "score": "regular",
+            "justificativa": "Toca temas gerais (terra, luta, solidão) mas sem foco nem desenvolvimento consistente sobre o sertão ou a Guerra de Canudos."
+        },
+        "metrica_estrutura": {
+            "score": "regular",
+            "justificativa": "Versos irregulares e sem projeto métrico claro; parece verso livre informal sem organização deliberada."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Rimas ocasionais e previsíveis; sonoridade simples que não contribui para profundidade nem remete ao registro do autor pedido."
+        },
+        "forca_imagetica_figuras": {
+            "score": "regular",
+            "justificativa": "Imagens genéricas (areias, campo árido) pouco originais e pouco evocativas; figuras de linguagem rasas."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "regular",
+            "justificativa": "Não há cópia direta, mas também não há uma voz própria que recrie autenticamente o estilo de Euclides; resulta em imitação superficial."
+        },
+        "registro_vocabulario": {
+            "score": "insuficiente",
+            "justificativa": "Vocabulário coloquial e contemporâneo; falta do léxico técnico, descritivo e arcaizante que marca a escrita de Euclides."
+        },
+        "impacto_emocional_literario": {
+            "score": "insuficiente",
+            "justificativa": "Produz impacto leve e otimista; carece de densidade intelectual e emocional esperada para o tema e para o autor referenciado."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Euclides da Cunha",
+        "autor_ou_estilo_identificado_no_poema": "Poesia pastoral/romântica genérica de registro contemporâneo",
+        "escola_literaria": "vanguarda popular / poesia contemporânea leve (influência romântica superficial)",
+        "nivel_alinhamento": "baixo",
+        "evidencias_textuais": "Uso de frases curtas e lugar-comum ('campo árido', 'terras antigas'); ausência de referências históricas (Canudos), análises sociopolíticas e do tom ensaístico; sintaxe simples e vocabulario coloquial; menção pontual a 'Os Sertões' sem apropriação crítica."
+    },
+    "analise_critica": "O poema apresenta imagens e temas vagamente compatíveis com o universo sertanejo, mas a execução é superficial. Falta densidade descritiva, rigor lexicográfico e a reflexão histórica e social que caracterizam Euclides da Cunha. A voz é platônica e genérica, sem os contrastes dramáticos, o detalhamento científico-literário nem a gravidade do autor solicitado. Como peça autônoma pode funcionar como poema simples, mas não cumpre o objetivo de emular com fidelidade o estilo de Euclides.",
+    "veredito_final": "insuficiente",
+    "justificativa_veredito": "O texto falha em reproduzir o registro, a densidade e a perspectiva histórico-política de Euclides da Cunha. Embora trate temas afins, o tom, o vocabulário e a profundidade são incompatíveis com o pedido; portanto o resultado não atende adequadamente à solicitação."
+}

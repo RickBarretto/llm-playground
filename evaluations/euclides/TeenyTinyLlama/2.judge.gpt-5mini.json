@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "insuficiente",
+            "justificativa": "O poema não reproduz a voz nem o tom erudito, sintético e etnográfico de Euclides da Cunha; falta densidade histórica, precisão descritiva e o registro analítico característico."
+        },
+        "coerencia_tematica": {
+            "score": "regular",
+            "justificativa": "Há um tema central (o sertão e o legado de Euclides), porém tratado de forma superficial e dispersa, sem progressão analítica ou aprofundamento."
+        },
+        "metrica_estrutura": {
+            "score": "regular",
+            "justificativa": "Verso livre simples e irregular; opção aceitável, mas sem organização formal deliberada que remeta ao estilo do autor ou a uma estrutura poética trabalhada."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Pouca atenção à sonoridade e às rimas; há frases sonoras isoladas, mas sem um projeto métrico ou musical coerente."
+        },
+        "forca_imagetica_figuras": {
+            "score": "regular",
+            "justificativa": "Imagens genéricas do sertão e da dor social aparecem, mas são pouco originais e carecem de metáforas robustas e concretas que evocam o ambiente sertanejo."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "regular",
+            "justificativa": "O poema demonstra inspiração temática em Euclides, mas revela mais uma imitação superficial do tópico do que uma voz original situada na tradição do autor."
+        },
+        "registro_vocabulario": {
+            "score": "insuficiente",
+            "justificativa": "Vocabulário coloquial e atual, sem o léxico técnico, histórico e erudito que caracterizaria uma aproximação convincente de Euclides da Cunha."
+        },
+        "impacto_emocional_literario": {
+            "score": "regular",
+            "justificativa": "Produz alguma resposta empática sobre sofrimento e injustiça, mas falta profundidade intelectual e vigor literário para causar impacto duradouro."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Euclides da Cunha",
+        "autor_ou_estilo_identificado_no_poema": "voz lírica genérica com tom memorial/denunciador, sem traços claros de Euclides",
+        "escola_literaria": "Regionalismo/Realismo (tema), mas execução mais próxima de lirismo contemporâneo simples",
+        "nivel_alinhamento": "baixo",
+        "evidencias_textuais": "Uso de frases curtas e explicativas, ausência de precisão descritiva e termos técnicos; imagens vagas ('terras áridas', 'exploração cruel') sem o detalhamento etnográfico e a prosa densa típica de Euclides."
+    },
+    "analise_critica": "O poema aborda corretamente o tema do sertão e o papel de Euclides como observador, porém o faz de modo superficial e genérico. Falta-lhe o rigor descritivo, a densidade histórica e o registro vocabular próprio de Euclides da Cunha; as imagens são pouco desenvolvidas e o tom é mais apologético e simplista do que analítico. Em suma, funciona como um texto inspirado no tema, mas não como uma emulação convincente do estilo do autor solicitado.",
+    "veredito_final": "regular",
+    "justificativa_veredito": "O poema cumpre minimamente a tarefa temática (sertão, injustiça, legado), mas falha em capturar o estilo, o vocabulário e a profundidade de Euclides da Cunha; por isso é competente em intenção, porém insuficiente em execução estilística, resultando numa avaliação geral regular."
+}
