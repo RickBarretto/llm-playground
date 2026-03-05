@@ -1,0 +1,114 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Voz narrativa de viés épico-trágico, com observação quase documental e forte carga dramática.",
+            "evidencias_no_texto": "Predominam descrições objetivas de ações coletivas e violentas (\"Decapitaram-nos. Queimaram os corpos.\"), seguidas de intensificação imagética (\"encenação cruel\", \"visão demoníaca\")."
+        },
+        "vocabulario": {
+            "registro": "Erudito-formal com marcas regionalistas e militares.",
+            "observacoes": "Há termos de campo bélico e vestuário militar (\"munições\", \"dólmãs\", \"cinturões\", \"quepes\"), além de léxico regional (\"caatinga\", \"angico\"), compondo dicção elevada e específica."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "Não se aplica; texto em prosa de alta densidade imagética (prosa poética).",
+            "padrao_identificado": "Ritmo construído por períodos longos descritivos alternados com frases curtas de impacto.",
+            "observacoes": "A cadência combina enumerações extensas e cortes abruptos (\"Era assombroso...\") para produzir progressão dramática."
+        },
+        "uso_de_rimas": {
+            "tipo": "Ausentes",
+            "esquema": "Não há esquema rimático, por se tratar de prosa.",
+            "observacoes": "A musicalidade vem de paralelismos sintáticos, enumeração e repetição de estruturas verbais no pretérito."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "metáfora",
+                "comparação",
+                "antítese",
+                "hipotipose (descrição vívida)",
+                "enumeração"
+            ],
+            "exemplos_do_texto": "\"florescência extravagantemente colorida\" aplicada a restos de guerra (metáfora + antítese entre flor e morte); \"Como um manequim terrivelmente lúgubre\" (comparação); sequência de objetos militares listados (enumeração); cena visual minuciosa da paisagem e do cadáver (hipotipose)."
+        },
+        "temas": {
+            "tema_central": "Violência de guerra e espetacularização da crueldade no sertão.",
+            "subtemas": [
+                "desumanização dos mortos",
+                "barbárie ritualizada",
+                "choque entre paisagem natural e horror humano",
+                "memória traumática do conflito"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "Lúgubre, assombrado e de indignação contida.",
+            "justificativa": "O texto enfatiza horror e repulsa por meio de imagens macabras (cabeças alinhadas, corpo empalado) e qualificações como \"doloroso\", \"cruel\", \"demoníaca\"."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "Transição Realismo/Naturalismo para o Pré-Modernismo brasileiro (prosa de cunho documental-social).",
+            "justificativa": "Convivem observação objetiva, vocabulário técnico, foco em conflito social e linguagem imagética intensa, traços associados a essa passagem estética."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Euclides da Cunha",
+            "justificativa": "A combinação de registro quase científico, atenção ao sertão e dramatização da guerra aproxima fortemente do estilo euclidiano.",
+            "elementos_de_correspondencia": [
+                "léxico militar e geográfico",
+                "períodos longos e enumerativos",
+                "visão trágica da violência sertaneja"
+            ]
+        },
+        {
+            "nome": "Pré-Modernismo brasileiro (vertente regionalista-social)",
+            "justificativa": "Há denúncia da brutalidade histórica e centralidade do interior brasileiro, com linguagem entre documental e literária.",
+            "elementos_de_correspondencia": [
+                "tema social-histórico",
+                "regionalismo lexical (caatinga, angico)",
+                "tom crítico e sombrio"
+            ]
+        },
+        {
+            "nome": "Naturalismo/Realismo de guerra",
+            "justificativa": "O detalhamento cru dos corpos, da materialidade da cena e dos objetos de combate aponta para um impulso desidealizador naturalista-realista.",
+            "elementos_de_correspondencia": [
+                "descrição objetiva de violência física",
+                "ausência de sentimentalização",
+                "efeito de observação direta da cena"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "excelente",
+            "justificativa": "O texto mantém unidade temática e progressão imagética consistente, conduzindo da ação bélica ao clímax macabro final sem rupturas."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "satisfatório",
+            "justificativa": "A imagem da \"florescência\" de cores militares na caatinga cria contraste expressivo e inventivo, embora o campo semântico da guerra e da morte seja tradicional."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "satisfatório",
+            "justificativa": "Não há metro/rima por ser prosa; ainda assim, o controle rítmico por alternância de períodos e ênfases pontuais é eficaz."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "excelente",
+            "justificativa": "Vocabulário preciso, variado e expressivo, com forte poder de visualização e adequação ao cenário histórico-militar."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "excelente",
+            "justificativa": "A escrita apresenta marca nítida de prosa brasileira de guerra sertaneja, com forte assinatura pré-modernista/euclidiana."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Texto de alta qualidade literária em prosa poética narrativa, com grande força imagética e densidade trágica.",
+        "justificativa_geral": "A construção verbal alia precisão descritiva e intensidade simbólica, produzindo impacto estético e crítico duradouro. A ausência de versificação não compromete o efeito poético, sustentado por ritmo sintático, contraste e imaginação visual.",
+        "pontos_fortes": [
+            "imagética poderosa e memorável",
+            "coesão temática e progressão dramática",
+            "vocabulário técnico-literário muito bem articulado",
+            "forte atmosfera emocional"
+        ],
+        "pontos_a_melhorar": [
+            "eventual excesso de enumeração pode reduzir fluidez para alguns leitores",
+            "densidade lexical elevada pode limitar acessibilidade imediata"
+        ]
+    }
+}

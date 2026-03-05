@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "satisfatório",
+            "justificativa": "O texto apresenta léxico, densidade descritiva, tom trágico-documental e construção sintática longamente encadeada muito próximos de Euclides da Cunha; contudo, não é uma recriação em forma de poema, e sim transposição de prosa euclidiana."
+        },
+        "coerencia_tematica": {
+            "score": "excelente",
+            "justificativa": "Há unidade temática forte em torno da violência de guerra, da paisagem sertaneja e da cena macabra, com progressão imagética contínua e coesa."
+        },
+        "metrica_estrutura": {
+            "score": "insuficiente",
+            "justificativa": "Não há organização em versos, estrofes, ritmo poético deliberado ou projeto formal de poema; a estrutura é de parágrafos em prosa narrativa-descritiva."
+        },
+        "rimas_sonoridade": {
+            "score": "insuficiente",
+            "justificativa": "Não se observa trabalho intencional de rima, cadência versificada ou desenho sonoro típico de composição poética."
+        },
+        "forca_imagetica_figuras": {
+            "score": "excelente",
+            "justificativa": "As imagens são muito vívidas e impactantes, com forte plasticidade visual, contraste cromático e dramatização simbólica da barbárie."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "insuficiente",
+            "justificativa": "O texto reproduz literalmente um trecho conhecido de 'Os Sertões', caracterizando citação/cópia direta, sem elaboração autoral própria dentro do estilo solicitado."
+        },
+        "registro_vocabulario": {
+            "score": "excelente",
+            "justificativa": "O registro é erudito, histórico-descritivo e lexicalmente compatível com a dicção de Euclides da Cunha e com a ambientação sertaneja."
+        },
+        "impacto_emocional_literario": {
+            "score": "satisfatório",
+            "justificativa": "O impacto é alto pela violência imagética e gravidade moral; porém, a força literária advém majoritariamente do texto-fonte original, não de criação nova."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Euclides da Cunha",
+        "autor_ou_estilo_identificado_no_poema": "Euclides da Cunha (trecho de prosa de 'Os Sertões')",
+        "escola_literaria": "Pré-Modernismo brasileiro com traços realistas-naturalistas e documentalismo histórico",
+        "nivel_alinhamento": "médio",
+        "evidencias_textuais": "Períodos longos e enumerativos; vocabulário técnico-militar ('dólmãs', 'selins', 'estribos'); descrição da caatinga e da guerra de Canudos; tom científico-trágico e imagética brutal típicos de 'Os Sertões'. Divergência central: ausência de forma poética e reprodução literal do texto."
+    },
+    "analise_critica": "O resultado acerta a referência estilística por proximidade extrema com a escrita euclidiana, mas falha no núcleo do pedido: criar um poema ao estilo do autor. Em vez de composição inédita, há citação de prosa canônica, o que compromete originalidade, adequação de gênero e critérios formais de poesia (métrica, ritmo, sonoridade). Assim, a qualidade literária intrínseca do trecho é alta, porém a aderência à tarefa é parcial.",
+    "veredito_final": "regular",
+    "justificativa_veredito": "Apesar da forte aderência de linguagem ao universo de Euclides da Cunha, o texto não cumpre a exigência de poema e não apresenta criação original, o que reduz substancialmente o atendimento ao pedido."
+}

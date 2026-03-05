@@ -1,0 +1,117 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Voz predominantemente descritiva e ensaística, de viés quase épico-documental, com observador externo que interpreta ciclos naturais em chave grandiosa.",
+            "evidencias_no_texto": "Predominam enunciados assertivos e panorâmicos: \"Os vales secos fazem-se rios\", \"Dilatam-se os horizontes\", \"Depois tudo isto se acaba\"."
+        },
+        "vocabulario": {
+            "registro": "Erudito, técnico-descritivo, com traços arcaizantes e regionalistas.",
+            "observacoes": "Uso de léxico pouco coloquial e especializado: \"cômoros\", \"grotões escancelados\", \"acervos de blocos disjungidos\", \"soalheiras\", \"estios\", \"sertão\"."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "Não se organiza em versos; trata-se de prosa poética/descritiva.",
+            "padrao_identificado": "Ritmo construído por períodos longos, enumerações, paralelismos e contrastes sazonais.",
+            "observacoes": "Cadência marcada por frases encadeadas e pausas enfáticas: \"E o sertão é um vale fértil. É um pomar vastíssimo, sem dono. Depois tudo isto se acaba.\""
+        },
+        "uso_de_rimas": {
+            "tipo": "Ausentes",
+            "esquema": "Não aplicável",
+            "observacoes": "A musicalidade deriva de aliterações ocasionais, repetições sintáticas e antíteses, não de rima final."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "Personificação",
+                "Metáfora",
+                "Antítese",
+                "Hipérbole",
+                "Enumeração"
+            ],
+            "exemplos_do_texto": "Personificação/metamorfose: \"a terra... transfigura-se\"; antítese: fertilidade temporária versus \"espasmo assombrador da seca\"; hipérbole: \"um pomar vastíssimo, sem dono\"; enumerações sucessivas de efeitos climáticos e geográficos."
+        },
+        "temas": {
+            "tema_central": "Transformação cíclica da paisagem sertaneja entre abundância e devastação.",
+            "subtemas": [
+                "Força determinante do clima sobre o território",
+                "Fragilidade da vida diante da seca",
+                "Contraste entre esperança efêmera e retorno da adversidade",
+                "Leitura quase científica da natureza com carga emotiva"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "Contemplativo e solene, com crescente tensão trágica.",
+            "justificativa": "Inicia em admiração pela regeneração da terra e culmina em gravidade opressiva: \"dias torturantes\", \"atmosfera asfixiadora\", \"espasmo assombrador\"."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "Pré-Modernismo brasileiro com forte herança realista-naturalista.",
+            "justificativa": "Concilia observação objetiva do meio, vocabulário técnico e visão social-geográfica do sertão, com linguagem elevada e imagens de impacto."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Euclides da Cunha (ou estilo euclidiano)",
+            "justificativa": "A fusão de descrição geográfica minuciosa, léxico científico e dramatização da natureza é altamente compatível com a prosa de interpretação do sertão.",
+            "elementos_de_correspondencia": [
+                "Campo lexical geológico e climático",
+                "Períodos extensos com enumerações",
+                "Contraste estrutural entre chuva e seca",
+                "Tom de diagnóstico nacional/territorial"
+            ]
+        },
+        {
+            "nome": "Pré-Modernismo regionalista brasileiro",
+            "justificativa": "O texto focaliza espaço interiorano, condições ambientais extremas e identidade do sertão com linguagem de transição entre ciência e literatura.",
+            "elementos_de_correspondencia": [
+                "Centralidade do sertão",
+                "Ênfase no meio físico como força histórica",
+                "Registro elevado com regionalismos",
+                "Projeto descritivo-interpretativo do Brasil profundo"
+            ]
+        },
+        {
+            "nome": "Naturalismo descritivo em prosa poética",
+            "justificativa": "Há traço determinista e observação quase objetiva dos fenômenos naturais, porém com intensificação imagética e tonalidade lírica.",
+            "elementos_de_correspondencia": [
+                "Determinismo climático",
+                "Vocabulário técnico e observacional",
+                "Encadeamento causal dos efeitos da chuva e da estiagem",
+                "Dramatização verbal sem estrutura de verso"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "excelente",
+            "justificativa": "A progressão temática é clara e orgânica: da transfiguração pela chuva ao retorno da seca, com conectores e encadeamento lógico consistentes."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "satisfatório",
+            "justificativa": "As imagens são fortes e expressivas, sobretudo nos contrastes, embora se apoiem em um repertório descritivo de matriz épico-naturalista já reconhecível."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "satisfatório",
+            "justificativa": "Não há metro versificado, mas há elevado controle rítmico de prosa, com cadência, paralelismos e fechos enfáticos eficazes."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "excelente",
+            "justificativa": "Linguagem precisa, rica e de grande densidade semântica, com escolhas lexicais sofisticadas que reforçam a atmosfera e a materialidade do cenário."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "excelente",
+            "justificativa": "O texto apresenta assinatura estilística muito nítida: prosa de alta elaboração, regionalismo analítico e tom de interpretação da natureza brasileira."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Texto de alta qualidade literária em prosa poética descritiva, com forte unidade estilística e imagética.",
+        "justificativa_geral": "A peça alcança grande impacto ao combinar observação detalhada da paisagem com tensão dramática dos ciclos climáticos. A forma não versificada não reduz a força poética; ao contrário, a sintaxe ampla e o léxico denso sustentam um ritmo próprio e uma visão de mundo consistente.",
+        "pontos_fortes": [
+            "Construção de contrastes entre fertilidade e devastação",
+            "Vocabulário erudito e expressivo",
+            "Coesão argumentativo-descritiva",
+            "Imagens de alta intensidade sensorial e simbólica"
+        ],
+        "pontos_a_melhorar": [
+            "Densidade lexical pode dificultar acessibilidade para leitores não especializados",
+            "Predomínio descritivo reduz espaço para maior diversidade de vozes ou perspectivas"
+        ]
+    }
+}
