@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "insuficiente",
+            "justificativa": "Voz e tom não reproduzem a ironia, concisão e precisão imagética de Drummond; presença explícita do nome do autor torna-se declaração, não imitação estilística."
+        },
+        "coerencia_tematica": {
+            "score": "regular",
+            "justificativa": "Tema central (vida, solidão, simplicidade) está presente, porém o desenvolvimento é raso e repetitivo, sem progressão reflexiva consistente."
+        },
+        "metrica_estrutura": {
+            "score": "regular",
+            "justificativa": "Verso livre irregular e estrofação pouco planejada; escolhas formais aparentam improvisação, sem a economia sintática típica de Drummond."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Rimas e aliterações ocorrem de forma forçada e previsível, contribuindo pouco para musicalidade verdadeira."
+        },
+        "forca_imagetica_figuras": {
+            "score": "regular",
+            "justificativa": "Imagens genéricas (\"folhas farfalhando\", \"pequenas coisas\") evocam cenários, mas faltam metáforas originais e contundentes."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "regular",
+            "justificativa": "O texto imita um tom lírico comum sem copiar fontes, porém não desenvolve uma voz própria dentro da tradição drummondiana."
+        },
+        "registro_vocabulario": {
+            "score": "satisfatório",
+            "justificativa": "Linguagem simples e acessível, adequada ao público, mas às vezes coloquialismo e construções fracas empobrecem o efeito poético."
+        },
+        "impacto_emocional_literario": {
+            "score": "regular",
+            "justificativa": "Provoca resposta emocional leve e conforto, mas carece de densidade e surpresa literária para maior impacto."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Carlos Drummond de Andrade",
+        "autor_ou_estilo_identificado_no_poema": "Voz genérica de lirismo coloquial com traços de poesia popular; não convincente como Drummond",
+        "escola_literaria": "Poesia moderna coloquial / lirismo popular",
+        "nivel_alinhamento": "baixo",
+        "evidencias_textuais": "Uso de clichês e fórmulas consolidadas (\"beleza dos prazeres simples\", \"abraçar esta vida simples\"); verso declarativo final mencionando o autor; falta de ironia, ambivalência e precisão imagética que caracterizam Drummond."
+    },
+    "analise_critica": "O poema aborda temas compatíveis com o solicitado (vida cotidiana, solidão, simplicidade), mas o faz de modo conformista e previsível. Faltam a concisão, o suspense discursivo, a ambiguidade emocional e as imagens imprevistas que distinguem a voz drummondiana. A métrica e a sonoridade demonstram tentativa de musicalidade porém de forma mecânica. A invocação literal do nome do autor no final revela uma solução narrativa pobre em vez de uma assimilação estilística. Em suma, o texto funciona como um poema popular bem-intencionado, não como uma recriação convincente do estilo de Carlos Drummond de Andrade.",
+    "veredito_final": "regular",
+    "justificativa_veredito": "Atende parcialmente ao tema e emprega linguagem simples adequada, mas falha em capturar os recursos estilísticos, imagéticos e a voz crítica/irônica de Drummond; resultado superficial e pouco original dentro da proposta."
+}

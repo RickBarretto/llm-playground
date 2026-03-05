@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "insuficiente",
+            "justificativa": "O poema está em inglês e em tom genérico e consolador, distante da voz irônica, concreta e coloquial de Carlos Drummond de Andrade; faltam concisão, deslocamentos de sentido e imagens do cotidiano características do autor."
+        },
+        "coerencia_tematica": {
+            "score": "regular",
+            "justificativa": "Há um tema central (vida como jornada, amor, conforto), mas o desenvolvimento é reiterativo e pouco profundo, sem avanços conceituais ou tensão temática."
+        },
+        "metrica_estrutura": {
+            "score": "regular",
+            "justificativa": "Verso livre simples e irregular; não há uso visível de recursos formais deliberados (enjambementes significativos, cortes bruscos) que se aproximem da técnica drummondiana."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Rimas e sonoridade aparecem de forma displicente e previsível, sem efeito musical intencional nem economia sonora típica do autor."
+        },
+        "forca_imagetica_figuras": {
+            "score": "insuficiente",
+            "justificativa": "Imagens clichês e genéricas (montanhas, vales, jornada, amor que transcende) sem metáforas originais ou concreções sensoriais que tornem a linguagem evocativa."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "insuficiente",
+            "justificativa": "Não há tentativa convincente de imitação informada; o texto soa como discurso inspiracional genérico, sem voz própria nem eco reconhecível de Drummond."
+        },
+        "registro_vocabulario": {
+            "score": "insuficiente",
+            "justificativa": "Vocabulário coloquial e vago em inglês, desconexo com o registro, a época e a língua (português) do autor solicitado."
+        },
+        "impacto_emocional_literario": {
+            "score": "regular",
+            "justificativa": "Produz leve conforto emocional, mas carece de densidade literária, ambiguidade e intensidade reflexiva que marcam a obra do autor."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Carlos Drummond de Andrade",
+        "autor_ou_estilo_identificado_no_poema": "Poesia inspiracional genérica / verso livre sentimental (anglófona)",
+        "escola_literaria": "Poesia contemporânea popular, sem ligação evidente ao modernismo brasileiro",
+        "nivel_alinhamento": "baixo",
+        "evidencias_textuais": "Poema redigido em inglês; recorrência de fórmulas prontas ('life is a journey', 'love always prevails'); imagens abstratas e clichés; ausência de concisão, ironia, urbanidade e concretude presentes em Drummond."
+    },
+    "analise_critica": "O texto cumpre minimamente a função consoladora de um poema sobre vida e amor, mas falha em reproduzir traços centrais de Carlos Drummond de Andrade: língua incorreta, imagética genérica, ausência de precisão formal e tonalidade crítica/irônica. Para aproximar-se do autor solicitado seria preciso reescrever em português, privilegiar objetos e cenas cotidianas, usar concisão e choques de sentido, inserir vozes ambivalentes e evitar lugares-comuns.",
+    "veredito_final": "insuficiente",
+    "justificativa_veredito": "O poema não atende ao pedido: está em outro idioma, usa imagens e fórmulas banais e não reproduz a voz nem as operações poéticas de Drummond; o alinhamento com o autor solicitado é baixo e a qualidade literária, nesse aspecto comparativo, é insuficiente."
+}
