@@ -1,0 +1,116 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Lírica confessional e suplicante, em primeira pessoa, com forte dimensão devocional.",
+            "evidencias_no_texto": "O eu poético admite a culpa e se dirige diretamente a Deus: \"Pequei, Senhor\"; \"Eu sou, Senhor, a ovelha desgarrada\"."
+        },
+        "vocabulario": {
+            "registro": "Erudito, religioso e parcialmente arcaizante.",
+            "observacoes": "Emprega léxico teológico-moral e sintaxe elevada: \"alta clemência\", \"delinquido\", \"sacra história\", \"pastor divino\"."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "Versos regulares em forma fixa de soneto.",
+            "padrao_identificado": "Predomínio de decassílabos com cadência clássica, distribuídos em dois quartetos e dois tercetos.",
+            "observacoes": "O ritmo é argumentativo e equilibrado, com pausas sintáticas que reforçam a progressão da súplica do pecado ao pedido de redenção."
+        },
+        "uso_de_rimas": {
+            "tipo": "Consoantes, externas e regulares.",
+            "esquema": "ABBA ABBA CDE CDE.",
+            "observacoes": "As rimas sustentam a arquitetura lógica do poema, com fechamento sonoro coeso entre culpa, perdão e glória."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "apóstrofe",
+                "antítese",
+                "paradoxo",
+                "metáfora alegórica",
+                "hipérbato"
+            ],
+            "exemplos_do_texto": "Apóstrofe em \"Senhor\"; antítese entre \"irar\" e \"abrandar-vos\"; paradoxo em \"quanto mais tenho delinquido, / Vos tenho a perdoar mais empenhado\"; metáfora bíblica da \"ovelha desgarrada\"."
+        },
+        "temas": {
+            "tema_central": "Pecado, arrependimento e busca da misericórdia divina.",
+            "subtemas": [
+                "culpa individual",
+                "esperança no perdão",
+                "teologia da graça",
+                "relação pastor-ovelha",
+                "salvação"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "Contrito, humilde e esperançoso.",
+            "justificativa": "Há confissão de culpa e temor, mas o poema evolui para confiança na clemência divina, culminando em pedido direto de resgate."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "Barroco (Seiscentismo luso-ibérico/luso-brasileiro).",
+            "justificativa": "Combinação de forma clássica (soneto) com engenho argumentativo, tensão entre culpa e graça, e dicção religiosa intensa."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Gregório de Matos",
+            "justificativa": "A dicção sacra em soneto, a argumentação conceptista e o contraste entre pecado e misericórdia lembram a vertente religiosa atribuída a esse autor.",
+            "elementos_de_correspondencia": [
+                "soneto regular com rima fechada",
+                "tema penitencial cristão",
+                "agudeza lógica em torno de culpa e perdão"
+            ]
+        },
+        {
+            "nome": "Francisco de Quevedo",
+            "justificativa": "A elaboração intelectual do raciocínio devocional, com paradoxos e antíteses, aproxima o texto da poesia religiosa conceptista espanhola.",
+            "elementos_de_correspondencia": [
+                "predomínio de conceptismo",
+                "tensão semântica entre opostos",
+                "tom moral e teológico"
+            ]
+        },
+        {
+            "nome": "Barroco sacro luso-ibérico (movimento)",
+            "justificativa": "O poema exibe marca típica do Barroco religioso: dramatização da culpa, busca de redenção e uso de imagem bíblica estruturante.",
+            "elementos_de_correspondencia": [
+                "referência à \"sacra história\"",
+                "metáfora da ovelha perdida",
+                "retórica persuasiva dirigida ao divino"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "excelente",
+            "justificativa": "O argumento progride com clareza: confissão, fundamentação do perdão e súplica final, sem rupturas lógicas."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "satisfatório",
+            "justificativa": "Há boa elaboração retórica, mas imagens e repertório simbólico são majoritariamente tradicionais da poesia sacra cristã."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "excelente",
+            "justificativa": "Forma de soneto bem construída, rima consistente e ritmo regular, com forte controle estrutural."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "excelente",
+            "justificativa": "Vocabulário preciso e elevado, adequado ao registro devocional, com sintaxe expressiva e sem perda de inteligibilidade."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "excelente",
+            "justificativa": "O texto se alinha de modo nítido ao estilo barroco sacro conceptista, com traços formais e temáticos muito definidos."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Poema de alta qualidade formal e expressiva, com forte eficácia retórico-devocional dentro da tradição barroca.",
+        "justificativa_geral": "A composição combina rigor estrutural, densidade teológica e intensidade emocional, construindo uma súplica persuasiva e coesa. A principal limitação está na menor inovação imagética, compensada por notável domínio da forma e da argumentação poética.",
+        "pontos_fortes": [
+            "excelente construção formal do soneto",
+            "coesão argumentativa entre culpa e perdão",
+            "uso eficaz de antíteses e paradoxos",
+            "tom confessional convincente"
+        ],
+        "pontos_a_melhorar": [
+            "dependência de imagens religiosas já consagradas",
+            "baixo grau de experimentação imagética",
+            "menor surpresa metafórica fora do campo bíblico tradicional"
+        ]
+    }
+}
