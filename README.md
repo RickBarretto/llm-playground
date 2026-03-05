@@ -10,9 +10,33 @@ modify as you need and have fun!
 ### Prompts
 
 You may have noticed the file [`prompts/`](https://github.com/RickBarretto/llm-playground/tree/main/prompts),
-this folder includes the output given by each model depending on the questions I do.
+this folder includes the prompts that we pass to the test subjects and also judges models.
 
-Feel free to open any of them to see how each model responds to the same prompt.
+The json files are passed to our target models, so they can generate what we want.
+The markdown files are passed to our judge models, and we pass the target's outputs and inputs.
+
+### Evaluations
+
+Here is where you'll find the output and the evaluation made by judge models.
+This has the following structure: `evaluations/:scope/:model/`.
+
+**Input**
+
+`prompt.txt` represents the exact prompt passed to the target model
+to generate the output.
+
+**Output**
+
+Output files follows this pattern: `:n.txt`, where `:n` is the iteration.
+This represents a direct output from the model, without any modification.
+
+**Evaluation**
+
+The evaluation files are stored as structured json. 
+This follows the following pattern: `:n.:eval.:judge-model.json`,
+where `:n` refers to the iteration, 
+`:eval` the evaluation prompt that is found at `prompts/*.md`,
+and `:judge-model`, the model used for this evaluation.
 
 ## RickLM
 
