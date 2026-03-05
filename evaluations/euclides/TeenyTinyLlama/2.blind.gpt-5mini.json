@@ -1,0 +1,114 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Voz mista narrativa-confessional com tom testemunhal e reflexivo; alterna terceira pessoa descritiva e primeira pessoa reflexiva.",
+            "evidencias_no_texto": "Início em terceira pessoa: \"o escritor era um homem...\"; passagens em primeira pessoa: \"Meus escritos eram...\"; final em referência direta a um autor: \"O trabalho de Euclides\"."
+        },
+        "vocabulario": {
+            "registro": "coloquial com matizes regionalistas",
+            "observacoes": "Léxico simples e direto (\"terra\", \"povo\", \"trabalho\"); algumas formulações evocam o léxico sertanejo/regionais (\"sertões\", \"terra árida\"). Ausência de vocabulário erudito ou arcaico."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "verso livre",
+            "padrao_identificado": "ausência de esquema métrico regular; linhas de extensão variável",
+            "observacoes": "Não há decoreação métrica evidente (decassílabos/alexandrinos/redondilhas). Ritmo marcado por pausas sintáticas e frases enunciativas, sem cadência fixa."
+        },
+        "uso_de_rimas": {
+            "tipo": "ausente",
+            "esquema": "sem esquema de rimas consistente",
+            "observacoes": "Não se detecta uso regular de rimas consoantes ou toantes; eventual aliteração ou repetição interna pode existir, mas não há rima final formal."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "metáfora",
+                "personificação",
+                "anáfora / repetição",
+                "metonímia"
+            ],
+            "exemplos_do_texto": "\"histórias gravadas no tempo\" (metáfora); \"terras áridas dos sertões\" (personificação do espaço como sujeito cultural); repetição de possessivos e referências ao escritor e seus escritos (anáfora implícita); \"o trabalho de Euclides\" como metonímia que representa um corpo maior de escrita."
+        },
+        "temas": {
+            "tema_central": "memória regional e denúncia da exploração no sertão",
+            "subtemas": [
+                "identidade cultural e perda",
+                "violência e escravidão/exploração",
+                "herança literária e legado",
+                "procura da verdade pelo escritor"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "melancólico-denunciatório",
+            "justificativa": "Predomina sentimento de lamento e indignação frente à \"exploração cruel\" e à perda cultural; há também tom de reverência/esperança em relação ao \"legado\" do escritor."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "regionalismo / modernismo sociocritico do século XX (tradição brasileira)",
+            "justificativa": "Foco no sertão, denúncia social e ênfase em memória e estudo do conflito remetem ao regionalismo/social-realismo brasileiro e a textos de início a meados do século XX que articulam ciência, reportagem e literatura (ex.: tradição de Euclides da Cunha e desdobramentos regionalistas)."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Euclides da Cunha (ou tradição de \"Os Sertões\")",
+            "justificativa": "O poema menciona explicitamente \"Euclides\" e tematiza o sertão, a pesquisa sobre conflitos e a tentativa de escrever a verdade sobre uma região e seu povo — elementos centrais na obra de Euclides da Cunha.",
+            "elementos_de_correspondencia": [
+                "referência direta a 'Euclides'",
+                "tema do sertão e investigação dos conflitos",
+                "tom memorial e documental"
+            ]
+        },
+        {
+            "nome": "Regionalismo / Realismo social brasileiro",
+            "justificativa": "Enfoque na terra, nas condições de vida do povo sertanejo, denúncia da exploração e interesse por documentar uma realidade social correspondem ao movimento regionalista e à prosa/poesia social do século XX no Brasil.",
+            "elementos_de_correspondencia": [
+                "uso de imagens do sertão ('terras áridas dos sertões')",
+                "temática da exploração e perda cultural",
+                "linguagem direta e testemunhal"
+            ]
+        },
+        {
+            "nome": "Guimarães Rosa (remissão temática, de modo indireto)",
+            "justificativa": "Embora o léxico complexo e neologismos típicos de Guimarães Rosa não apareçam, a referência a 'grande sertão' e a ênfase no sertão como espaço mítico/simbólico evocam ecos do universo rosalino.",
+            "elementos_de_correspondencia": [
+                "menção (implícita/evocativa) de 'grande sertão'",
+                "tratamento do sertão como espaço central de sentido",
+                "combinação de dimensão épica/mitológica e denúncia social (em potencial)"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "satisfatório",
+            "justificativa": "O poema mantém um eixo temático claro (sertão, exploração, escrita, legado), mas há deslocamentos de pessoa narrativa e algumas frases que quebram a fluidez (por exemplo: mudanças entre 'o escritor era' e 'Meus escritos'), o que reduz a coesão perfeita."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "regular",
+            "justificativa": "As imagens e temas são convenientes ao repertório do regionalismo (terras áridas, exploração, legado), mas pouco surpreendentes ou inovadores; há uso de imagens familiares em vez de metáforas fortemente originais."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "regular",
+            "justificativa": "Opção por verso livre é legítima, porém o controle rítmico e a economia formal são irregulares; falta unidade métrica ou recursos sonoros trabalhados que demonstrem domínio técnico profundo."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "satisfatório",
+            "justificativa": "Linguagem clara e acessível cumpre a função comunicativa e reforça o testemunho social, mas peca pela simplicidade excessiva em alguns trechos e por construções um tanto planas."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "satisfatório",
+            "justificativa": "Há correspondência nítida com o regionalismo/social-realismo brasileiro e referências que apontam para Euclides/’Os Sertões’; no entanto, a execução não reproduz plenamente as marcas estilísticas refinadas desses autores."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Poema de denúncia e homenagem com execução funcional, porém pouco inovadora.",
+        "justificativa_geral": "O poema articula com clareza intenção testimonial — documentar o sertão, denunciar exploração e reconhecer um legado literário — e usa imagens acessíveis que comunicam o sentido. Contudo, alternâncias de pessoa narrativa, linguagem por vezes prosaica e falta de desenvolvimento imagético mais original limitam seu impacto estético pleno.",
+        "pontos_fortes": [
+            "Clareza temática: mensagem social e memorial muito nítida.",
+            "Tom emotivo coerente: mistura de melancolia e indignação que dá força moral ao texto.",
+            "Referência intertextual explícita (Euclides) que ancora a peça num enquadramento literário reconhecível."
+        ],
+        "pontos_a_melhorar": [
+            "Unificar a voz narrativa (escolher terceira ou primeira pessoa e trabalhar transições).",
+            "Trabalhar imagens mais originais e concretas (mostrar em vez de afirmar).",
+            "Aprimorar recursos sonoros e ritmo (aliterações, repetições rítmicas, esquema de versos) para dar musicalidade.",
+            "Revisar construções sintáticas para maior fluidez e força poética."
+        ]
+    }
+}
