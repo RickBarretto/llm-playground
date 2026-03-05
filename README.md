@@ -63,4 +63,5 @@ poem = Poem(by=model, style="Gregório de Matos")
 1. Install `ricklm`
 2. Choose a model families and its size.
 3. Run some task, like poem generation via `Poem`
-4. Clean the runtime for reuse
+4. Upload back to Github if you wish
+5. Clean the runtime for reuse
