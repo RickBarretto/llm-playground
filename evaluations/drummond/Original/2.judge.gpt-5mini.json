@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "excelente",
+            "justificativa": "A voz lírica, a ironia existencial, o coloquialismo reflexivo e o verso livre correspondem plenamente ao repertório de Carlos Drummond de Andrade."
+        },
+        "coerencia_tematica": {
+            "score": "excelente",
+            "justificativa": "Há unidade em torno da subjetividade deslocada, da observação do cotidiano urbano e do conflito entre indivíduo e mundo, com progressão interna consistente."
+        },
+        "metrica_estrutura": {
+            "score": "excelente",
+            "justificativa": "A estrutura em estrofes de extensão variável e o verso livre são deliberados e condizentes com a poética modernista drummondiana."
+        },
+        "rimas_sonoridade": {
+            "score": "satisfatório",
+            "justificativa": "Predomina a musicalidade por ritmo sintático, repetições e paralelismos; as rimas são pontuais e funcionais, sem centralidade formal."
+        },
+        "forca_imagetica_figuras": {
+            "score": "excelente",
+            "justificativa": "As imagens são marcantes e expressivas, com forte uso de ironia, metonímia e contraste entre banalidade e transcendência."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "insuficiente",
+            "justificativa": "O texto não apenas imita: reproduz diretamente um poema canônico de Drummond, sem elaboração autoral própria."
+        },
+        "registro_vocabulario": {
+            "score": "excelente",
+            "justificativa": "O registro combina coloquial e lírico com precisão histórica e estilística, em plena consonância com o autor solicitado."
+        },
+        "impacto_emocional_literario": {
+            "score": "excelente",
+            "justificativa": "O poema tem alta densidade literária e produz forte efeito emocional e intelectual, com imagens e formulações memoráveis."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Carlos Drummond de Andrade",
+        "autor_ou_estilo_identificado_no_poema": "Carlos Drummond de Andrade (texto coincidente com \"Poema de Sete Faces\")",
+        "escola_literaria": "Modernismo brasileiro (2ª fase, com marcas da 1ª fase no verso livre e coloquialismo)",
+        "nivel_alinhamento": "alto",
+        "evidencias_textuais": "Versos e formulações emblemáticas do próprio Drummond aparecem literalmente (\"Quando nasci, um anjo torto...\", \"Mundo mundo vasto mundo...\"). O tom introspectivo-irônico, o cotidiano urbano e a dicção coloquial confirmam convergência total com o autor solicitado; porém essa convergência decorre de reprodução textual, não de recriação estilística."
+    },
+    "analise_critica": "Como objeto literário, o poema é de altíssima qualidade e exemplar da poética drummondiana. Como resposta ao comando \"ao estilo de\", falha no requisito implícito de originalidade criativa, pois apresenta cópia direta de obra conhecida. Assim, há excelência estética, mas inadequação no critério de autoria gerativa.",
+    "veredito_final": "regular",
+    "justificativa_veredito": "Apesar da excelência literária intrínseca e da aderência máxima ao estilo solicitado, o resultado não cumpre adequadamente a proposta de gerar um novo poema inspirado no autor, pois reproduz texto preexistente."
+}

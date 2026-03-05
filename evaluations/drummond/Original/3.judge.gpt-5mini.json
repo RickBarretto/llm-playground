@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "excelente",
+            "justificativa": "A voz poética, o tom irônico, a dicção coloquial e a construção narrativa são integralmente compatíveis com Carlos Drummond de Andrade."
+        },
+        "coerencia_tematica": {
+            "score": "excelente",
+            "justificativa": "O poema mantém unidade temática centrada no desencontro amoroso e conduz progressivamente os destinos das personagens até um fecho irônico coeso."
+        },
+        "metrica_estrutura": {
+            "score": "satisfatório",
+            "justificativa": "Emprega verso livre e encadeamento sintático deliberado, em linha com a prática modernista drummondiana, embora sem exploração métrica mais variada."
+        },
+        "rimas_sonoridade": {
+            "score": "satisfatório",
+            "justificativa": "A ausência de rimas é intencional e adequada; a musicalidade deriva sobretudo de repetições e paralelismos, com fluidez narrativa eficiente."
+        },
+        "forca_imagetica_figuras": {
+            "score": "satisfatório",
+            "justificativa": "Há força expressiva na enumeração, na repetição anafórica e na ironia estrutural, ainda que com imagética concreta menos densa que em outros poemas do autor."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "insuficiente",
+            "justificativa": "Trata-se de reprodução direta de \"Quadrilha\", não de um poema novo inspirado no estilo solicitado; há cópia textual e estrutural."
+        },
+        "registro_vocabulario": {
+            "score": "excelente",
+            "justificativa": "O vocabulário simples, preciso e coloquial, com construção sintática clara e efeito crítico, é plenamente compatível com o registro do autor."
+        },
+        "impacto_emocional_literario": {
+            "score": "excelente",
+            "justificativa": "Produz impacto literário por meio do ritmo de encadeamento, da fatalidade cômico-trágica e do desfecho de forte efeito irônico."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Carlos Drummond de Andrade",
+        "autor_ou_estilo_identificado_no_poema": "Carlos Drummond de Andrade (poema \"Quadrilha\")",
+        "escola_literaria": "Modernismo brasileiro (2ª fase, com traços da poesia modernista de 1930)",
+        "nivel_alinhamento": "alto",
+        "evidencias_textuais": "Repetição encadeada de relações afetivas (\"João amava Teresa...\"), tom coloquial e antissentimental, ironia no destino das personagens e fecho com \"J. Pinto Fernandes\"; todos são traços reconhecíveis de Drummond e correspondem especificamente ao texto canônico \"Quadrilha\"."
+    },
+    "analise_critica": "Embora o texto apresente altíssima qualidade literária e aderência plena ao estilo drummondiano, ele não cumpre adequadamente a tarefa de geração autoral inédita \"ao estilo de\", pois reproduz um poema já existente. Em termos de avaliação de resposta de modelo, há acerto estilístico, mas falha grave de originalidade e de atendimento ao propósito implícito de criar novo conteúdo.",
+    "veredito_final": "regular",
+    "justificativa_veredito": "O resultado é literariamente forte e perfeitamente alinhado ao autor pedido, mas a cópia direta de obra conhecida compromete o critério central de originalidade para uma geração \"ao estilo de\". A falha reduz substancialmente a adequação da resposta como produção nova."
+}
