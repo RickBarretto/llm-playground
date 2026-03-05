@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "insuficiente",
+            "justificativa": "O texto aborda temas sociais, mas não reproduz a voz barroca, a ironia mordaz, os recursos retóricos e o léxico arcaico característicos de Gregório de Matos; falta o jogo satírico e a concisão aforística típicos do autor."
+        },
+        "coerencia_tematica": {
+            "score": "satisfatório",
+            "justificativa": "Mantém um tema central de sofrimento, injustiça e denúncia social com progressão temática razoável, embora por vezes repetitivo e sem desenvolvimento argumentativo refinado."
+        },
+        "metrica_estrutura": {
+            "score": "insuficiente",
+            "justificativa": "Predomina verso livre e irregularidade acentuada; ausência de esquemas métricos, redondilhas ou formas clássicas que seriam compatíveis com práticas formais do barroco."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Falta um uso intencional de rima e sonoridade tipicamente barroca; há alguns padrões sonoros e repetições, mas sem a musicalidade formal ou o jogo de rimas esperado."
+        },
+        "forca_imagetica_figuras": {
+            "score": "satisfatório",
+            "justificativa": "Imagens vívidas e grotescas (\"carne rasgada\", \"pus\", \"ferida\") conferem força visual e emocional, mas as figuras são por vezes banais e pouco trabalhadas em metáforas barrocas complexas."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "regular",
+            "justificativa": "Poema é original em conteúdo, porém não imita de forma convincente a técnica ou o timbre de Gregório; mais alinhado a poesia de denúncia contemporânea do que a uma imitação histórica fiel."
+        },
+        "registro_vocabulario": {
+            "score": "insuficiente",
+            "justificativa": "Léxico moderno e direto; ausência de arcaismos, latinismos e registros satíricos/eruditos que marcaram a linguagem de Gregório de Matos."
+        },
+        "impacto_emocional_literario": {
+            "score": "satisfatório",
+            "justificativa": "Provoca reação emotiva (nojo, compaixão, indignação) e tem apelo retórico, mas carece de densidade estilística e sutileza crítica que elevem o impacto literário ao nível barroco."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Gregório de Matos",
+        "autor_ou_estilo_identificado_no_poema": "Poesia de denúncia social contemporânea / realismo social",
+        "escola_literaria": "Poesia social contemporânea (influência realista/protesto)",
+        "nivel_alinhamento": "baixo",
+        "evidencias_textuais": "Uso de verso livre e repetição direta (\"O povo sofre na terra\"), imagens cruas (\"carne rasgada, sangrando com pus\"), menção genérica a \"reis e príncipes\" sem ironia afiada, ausência de arcaismos e sintaxe barroca; tom mais explícito e menos satírico que Gregório."
+    },
+    "analise_critica": "O poema cumpre a intenção temática de denunciar sofrimento e injustiça, apresentando imagens fortes e um apelo emocional direto. No entanto, falha em reproduzir os traços formais e estilísticos centrais de Gregório de Matos: não há a mordacidade verbal, o refinamento satírico, o léxico arcaizante nem a arquitetura métrica recorrente no barroco. O resultado aproxima-se mais de um poema de protesto moderno, sem a ironia elaborada e o jogo retórico exigidos por uma imitação convincente do autor solicitado.",
+    "veredito_final": "regular",
+    "justificativa_veredito": "O poema é competente como peça de denúncia social (tema solicitado), mas não atende ao pedido específico de compor no estilo de Gregório de Matos. Falta fidelidade estilística essencial (registro, retórica barroca e forma), embora haja potência imagética e carga emocional que o tornam legível e eficaz em outro registro."
+}

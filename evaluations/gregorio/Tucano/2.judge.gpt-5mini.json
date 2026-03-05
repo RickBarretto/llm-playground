@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "regular",
+            "justificativa": "O tema satírico e a denúncia da corrupção aparecem, mas faltam o tom mordaz, o vocabulario barroco-arcaizante e a ironia sofisticada característicos de Gregório de Matos."
+        },
+        "coerencia_tematica": {
+            "score": "satisfatório",
+            "justificativa": "Mantém um foco claro sobre opulência, corrupção e hipocrisia; contudo, há repetições e trechos desconectados que enfraquecem a unidade e a progressão."
+        },
+        "metrica_estrutura": {
+            "score": "insuficiente",
+            "justificativa": "Não há regularidade métrica nem preocupação formal reconhecível do barroco; versos variam em extensão e o texto mistura prosa explicativa com poema."
+        },
+        "rimas_sonoridade": {
+            "score": "insuficiente",
+            "justificativa": "Rimas e sonoridade são inconsistentes e ocasionalmente forçadas; falta cuidado no ritmo e na musicalidade típicos da poesia barroca."
+        },
+        "forca_imagetica_figuras": {
+            "score": "regular",
+            "justificativa": "Algumas imagens (ouro, opulência, mãos sujas) são pertinentes, porém muitas metáforas são genéricas e pouco inventivas, com uso ocasional de clichés."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "regular",
+            "justificativa": "Inspira-se no tema satírico de Gregório, mas aposta numa voz contemporânea e em rótulos explicativos (Metáfora/Ironia), revelando imitação superficial sem voz própria forte."
+        },
+        "registro_vocabulario": {
+            "score": "regular",
+            "justificativa": "Linguagem majoritariamente moderna e acessível; falta o léxico erudito/arcaico e as hipérboles barrocas que caracterizariam o autor solicitado."
+        },
+        "impacto_emocional_literario": {
+            "score": "regular",
+            "justificativa": "O poema transmite desalento e crítica, mas o impacto é mitigado por lugar-comum e estrutura desordenada; raramente provoca a corrosiva intensidade emocional do Barroco satírico."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Gregório de Matos",
+        "autor_ou_estilo_identificado_no_poema": "Poesia satírica contemporânea com toques genéricos de protesto (remissão superficial ao Barroco)",
+        "escola_literaria": "Tentativa de Barroco (temática satírica) porém predominantemente contemporânea/coloquial",
+        "nivel_alinhamento": "médio",
+        "evidencias_textuais": "Referências a 'Vila Rica', 'ouro reluzente', 'mãos sujas de sangue', críticas à opulência e corrupção indicam aproximação temática; porém presença de seções explicativas ('- Metáfora:', '- Ironia:') e linguagem direta revelam distância estilística."
+    },
+    "analise_critica": "O texto cumpre a função temática de denunciar a ostentação e a corrupção, por isso aproxima-se do motivo central de Gregório de Matos. Ainda assim falha em reproduzir a voz barroca: falta a mordacidade lapidar, o uso de inversões, alusões eruditas, jogos linguísticos e o rigor formal. A inclusão de pedaços metatextuais e uma linguagem demasiado direta diluem o efeito satírico esperado; imagens são pontuais, mas frequentemente banais. Em suma, é uma leitura contemporânea e bem-intencionada do tema, porém estilisticamente híbrida e pouco convincente como imitação de Gregório.",
+    "veredito_final": "regular",
+    "justificativa_veredito": "Alcança parcialmente o pedido por tratar corrupção e hipocrisia, mas não reproduz com eficácia o timbre barroco e a intensidade satírica de Gregório de Matos; resultado competente, porém estilisticamente insatisfatório para uma imitação fiel."
+}
