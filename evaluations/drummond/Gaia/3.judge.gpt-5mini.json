@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "regular",
+            "justificativa": "Captura temas drummondianos (cotidiano, solidão, tempo) e linguagem simples, mas falha em reproduzir a voz única, o ritmo e as imagens surpreendentes característicos de Carlos Drummond de Andrade; soa genérico e por vezes explicativo."
+        },
+        "coerencia_tematica": {
+            "score": "satisfatório",
+            "justificativa": "Mantém um foco claro (rotina, solidão, busca de sentido) com progressão temática razoável do banheiro/mesa ao mundo exterior; há coesão, embora o desenvolvimento seja previsível."
+        },
+        "metrica_estrutura": {
+            "score": "satisfatório",
+            "justificativa": "Uso apropriado do verso livre, alinhado ao estilo moderno urbano; porém não há experimentação rítmica ou soluções formais marcantes típicas de Drummond."
+        },
+        "rimas_sonoridade": {
+            "score": "satisfatório",
+            "justificativa": "Ausência de rima, coerente com verso livre; sonoridade funcional mas sem jogos sonoros notáveis que enriqueçam o poema."
+        },
+        "forca_imagetica_figuras": {
+            "score": "regular",
+            "justificativa": "Imagens claras e cotidianas (xícara, jornal, colheres) são eficazes, mas pouco originais ou surpreendentes; figuras limitadas e sem a concisão imagética intensa de Drummond."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "satisfatório",
+            "justificativa": "O poema inspira-se legitimamente em temas e tom drummondianos sem plagiar versos conhecidos, mas tende à imitação genérica em vez de produzir uma voz própria forte."
+        },
+        "registro_vocabulario": {
+            "score": "satisfatório",
+            "justificativa": "Vocabulário simples e coloquial adequado ao pedido; consistente no registro e compatível com o estilo do modernismo urbano."
+        },
+        "impacto_emocional_literario": {
+            "score": "regular",
+            "justificativa": "Provoca leve melancolia e identificação cotidiana, mas falta densidade emocional e aforismo memorável que elevem o poema a impacto literário mais profundo."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Carlos Drummond de Andrade",
+        "autor_ou_estilo_identificado_no_poema": "Poesia urbana modernista brasileira com afinidade temática a Drummond (tom observador, cotidiano e melancolia)",
+        "escola_literaria": "Modernismo / poesia urbana contemporânea",
+        "nivel_alinhamento": "médio",
+        "evidencias_textuais": "Uso de imagens cotidianas (café, jornal, colheres), linguagem direta, verso livre e reflexão sobre solidão e tempo; ausência, porém, de ironia concisa, imagens inusitadas e cadência distintiva que caracterizam Drummond."
+    },
+    "analise_critica": "O poema funciona bem como peça de tom melancólico e cotidiano: a escolha de cenas domésticas e a linguagem direta atendem ao pedido. Entretanto, falta-lhe a originalidade imagética, a precisão sintática e o aforismo conciso que definem a voz de Carlos Drummond de Andrade. Em vários trechos o poema explica demais em vez de sugerir, reduzindo força lírica. Como imitação, é competente; como exercício de emulação fiel, é parcial.",
+    "veredito_final": "satisfatório",
+    "justificativa_veredito": "Atende ao pedido em termos de temas, registro e estrutura, produzindo um poema coerente e legível; contudo não alcança a singularidade estilística, a concisão imagética e a potência crítica que fariam a peça equivalente a um texto de Drummond, deixando reservas quanto à fidelidade plena."
+}
