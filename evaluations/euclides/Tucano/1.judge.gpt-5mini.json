@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "insuficiente",
+            "justificativa": "Não reproduz a voz ensaística, erudita e analítica de Euclides da Cunha; opta por linguagem simples, rimas e sentimentalismo, ausentes na prosa crítica do autor."
+        },
+        "coerencia_tematica": {
+            "score": "regular",
+            "justificativa": "Mantém o tema central (sertão e Guerra de Canudos) mas oscila entre imagens de guerra e resoluções otimistas contraditórias, prejudicando a unidade do discurso."
+        },
+        "metrica_estrutura": {
+            "score": "insuficiente",
+            "justificativa": "Versos e estrofes sem padrão deliberado; não há operação formal que remeta à prática textual de Euclides (que escreveu em prosa longa e periodização complexa)."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Há tentativas de rima e sonoridade, porém são irregulares e por vezes forçadas, sem contribuir a uma musicalidade consistente."
+        },
+        "forca_imagetica_figuras": {
+            "score": "regular",
+            "justificativa": "Algumas imagens são evocativas (sertão, canhões, fome), mas muitas são clichês e pouco precisas; faltam metáforas complexas e visão analítica característica do autor pedido."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "regular",
+            "justificativa": "Inspira‑se tematicamente em Canudos/sertão, mas não cria uma voz própria convincente dentro da tradição de Euclides; resulta mais em imitação genérica."
+        },
+        "registro_vocabulario": {
+            "score": "regular",
+            "justificativa": "Vocabulário simples e contemporâneo; não adota o registro erudito, científico e descritivo associado a Euclides da Cunha."
+        },
+        "impacto_emocional_literario": {
+            "score": "regular",
+            "justificativa": "Causa efeito emotivo básico (compaixão, esperança), mas carece de densidade intelectual e gravidade histórica que gerariam maior impacto literário."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Euclides da Cunha",
+        "autor_ou_estilo_identificado_no_poema": "Regionalismo sertanejo genérico com tom popular/romântico; não se identifica claramente com Euclides da Cunha",
+        "escola_literaria": "Regionalismo / poesia de cunho popular; ausência da prosa ensaística e do naturalismo-analítico",
+        "nivel_alinhamento": "baixo",
+        "evidencias_textuais": "Uso de rimas simples e refrões otimistas (\"cantemos\", \"sertanejo universal\"); imagens clichê (\"campos dourados\", \"terra fértil e verde\"); frases curtas e sentimentais em vez de longos períodos analíticos; ausência de periodicidade, termos técnicos e reflexão sociopolítica profunda presentes em 'Os Sertões'."
+    },
+    "analise_critica": "O poema acerta ao escolher o sertão e a guerra como tema, mas falha em captar o método e a voz de Euclides da Cunha. Em vez da prosa ensaística, descritiva e argumentativa — marcada por períodos longos, léxico erudito e análise histórica — o texto recai em imagens genéricas, rimas e um tom moralizador/esperançoso que diluem a gravidade do conflito. Há incoerências internas (mudança súbita para um hino de esperança) e escolhas de linguagem que tornam o resultado mais próximo de um poema regional popular do que de uma transposição convincente do estilo euclidiano.",
+    "veredito_final": "regular",
+    "justificativa_veredito": "Poema tem coerência temática e alguma força imagética, mas não consegue reproduzir a voz, o registro e a densidade analítica de Euclides da Cunha; é competente como peça independente, porém inadequado ao pedido específico."
+}
