@@ -1,0 +1,116 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Voz lírica amorosa, confessional e argumentativa, em que o eu poético reflete sobre a contradição entre paixão e sofrimento.",
+            "evidencias_no_texto": "A presença de interrogação retórica e exclamação revela interioridade e conflito: \"Se és fogo, como passas brandamente, / se és neve, como queimas com porfia? / Mas ai...\"."
+        },
+        "vocabulario": {
+            "registro": "Erudito, elevado e parcialmente arcaizante.",
+            "observacoes": "Léxico abstrato e nobre (\"Ardor\", \"Coração\", \"tirania\", \"porfia\"), com sintaxe invertida e construção solene típica de poesia clássica."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "Versos decassílabos em forma fixa.",
+            "padrao_identificado": "Soneto de 14 versos, com dois quartetos e dois tercetos.",
+            "observacoes": "Ritmo regular e cadenciado, com forte equilíbrio sintático e paralelismos (\"tu, que... / tu, que...\")."
+        },
+        "uso_de_rimas": {
+            "tipo": "Rimas consoantes, regulares e bem encadeadas.",
+            "esquema": "ABBA ABBA CDC DCD",
+            "observacoes": "Nos quartetos: \"nascido/derramado/disfarçado/convertido\" e \"escondido/desatado/aprisionado/derretido\"; nos tercetos alternância simétrica com fechamento argumentativo."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "antítese",
+                "paradoxo",
+                "metáfora",
+                "anáfora",
+                "hipérbato",
+                "interrogação retórica",
+                "personificação"
+            ],
+            "exemplos_do_texto": "\"incêndio em mares de água\" e \"rio de neve em fogo\" (paradoxo/antítese); \"tu, que... tu, que...\" (anáfora); \"andou Amor em ti prudente\" (personificação)."
+        },
+        "temas": {
+            "tema_central": "A ambivalência do amor, simultaneamente ardente e doloroso.",
+            "subtemas": [
+                "ausência da amada",
+                "choro e sofrimento amoroso",
+                "conflito entre razão e paixão",
+                "tensão entre aparência e essência (chama fria / neve ardente)"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "Melancólico e intensamente passional, com elaboração intelectual do sentimento.",
+            "justificativa": "O poema articula dor da ausência e exaltação amorosa por meio de imagens de fogo e neve, mantendo lamento e contenção formal."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "Renascimento tardio / maneirismo de matriz petrarquista, com traços que antecipam o gosto barroco pelo contraste.",
+            "justificativa": "Forma soneto clássica, idealização amorosa e jogo de opostos conceituais em linguagem elevada sugerem tradição camoniana-petrarquista."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Luís de Camões",
+            "justificativa": "A dicção elevada, o soneto decassilábico regular e o tratamento paradoxal do amor lembram fortemente a lírica camoniana.",
+            "elementos_de_correspondencia": [
+                "soneto clássico em português",
+                "campo semântico amoroso com antíteses",
+                "equilíbrio entre emoção e engenho retórico"
+            ]
+        },
+        {
+            "nome": "Petrarquismo (tradição de Francesco Petrarca e seus imitadores ibéricos)",
+            "justificativa": "A idealização da dama ausente e o sofrimento amoroso codificado em oposições térmicas são marcas centrais dessa tradição.",
+            "elementos_de_correspondencia": [
+                "dama idealizada e distante",
+                "eu lírico em conflito interior",
+                "uso de paradoxos amorosos (fogo/neve)"
+            ]
+        },
+        {
+            "nome": "Barroco conceptista (afinidade estilística)",
+            "justificativa": "Embora a base formal seja clássica, há forte exploração de agudeza conceitual e contrários, característica cara ao conceptismo.",
+            "elementos_de_correspondencia": [
+                "engenho verbal e argumentação por antíteses",
+                "paradoxos encadeados",
+                "dramatização lógica do sentimento"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "excelente",
+            "justificativa": "Há unidade temática rigorosa; cada imagem reforça a dialética fogo/neve e conduz ao fecho dos tercetos com clareza lógica."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "satisfatório",
+            "justificativa": "As imagens são muito eficazes, mas pertencem a um repertório tradicional do lirismo amoroso clássico (fogo, neve, lágrimas)."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "excelente",
+            "justificativa": "Estrutura de soneto perfeitamente organizada, rima consistente e cadência métrica controlada ao longo dos 14 versos."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "excelente",
+            "justificativa": "Vocabulário preciso, elevado e expressivo, com inversões sintáticas e recursos retóricos empregados de modo funcional."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "excelente",
+            "justificativa": "O texto se filia de forma nítida à lírica amorosa clássica de matriz petrarquista, com marcas formais e temáticas inequívocas."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Poema de alta qualidade literária, formalmente sólido e expressivamente intenso.",
+        "justificativa_geral": "A composição alia rigor técnico (métrica, rima, arquitetura de soneto) a uma elaboração imagética coerente e emotiva, transformando um tema tradicional em discurso de grande eficácia estética.",
+        "pontos_fortes": [
+            "alto domínio formal do soneto",
+            "coerência interna entre imagens e argumento",
+            "uso sofisticado de antítese e paradoxo",
+            "tom lírico intenso sem perda de controle estilístico"
+        ],
+        "pontos_a_melhorar": [
+            "dependência de imagens tradicionais do repertório amoroso clássico, com menor ruptura inovadora",
+            "densidade retórica pode reduzir imediatismo para leitores não familiarizados com dicção arcaizante"
+        ]
+    }
+}
