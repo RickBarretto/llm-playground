@@ -1,0 +1,114 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Lírica, contemplativa e narradora em primeira pessoa implícita; tom acolhedor e reflexivo.",
+            "evidencias_no_texto": "Expressões como \"No café da manhã, os pássaros cantam\", \"Então vamos saborear este momento precioso\" mostram voz íntima e meditativa."
+        },
+        "vocabulario": {
+            "registro": "Coloquial e acessível",
+            "observacoes": "Léxico direto e cotidiano (\"pássaros\", \"crianças\", \"coração\", \"cama\"), sem arcaísmos ou termos eruditos; repetição de palavras simples para ênfase (\"cedo, cedo demais\")."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "Verso livre",
+            "padrao_identificado": "Irregular — linhas de comprimentos variados, sem contagem silábica estável",
+            "observacoes": "Ritmo orientado por pausas naturais e pela pontuação; algumas repetições geram cadência (ex.: \"cedo, cedo demais\")."
+        },
+        "uso_de_rimas": {
+            "tipo": "Predominantemente ausente",
+            "esquema": "Não há esquema de rima consistente nem rimas marcantes",
+            "observacoes": "O texto privilegia a prosa poética e imagens em vez de estrutura rimada; eventuais ecos sonoros são esparsos e não sistemáticos."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "metáfora",
+                "paradoxo",
+                "repetição/anáfora",
+                "personificação",
+                "imagens cotidianas"
+            ],
+            "exemplos_do_texto": "\"O amor voa como o vento\" (metáfora/símile); \"Amizade é fogo que não arde\" (paradoxo/metáfora); \"cedo, cedo demais\" (repetição); \"As estrelas brilhando acima do mundano\" (personificação/antítese)."
+        },
+        "temas": {
+            "tema_central": "Reflexão sobre a vida cotidiana, amor, amizade e as contradições humanas",
+            "subtemas": [
+                "belezas do cotidiano (manhã, sol, pássaros)",
+                "contradições e paradoxos existenciais",
+                "memória e passagem do tempo",
+                "esperança e persistência diante da dificuldade"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "Contemplativo e esperançoso com matiz melancólico",
+            "justificativa": "Alternância entre imagens alegres (pássaros, sol, crianças) e referências a dor/contradição (\"Amor não correspondido, dor sofrida\"), culminando em convite à preservação da luz interior."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "Poesia contemporânea / verso livre (século XX–XXI)",
+            "justificativa": "Linguagem coloquial, ausência de forma métrica clássica e ênfase em imagens cotidianas e emoções pessoais são característicos da poesia moderna e contemporânea de alcance popular."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Poesia popular contemporânea / verso livre",
+            "justificativa": "Estrutura livre, vocabulário direto e temas cotidianos e sentimentais indicam um alinhamento com a poesia popular contemporânea.",
+            "elementos_de_correspondencia": [
+                "uso do verso livre",
+                "imagens do dia a dia (café da manhã, crianças, cama)",
+                "tom acessível e comunicativo"
+            ]
+        },
+        {
+            "nome": "Vinicius de Moraes (paralelo estilístico)",
+            "justificativa": "A combinação de abordagem amorosa, tom caloroso e imagens domésticas lembra alguns poemas líricos e sentimentais de Vinicius, embora sem sua mestria rítmica.",
+            "elementos_de_correspondencia": [
+                "temática do amor e da intimidade",
+                "linguagem coloquial e musicalidade simples",
+                "imagens de afeto cotidiano (\"Na cama, há sonhos compartilhados\")"
+            ]
+        },
+        {
+            "nome": "Mario Quintana (paralelo tonal)",
+            "justificativa": "A observação do mundo cotidiano com ironia suave e pequenas máximas ou paradoxos (\"Amizade é fogo que não arde\") remete ao tom afável e reflexivo de Quintana.",
+            "elementos_de_correspondencia": [
+                "frases aforísticas e reflexivas",
+                "valorização do detalhe quotidiano",
+                "paradoxos e ironia discreta"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "satisfatório",
+            "justificativa": "O poema mantém unidade temática (vida, amor, amizade, contradições) e transições lógicas entre estrofes, embora alguns trechos sejam genéricos."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "regular",
+            "justificativa": "Imagens e frases contêm clichês e lugares-comuns (beleza da vida, amor que dói), com pontuais metáforas interessantes, mas sem invenções muito originais."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "regular",
+            "justificativa": "Escolha consistente do verso livre, porém sem variação rítmica deliberada ou controle métrico sofisticado; técnica formal simples."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "satisfatório",
+            "justificativa": "Linguagem clara e eficaz para transmitir emoções; vocabulário limitado mas apropriado ao tom íntimo e acessível."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "satisfatório",
+            "justificativa": "A peça encaixa-se bem na tradição da poesia lírico-contemplativa contemporânea, embora sem traços marcantes que a vinculem de forma inequívoca a um autor específico."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Poema lírico contemporâneo de tom amável, claro e comunicativo, mas com recursos imagéticos e formais modestos.",
+        "justificativa_geral": "O texto funciona como reflexão intimista sobre a vida e afetos, com imagens acessíveis e um tom consolador; porém recorre a fórmulas e paradoxos já bem conhecidos, o que limita sua novidade estética.",
+        "pontos_fortes": [
+            "tom caloroso e convidativo que cria empatia",
+            "imagens do cotidiano que facilitam identificação",
+            "coerência temática e leitura fluida"
+        ],
+        "pontos_a_melhorar": [
+            "evitar clichês e buscar metáforas mais originais",
+            "trabalhar ritmo interno e variação sonora para maior musicalidade",
+            "aprofundar imagens e detalhes sensoriais para aumentar impacto emocional"
+        ]
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Lírica, meditativa e didática; alterna entre descrição e exortação (imperativo).",
+            "evidencias_no_texto": "Uso de declarações gerais ('Amor é...'), imagens introspectivas ('solidão que ninguém vê'), e imperativos finais ('Portanto, ame intensamente', 'Então deixe-a fluir')."
+        },
+        "vocabulario": {
+            "registro": "Coloquial com imagens convencionais e vocabulário acessível.",
+            "observacoes": "Predominância de palavras correntes ('alegria', 'tristeza', 'esperança') combinadas a metáforas tradicionais ('fogo', 'mar', 'chama'), sem léxico arcaico ou técnico."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "Verso livre, métrica irregular.",
+            "padrao_identificado": "Não há padrão métrico consistente; alternância entre linhas curtas e longas, aproximações ocasionais de decassílabos em alguns versos isolados.",
+            "observacoes": "Algumas estrofes lembram quatrains clássicos, mas o poema em geral privilegia fluxo prosaico e cadência discursiva, com enjambements e pausas naturais."
+        },
+        "uso_de_rimas": {
+            "tipo": "Rimas ausentes ou esparsas (assonância ocasional).",
+            "esquema": "Sem esquema de rima regular detectável.",
+            "observacoes": "Algumas repetições de sons e correspondências métricas pontuais, porém nenhuma solução rimática consistente ao longo do texto."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "metáfora",
+                "paradoxo",
+                "anáfora",
+                "comparação (como)",
+                "sinestesia"
+            ],
+            "exemplos_do_texto": "'Amor é fogo que arde sem se ver' (paradoxo/metáfora); 'Uma sinfonia de emoções' (metáfora/sinestesia); repetições de 'Quando...' e 'Que...' (anáfora); 'Como o mar, o amor permanece firme' (comparação)."
+        },
+        "temas": {
+            "tema_central": "O amor em suas múltiplas facetas (alegria, dor, esperança).",
+            "subtemas": [
+                "solidão",
+                "amizade e comunhão",
+                "busca pela felicidade",
+                "resiliência e esperança",
+                "imagens naturais (mar, fogo, luz) como corolário emocional"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "Exaltado e contemplativo, com matizes consoladoras e didáticas.",
+            "justificativa": "Texto alterna descrições entusiásticas ('enche nossos dias de alegria') com reconhecimento de sofrimento ('momentos difíceis', 'lágrimas e dor'), terminando em exortação otimista."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "Ecletismo contemporâneo com ecos românticos/classicistas.",
+            "justificativa": "Linguagem acessível e verso livre remetem a práticas contemporâneas; uso de paradoxos e imagens tradicionais (fogo, mar, soneto implícito) evoca influência do cânone lírico clássico e do Romantismo."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Tradição lírica clássica portuguesa (eco de soneto clássico)",
+            "justificativa": "Presença de um verso-paradoxo inicial e imagens metafóricas que recordam o léxico e os recursos do soneto clássico lírico.",
+            "elementos_de_correspondencia": [
+                "uso de paradoxo conceitual ('fogo que arde sem se ver')",
+                "metáforas amorosas tradicionais (chama, fogo, mar, luz)",
+                "tom meditativo-exaltado"
+            ]
+        },
+        {
+            "nome": "Romantismo / Poesia sentimental do século XIX",
+            "justificativa": "Forte presença da emoção exaltada, da natureza como espelho dos afetos e da exortação moral/afetiva, elementos caros ao Romantismo.",
+            "elementos_de_correspondencia": [
+                "imagens naturais grandiosas ('Como o mar, o amor permanece firme', 'luz dourada')",
+                "valorização do sentimento e da subjetividade",
+                "dicção que privilegia o sublime emocional"
+            ]
+        },
+        {
+            "nome": "Poesia popular contemporânea / literatura de sentimento acessível",
+            "justificativa": "Linguagem direta, didatismo explícito e ausência de rigor métrico apontam para um registro contemporâneo mais popular e comunicativo.",
+            "elementos_de_correspondencia": [
+                "vocabulário simples e cotidiano",
+                "exortações explícitas ao leitor ('Portanto, ame intensamente')",
+                "estrutura em blocos discursivos clara, voltada à transmissão de uma mensagem emocional"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "satisfatório",
+            "justificativa": "As imagens e ideias orbitam consistentemente o tema do amor, com progressão temática (descrição → reconhecimento da dor → exortação). Contudo, a transição entre estrofes varia em nível de foco, levando a passagens levemente repetitivas."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "regular",
+            "justificativa": "Muitas imagens e fórmulas são convencionais ('amor como fogo', 'amor como mar', 'luz dourada'), o que reduz a originalidade; há, porém, combinações aceitáveis que conferem alguma vivacidade."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "regular",
+            "justificativa": "Não há domínio formal rigoroso: o verso livre é usado de modo funcional, mas falta economia formal e coerência métrica que revelassem maior controle técnico."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "satisfatório",
+            "justificativa": "Linguagem clara, correta e eficaz para comunicar emoções; faltam, porém, escolhas lexicais mais precisas ou inventivas que elevassem o nível estilístico."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "satisfatório",
+            "justificativa": "O poema mistura marcas reconhecíveis do cânone lírico e do Romantismo com traços contemporâneos populares; a mistura é reconhecível, ainda que eclética."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Poesia acessível e sentimental, eficaz na comunicação afetiva, mas dependente de imagens convencionais.",
+        "justificativa_geral": "O poema cumpre bem o papel de transmitir uma visão abrangente e emocional do amor, com imagens e comandos que visam consolar e exortar. No entanto, peca pela previsibilidade imagética e pela irregularidade formal, o que limita seu impacto estético mais profundo.",
+        "pontos_fortes": [
+            "Clareza comunicativa e empatia emocional",
+            "Imagens imediatas que facilitam identificação do leitor",
+            "Tom otimista e consolador que fecha o texto com coerência afetiva"
+        ],
+        "pontos_a_melhorar": [
+            "Maior originalidade nas metáforas para evitar clichês",
+            "Coesão métrica e sonora mais trabalhada (ritmo, rima, musicalidade)",
+            "Variedade sintática e precisão vocabular para elevar densidade poética"
+        ]
+    }
+}
