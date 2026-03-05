@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "insuficiente",
+            "justificativa": "O texto é prosa explicativa e laudatória, sem a voz mordaz, irônica e satírica de Gregório de Matos; faltam léxico barroco, inversões sintáticas e o tom cáustico característico."
+        },
+        "coerencia_tematica": {
+            "score": "regular",
+            "justificativa": "Há menções pontuais a corrupção e justiça, mas o texto deriva para exposições e afirmações genéricas sem desenvolvimento poético nem unidade temática consistente."
+        },
+        "metrica_estrutura": {
+            "score": "insuficiente",
+            "justificativa": "Não há versos métricos nem organização formal poética — o conteúdo aparece em parágrafos de prosa, sem atenção à métrica barroca ou a uma estrutura deliberada."
+        },
+        "rimas_sonoridade": {
+            "score": "insuficiente",
+            "justificativa": "Ausência de esquema de rimas, aliterações ou trabalho sonoro intencional que remeta à musicalidade típica da poesia barroca."
+        },
+        "forca_imagetica_figuras": {
+            "score": "regular",
+            "justificativa": "Algumas imagens elementares (ex.: referência aos escravos, justiça), mas faltam metáforas originais, jogos de linguagem e imagens densas típicas de Gregório de Matos."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "regular",
+            "justificativa": "O texto é original na forma de comentário moderno, porém não imita nem reinterpreta adequadamente o estilo do autor solicitado."
+        },
+        "registro_vocabulario": {
+            "score": "insuficiente",
+            "justificativa": "Vocabulário moderno e explicativo; ausente o registro erudito/arcaizante, as hipérboles e as expressões satíricas próprias do barroco brasileiro do século XVII."
+        },
+        "impacto_emocional_literario": {
+            "score": "regular",
+            "justificativa": "Produz pouco impacto poético: informa mais do que comove ou provoca, faltando a carga afetiva e corrosiva esperada."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Gregório de Matos",
+        "autor_ou_estilo_identificado_no_poema": "Texto em prosa moderna de caráter expositivo/biográfico (comentário literário)",
+        "escola_literaria": "Prosa contemporânea / não alinhada ao barroco",
+        "nivel_alinhamento": "baixo",
+        "evidencias_textuais": "Uso de parágrafos em prosa; tom laudatório e explicativo; referências anacrônicas (Dante, frase em francês); ausência de sintaxe barroca, metáforas mordazes e ironia corrosiva."
+    },
+    "analise_critica": "O «poema» apresentado não é um poema no sentido formal nem um exercício convincente de pastiche de Gregório de Matos. Transforma a tarefa em um comentário biográfico e interpretativo, com sentenças declarativas e generalizações, quando o pedido exigia voz poética barroca: sátira mordaz, imagens densas, léxico arcaico/erudito e jogos de linguagem. Há um traço temático reconhecível (corrupção, justiça), mas ele aparece de modo superficial e disperso. Em suma, o texto falha em reproduzir o tom, a técnica e a força imagética do autor solicitado.",
+    "veredito_final": "insuficiente",
+    "justificativa_veredito": "O resultado não atende à solicitação: não é um poema, não adopta a voz nem os recursos formais de Gregório de Matos, e carece de densidade imagética e sátira característica do barroco."
+}

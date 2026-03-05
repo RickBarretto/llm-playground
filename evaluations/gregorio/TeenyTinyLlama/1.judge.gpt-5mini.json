@@ -1,0 +1,46 @@
+{
+    "scores": {
+        "fidelidade_estilo_autor": {
+            "score": "insuficiente",
+            "justificativa": "Não reproduz a voz barroca, satírica e mordaz de Gregório de Matos; falta ironia, denúncia social contundente, inversões sintáticas e léxico arcaizante característicos."
+        },
+        "coerencia_tematica": {
+            "score": "regular",
+            "justificativa": "Há referências dispersas a pobreza e riqueza, mas o poema alterna para um tom sentimental e celebratório, sem desenvolvimento coerente nem foco crítico."
+        },
+        "metrica_estrutura": {
+            "score": "insuficiente",
+            "justificativa": "Versos livres, rítmica irregular e linguagem prosaica; não há uso deliberado de formas barrocas, redondilhas ou artificíos métricos típicos do autor."
+        },
+        "rimas_sonoridade": {
+            "score": "regular",
+            "justificativa": "Não há esquema de rima consistente; a musicalidade é improvisada e pouco intencional, sem o jogo sonoro barroco esperado."
+        },
+        "forca_imagetica_figuras": {
+            "score": "regular",
+            "justificativa": "Algumas imagens (\"carne me dá arrepios\") são concretas, mas predominam clichês e metáforas vagas, sem a complexidade metafórica e o wit do barroco."
+        },
+        "originalidade_vs_imitacao": {
+            "score": "regular",
+            "justificativa": "O texto soa genérico e influenciado por registros românticos/sentimentais; tenta imitar uma voz clássica sem diferenciação original nem respeito às marcas do autor pedido."
+        },
+        "registro_vocabulario": {
+            "score": "insuficiente",
+            "justificativa": "Vocabulário moderno, coloquial e simples; ausente o vocabulário erudito/arcaico e as construções cultas do século XVII."
+        },
+        "impacto_emocional_literario": {
+            "score": "regular",
+            "justificativa": "Gera alguma emoção superficial, mas carece de densidade intelectual e da violência satírica que provoca reflexão e incômodo moral."
+        }
+    },
+    "analise_autoral": {
+        "autor_solicitado": "Gregório de Matos",
+        "autor_ou_estilo_identificado_no_poema": "voz genérica contemporânea / poesia sentimental-romântica",
+        "escola_literaria": "romantismo moderno / verso livre (não barroco)",
+        "nivel_alinhamento": "baixo",
+        "evidencias_textuais": "Tom emocional e celebratório ('vamos nos alegrar', 'paz, amor e graça'), sintaxe direta e léxico simples, ausência de sarcasmo, antíteses e imagens barrocamente cultivadas; frases expositivas em vez de aforismos mordazes."
+    },
+    "analise_critica": "O poema apresentado falha em reproduzir os traços centrais do barroco e de Gregório de Matos: não há ataque satírico à corrupção ou hipocrisia, nem jogos conceituosos e linguísticos. A linguagem é prosaica e sentimental, com final conciliador que contraria a postura provocadora do autor solicitado. Imagens e figuras são banais e pouco trabalhadas; a métrica e a sonoridade não exibem intenção formal. O resultado aproxima-se de uma composição romântica contemporânea, sem a densidade, erudição e agressividade moral que justificariam alinhamento com Gregório de Matos.",
+    "veredito_final": "insuficiente",
+    "justificativa_veredito": "O poema não atende ao pedido: diverge substancialmente do estilo, tom e técnica de Gregório de Matos, apresentando voz, tema e forma incompatíveis com o barroco satírico exigido."
+}
