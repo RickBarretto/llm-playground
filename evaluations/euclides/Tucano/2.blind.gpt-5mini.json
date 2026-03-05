@@ -1,0 +1,115 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Voz narrativa-didática com tom épico-contemplativo; predomina um narrador observador que comenta e interpreta a realidade social e natural.",
+            "evidencias_no_texto": "Frases como \"Ele descobriu os mistérios do sertão\" e \"Desafiou a todos nós, humanos, / Para entender e aprender mais\" mostram um narrador que explica e julga; uso de terceira pessoa focalizada em um autor/figura exemplar."
+        },
+        "vocabulario": {
+            "registro": "Misto: predominantemente coloquial-formal com traços eruditos/ensaiísticos.",
+            "observacoes": "Vocabulário direto e acessível (\"fome\", \"sede\", \"famílias\"), intercalado por termos de tom mais elaborado ou metafórico (\"visão artística\", \"sermões de guerra\")."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "Verso livre / prosa poética (sem esquema métrico regular identificável).",
+            "padrao_identificado": "Ausência de métrica regular; linhas de extensão variável; estrofes em quarteiros e sextinas, mas sem contagem silábica consistente.",
+            "observacoes": "O ritmo apoia-se na enumeração e na repetição anafórica em vez de um metro fixo."
+        },
+        "uso_de_rimas": {
+            "tipo": "Rimas ausentes / rara sonoridade consonantal ocasional.",
+            "esquema": "Não há um esquema de rima sistemático.",
+            "observacoes": "Terminações como \"glória/brilhante\" ou \"dor/sertão\" não formam pares regulares; predomina a prosódia livre."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "personificação",
+                "anáfora",
+                "enumeração",
+                "metáfora",
+                "imagem narrativa"
+            ],
+            "exemplos_do_texto": "Personificação: \"como se a própria terra tivesse falado\"; Anáfora/repeteção: início de versos com \"Através de suas palavras\"; Enumeração: listas de efeitos sociais (\"A fome e a sede do povo, / Os laços familiares quebrados...\")."
+        },
+        "temas": {
+            "tema_central": "Retrato social e histórico do sertão brasileiro — sofrimento, luta e resiliência.",
+            "subtemas": [
+                "guerra e conflito",
+                "pobreza e fome",
+                "laços familiares desfeitos",
+                "memória e testemunho literário",
+                "função pedagógica/ensaiística da escrita"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "Contemplativo e reverente, com matiz melancólico.",
+            "justificativa": "O poema mistura admiração pelo autor-figura (\"em toda a sua glória\", \"Sua visão artística\") com descrição sóbria do sofrimento (\"fome e a sede do povo\", \"famílias desfeitas\")."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "Final do século XIX / início do século XX — tradição realista/naturalista e regionalista brasileira.",
+            "justificativa": "Enfoque documental e sociológico sobre o sertão, linguagem descritiva-ensaiística e preocupação com fatores sociais e ambientais remetem a obras como \"Os Sertões\" e ao discurso naturalista/realista sobre o sertão."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Euclides da Cunha (influência/intertexto)",
+            "justificativa": "Referência explícita ao nome e temática central (o sertão, batalhas, análise da realidade sertaneja) sugere ligação direta ao autor e sua abordagem ensaística-narrativa.",
+            "elementos_de_correspondencia": [
+                "mencionamento explícito do nome",
+                "enfoque no sertão e em conflitos sociais",
+                "tom documental/ensaiístico misturado a descrição poética"
+            ]
+        },
+        {
+            "nome": "Regionalismo / Literatura de sertão (movimento)",
+            "justificativa": "Temas e imagens — seca, sertanejos, resistência, paisagem como personagem — são marcadores centrais do regionalismo brasileiro e da literatura voltada ao sertão.",
+            "elementos_de_correspondencia": [
+                "imagética do sertão (fome, sede, trabalho árduo)",
+                "valorização da resiliência local",
+                "descrição social e histórica do espaço rural"
+            ]
+        },
+        {
+            "nome": "Naturalismo / Realismo sociológico (tradição literária)",
+            "justificativa": "A ênfase na dureza das condições materiais, na guerra e nos efeitos sociais, com tom explicativo e observacional, aproxima o poema de uma leitura naturalista/realista.",
+            "elementos_de_correspondencia": [
+                "descrições de condições sociais adversas",
+                "tom quase documental e interpretativo",
+                "ausência de experimentalismo formal — foco no conteúdo social"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "satisfatório",
+            "justificativa": "O poema mantém uma unidade temática clara (euclidianismo/sertão) e progressão lógica, embora algumas imagens e frases sejam genéricas e transições pouco elaboradas."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "regular",
+            "justificativa": "As imagens e tópicos são convencionais dentro do repertório do sertão e da crítica social; há boa intenção interpretativa, mas poucas imagens inéditas ou linguagens surpreendentes."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "regular",
+            "justificativa": "O texto privilegia verso livre e clareza discursiva em vez de rigor métrico ou musicalidade refinada; estrutura estável, porém sem domínio formal técnico evidenciado."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "satisfatório",
+            "justificativa": "Linguagem clara e funcional, com termos precisos para descrever situações sociais, mas sem grande riqueza léxica ou audácia estilística."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "satisfatório",
+            "justificativa": "O poema alinha-se de maneira plausível às tradições naturalista/realista e ao regionalismo sertanejo, especialmente pela temática e pelo tom documental."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Poema de caráter ensaístico e reverente sobre o sertão; comunica com clareza e senso crítico, mas peca por formulações previsíveis e ausência de risco formal.",
+        "justificativa_geral": "O texto funciona bem como homenagem-ensaio: tem unidade temática, tom contemplativo e imagens sociais coerentes. Contudo, carece de maior originalidade metafórica e de economia/afinamento formal que elevem seu impacto poético.",
+        "pontos_fortes": [
+            "Clareza temática e unidade do discurso sobre o sertão",
+            "Tom reverente e contemplativo que dá coesão ao tributo",
+            "Uso eficaz de figuras como personificação e anáfora para enfatizar ideias"
+        ],
+        "pontos_a_melhorar": [
+            "Maior variação imagética e originalidade metafórica",
+            "Aperfeiçoamento rítmico e sonoro (trabalho métrico ou rimas internas)",
+            "Evitar frases genéricas e expandir imagens concretas que tornem a cena mais viva"
+        ]
+    }
+}
