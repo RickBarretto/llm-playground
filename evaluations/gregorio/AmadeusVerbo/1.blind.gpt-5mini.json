@@ -1,0 +1,113 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "voz lírica-exortativa, celebratória e didática, assumindo tom panegírico/homenageador",
+            "evidencias_no_texto": "Uso recorrente da 3ª pessoa para enaltecer (\"Gregório de Matos era seu nome\"), apelos coletivos e instruções morais (\"Então, vamos honrar seu legado\", \"devemos lutar pelo que é justo\")."
+        },
+        "vocabulario": {
+            "registro": "predominantemente coloquial-formal (acessível com vocábulos pontualmente elevadores)",
+            "observacoes": "Predomínio de léxico direto e claro (\"corrupção\", \"ganância\", \"justiça\"); termos levemente eruditos ou bíblicos aparecem pontualmente (\"versículos\", \"idade barroca\")."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "verso livre",
+            "padrao_identificado": "ausência de esquema métrico regular; linhas com extensão variável e pausas sintáticas frequentemente no fim de verso",
+            "observacoes": "O poema organiza-se em estrofes pareadas de sentido, mas não há decassílabo nem redondilha consistente; ritmo marcado mais por anáforas e repetição de conjunções do que por métrica regular."
+        },
+        "uso_de_rimas": {
+            "tipo": "irregular / esporádico",
+            "esquema": "sem esquema de rima claro — algumas repetições léxicas (refrões e palavras) funcionam como eco sonoro",
+            "observacoes": "Há repetições e assonâncias pontuais (ex.: 'brilhante' reaparece), mas rimas consoantes regulares não são mantidas."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "personificação",
+                "anáfora",
+                "metáfora simbólica",
+                "hipérbole (leve)"
+            ],
+            "exemplos_do_texto": "\"Uma voz se levantou\" (personificação); repetição de 'E' no início de versos (anáfora); 'Na terra do sol nascente' (imagem/metáfora simbólica); 'ele os fez cair' (hipérbole de ação política)."
+        },
+        "temas": {
+            "tema_central": "exaltação de um poeta (Gregório de Matos) e defesa da justiça social",
+            "subtemas": [
+                "crítica à corrupção e à ganância",
+                "memória/legado literário",
+                "censura e resistência (inimigos tentando silenciar)",
+                "convocação moral/ação coletiva"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "exaltado / didático",
+            "justificativa": "Tom predominantemente positivo e celebratório, com imperativos morais e defesa enérgica da justiça; emoção transmitida pela afirmação e pela exortação."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "contemporâneo (homenagem a figura barroca)",
+            "justificativa": "Linguagem direta e verso livre apontam para produção moderna/contemporânea; o poema referencia o Barroco e Gregório de Matos, mas não reproduz formalmente o metro e a complexidade barroca."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Gregório de Matos (referência temática)",
+            "justificativa": "O poema nomeia diretamente Gregório de Matos e centra-se em temas por ele famosos — crítica à corrupção, sátira social e moralidade pública — embora stylisticamente o poema não imponha o padrão formal barroco.",
+            "elementos_de_correspondencia": [
+                "temas de corrupção, injustiça e crítica social",
+                "referência explícita ao nome e ao contexto ('idade barroca')",
+                "retórica moral e denunciadora presente no conteúdo"
+            ]
+        },
+        {
+            "nome": "Barroco (movimento/época, como referência temática)",
+            "justificativa": "Pontos temáticos e referência direta ao 'barroco' e à figura colonial remetem ao imaginário barroco-colonial brasileiro, especialmente na ênfase moral e religiosa presente na temática.",
+            "elementos_de_correspondencia": [
+                "preocupação com pecado/injustiça",
+                "linguagem que invoca autoridade moral",
+                "menção contextual ('idade barroca')"
+            ]
+        },
+        {
+            "nome": "Poesia panegírica/poesia didática contemporânea",
+            "justificativa": "A forma livre, vocabulário direto e função pedagógico-exortativa aproximam o texto de um panegírico moderno — poema curto de homenagem que busca educar e mobilizar.",
+            "elementos_de_correspondencia": [
+                "tom celebrado e exortativo ('vamos honrar', 'devemos lutar')",
+                "ausência de rigor métrico clássico, presença de linguagem acessível",
+                "estrutura narrativa/argumentativa que serve à homenagem"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "satisfatório",
+            "justificativa": "Sequência temática clara (apresentação → elogio → obras/temas → convite à ação) com progressão lógica; algumas transições são diretas e repetitivas, mas a unidade de sentido se mantém."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "regular",
+            "justificativa": "Imagens e fórmulas usadas são convencionais (ex.: 'terra do sol nascente', 'voz se levantou'); pouca inovação metafórica ou linguística além da função comemorativa explícita."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "regular",
+            "justificativa": "Controle formal limitado: verso livre funcional, mas sem exploração métrica ou sonora sofisticada; rimas e ritmo são irregulares e dependem mais da repetição do que de técnica métrica."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "satisfatório",
+            "justificativa": "Linguagem clara, correta e eficiente para comunicar a mensagem; vocabulário adequado ao propósito homenageador, embora pouco rico ou variegado em registros estilísticos."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "satisfatório",
+            "justificativa": "O texto remete tematicamente ao Barroco e a Gregório de Matos, mas estilisticamente coloca-se numa tradição contemporânea de homenagem em verso livre; a correspondência é parcial e reconhecível."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Poema funcional e comunicativo, eficaz como panegírico contemporâneo, mas pouco marcante em termos de originalidade formal.",
+        "justificativa_geral": "O poema cumpre seu propósito de enaltecer Gregório de Matos e de reafirmar valores de justiça; apresenta coerência temática e clareza lexical. Entretanto, falta densidade imagética e rigor formal que tornariam a peça literariamente mais memorável ou caracteristicamente barroca.",
+        "pontos_fortes": [
+            "Clareza de propósito e coerência temática",
+            "Tom exortativo convincente para mobilizar o leitor",
+            "Vocabulário direto que facilita a leitura e compreensão imediata"
+        ],
+        "pontos_a_melhorar": [
+            "Maior originalidade imagética e uso de figuras metáforas mais inovadoras",
+            "Trabalhar recursos sonoros (rima, aliteração, ritmo) para reforçar musicalidade",
+            "Aprofundar a ambivalência barroca (antiteses, contraste moral) caso se deseje uma aproximação estilística mais fiel ao Barroco"
+        ]
+    }
+}
