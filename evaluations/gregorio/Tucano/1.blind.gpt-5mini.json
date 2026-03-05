@@ -1,0 +1,120 @@
+{
+    "analise_estilistica": {
+        "voz_poetica": {
+            "descricao": "Voz coletiva e proclamativa, próxima de um narrador-protesto/clamor; mistura de lírica e panfletária (exortativa).",
+            "evidencias_no_texto": "Uso de 'O povo sofre...', 'Venha ao nosso mundo, venham ouvir nossas histórias', perguntas retóricas e convocatórias ('Então, ouçam, vejam e aprendamos')."
+        },
+        "vocabulario": {
+            "registro": "Coloquial-dramático, terreno e acessível, com ocasional registro bíblico/arcaizante na construção imagética.",
+            "observacoes": "Predominância de palavras concretas e sensoriais ('carne', 'sangrando', 'ferida', 'espigas', 'fedor'), sem lexis erudito; tom fortemente popular e direto."
+        },
+        "metrica_e_ritmo": {
+            "tipo_de_verso": "Verso livre",
+            "padrao_identificado": "Irregular — estrofes e versos de comprimento variável; presença de refrão repetido ('O povo sofre na terra').",
+            "observacoes": "Não há contagem silábica consistente nem esquema métrico regular; ritmo sustentado por anáforas e repetições mais que por medida métrica."
+        },
+        "uso_de_rimas": {
+            "tipo": "Ausente / assonâncias ocasionais",
+            "esquema": "Sem esquema de rima consistente; aparecem rimas internas/assonantes pontuais, mas nada sistemático.",
+            "observacoes": "O poema depende de repetição, paralelismo e sonoridade natural em vez de rimas formais."
+        },
+        "figuras_de_linguagem": {
+            "predominantes": [
+                "metáfora",
+                "anáfora",
+                "personificação",
+                "pergunta retórica",
+                "apóstrofe",
+                "hipérbole",
+                "sinestesia"
+            ],
+            "exemplos_do_texto": "'A carne rasgada, sangrando com pus' (metáfora/imagética visceral); 'A terra semeou espigas verdes' (personificação); repetição 'O povo sofre na terra' (anáfora); 'o coração humano cheira a pecado e a doença' (sinestesia/metáfora moral)."
+        },
+        "temas": {
+            "tema_central": "Sofrimento coletivo e denúncia social — fome, miséria e opressão",
+            "subtemas": [
+                "crítica à autoridade (reis e príncipes)",
+                "decadência da natureza como reflexo social",
+                "convocação à resistência e esperança coletiva",
+                "perda de inocência e denúncia moral"
+            ]
+        },
+        "tom_emocional": {
+            "classificacao": "Melancólico / indignado / exortativo",
+            "justificativa": "Predominância de imagens de dor e degradação combinadas com apelos diretos ao leitor/ouvintes e com final retórico de resistência."
+        },
+        "periodo_literario_sugerido": {
+            "periodo": "Século XX — poesia engajada / modernismo tardio / poesia de protesto",
+            "justificativa": "Linguagem direta, temática social e política, tom panfletário e uso de imagens concretas remetem à poesia comprometida do século XX (poesia social, neorrealismo, tradições modernistas que se voltam ao social)."
+        }
+    },
+    "autores_ou_estilos_sugeridos": [
+        {
+            "nome": "Pablo Neruda (fase anti‑social/poesia de denúncia)",
+            "justificativa": "Semelhança na fusão de imagens terrestres e corporais com denúncia social e tom coletivo/exortativo.",
+            "elementos_de_correspondencia": [
+                "imagética visceral (carne, ferida, fedor)",
+                "voz coletiva e panfletária",
+                "temática social e anti‑autoritária",
+                "combinação de paisagem natural com sofrimento humano"
+            ]
+        },
+        {
+            "nome": "Poesia proletária / realismo social (movimento de poesia de protesto)",
+            "justificativa": "Estrutura e conteúdo correspondem a um poema de compromisso social que prioriza clareza, apelo direto e mensagem política sobre experimentação formal.",
+            "elementos_de_correspondencia": [
+                "linguagem acessível e direta",
+                "denúncia de elites ('reis e príncipes')",
+                "convocatória à ação coletiva",
+                "recorrência de imagens de fome e miséria"
+            ]
+        },
+        {
+            "nome": "Carlos Drummond de Andrade (trechos de sua vertente social e irônica)",
+            "justificativa": "Algumas aproximações no tom reflexivo e no uso de imagens urbanas/rurais para comentar crise humana, embora o presente poema seja menos ironicamente contido e mais panfletário.",
+            "elementos_de_correspondencia": [
+                "tom meditativo que alterna com denúncia",
+                "uso de perguntas retóricas e reflexão coletiva",
+                "imagens de terra e trabalho"
+            ]
+        }
+    ],
+    "avaliacao_por_dimensao": {
+        "coesao_e_coerencia": {
+            "nivel": "satisfatório",
+            "justificativa": "O poema mantém um fio temático claro (sofrimento coletivo e denúncia), mas apresenta repetições e algumas lacunas narrativas que enfraquecem a progressão dramática."
+        },
+        "originalidade_e_criatividade": {
+            "nivel": "regular",
+            "justificativa": "As imagens são fortes e sensoriais, porém muitas metáforas e tópicos (fome, ferida, terra corrupta) pertencem a um repertório de protesto já consagrado, com poucas transgressões formais ou imagens inéditas."
+        },
+        "dominio_formal_e_metrico": {
+            "nivel": "regular",
+            "justificativa": "Uso deliberado do verso livre e da repetição funcionam como recursos, mas há falta de rigor rítmico e escolhas de ordem sintática que tornam alguns versos prosaicos e redundantes."
+        },
+        "uso_da_lingua_e_vocabulario": {
+            "nivel": "satisfatório",
+            "justificativa": "Linguagem clara e eficaz para transmitir emoção e denúncia; cuidado limitado com concisão poética e variação léxica — por vezes o tom soa repetitivo."
+        },
+        "aderencia_a_um_estilo_reconhecivel": {
+            "nivel": "satisfatório",
+            "justificativa": "O poema se encaixa bem na tradição da poesia de denúncia/comprometida do século XX, ainda que sem sofisticar plenamente os recursos dessa tradição."
+        }
+    },
+    "qualidade_literaria_geral": {
+        "veredicto": "Poema de denúncia eficaz no apelo emocional, mas que peca pela previsibilidade estilística e por inconsistências formais.",
+        "justificativa_geral": "O texto mobiliza imagens viscerais e um tom coletivo capaz de gerar empatia e indignação; entretanto, a força do conteúdo não é sempre acompanhada por domínio formal (ritmo, economia verbal, originalidade metafórica), o que impede que o poema atinja plena sofisticação literária.",
+        "pontos_fortes": [
+            "Imagética corpórea e sensorial que cria impacto imediato",
+            "Voz coletiva e convocatória que reforça o propósito de denúncia",
+            "Clareza temática: a mensagem social chega sem ambiguidade",
+            "Uso eficaz da repetição como refrão para ancorar o poema"
+        ],
+        "pontos_a_melhorar": [
+            "Reduzir redundâncias e policar frases que soam repetitivas",
+            "Trabalhar mais a sonoridade e o ritmo interno (variação de cadência)",
+            "Buscar imagens mais originais ou surpreendentes para além do repertório habitual de protesto",
+            "Aprimorar a concisão verbal para transformar proposições discursivas em versos mais poéticos"
+        ]
+    }
+}

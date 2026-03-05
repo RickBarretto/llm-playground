@@ -1,0 +1,116 @@
+{
+  "analise_estilistica": {
+    "voz_poetica": {
+      "descricao": "Voz lírico-epopéica com marcas confessionais e discursivas; ora íntima e melancólica, ora oratória e militante.",
+      "evidencias_no_texto": "Passagens intimistas ('Um coração que sangra') alternam com apelos coletivos e grandiosos ('Um coro de vozes indignadas', 'Para defender a verdade') — mistura de confissão e proclamação."
+    },
+    "vocabulario": {
+      "registro": "Misto: predominantemente erudito/solene com inserções concretas e cruas.",
+      "observacoes": "Termos como 'acamado', 'blasfemo', 'proletas' (implícito pelo contexto), 'testamento ousado' conferem tom cultista; imagens prosaicas ('vermes', 'varredor de lixo') introduzem crueza realista."
+    },
+    "metrica_e_ritmo": {
+      "tipo_de_verso": "Verso livre (predomínio de verso não regularizado).",
+      "padrao_identificado": "Ausência de esquema métrico consistente; estrofação em quartetos e tercetos com linhas de extensão variável.",
+      "observacoes": "Há uma tentativa de cadência dramática (frases longas, anáforas), mas não se observa contagem silábica regular nem um ritmo fixo como decassílabos ou alexandrinos."
+    },
+    "uso_de_rimas": {
+      "tipo": "Majoritariamente ausente (verso livre); eventuais rimas incidentais ou assonantes.",
+      "esquema": "Sem esquema de rimas regularizável.",
+      "observacoes": "Rimas não sistemáticas; predominam finais distintos e repetições rítmicas/contextuais em vez de rima formal."
+    },
+    "figuras_de_linguagem": {
+      "predominantes": [
+        "metáfora",
+        "personificação",
+        "anáfora",
+        "sinestesia",
+        "hipérbole",
+        "imagem grotesca"
+      ],
+      "exemplos_do_texto": "Metáforas e personificações: 'Um coração que sangra, qual ave desventurada', 'O sol é um blasfemo fulgor'; Anáforas: repetição de 'Um' no início de versos ('Um punhado...', 'Um grito...'); Sinestesia/oxímoro: 'Um silêncio goteja nos ouvidos'; Imagética mórbida: 'Um punhado de vermes', 'na morte deste corpo morto'."
+    },
+    "temas": {
+      "tema_central": "Sofrimento existencial e denúncia sociopolítica — fusão de melancolia individual com revolta coletiva.",
+      "subtemas": [
+        "decadência e decomposição (corpo, sangue, vermes)",
+        "blasfêmia e descrença religiosa",
+        "tirania e opressão política",
+        "função salvífica/tributária da poesia",
+        "resistência e memória do espírito"
+      ]
+    },
+    "tom_emocional": {
+      "classificacao": "Melancólico e combativo",
+      "justificativa": "Predomina o lamento (vocabulário de dor, imagens de sangue e morte) acompanhado por uma postura combativa e redentora quando surge o 'espírito do poetisa' e o 'coro de vozes indignadas'."
+    },
+    "periodo_literario_sugerido": {
+      "periodo": "Final do século XIX a meados do século XX — interseção entre Simbolismo/Decadentismo e tendências modernistas/engajadas.",
+      "justificativa": "A linguagem decadente e mórbida remete ao Simbolismo/Decadentismo; o conteúdo de denúncia social e a alternância entre íntimo e coletivo aproximam o texto de vertentes modernistas e da poesia engajada do século XX."
+    }
+  },
+  "autores_ou_estilos_sugeridos": [
+    {
+      "nome": "Augusto dos Anjos (afinidade estilística)",
+      "justificativa": "Predominância de imagens mórbidas, linguagem de decomposição e tom quase científico-morboso em torno da carne, vermes e cadáver — traços fortemente associados a Augusto dos Anjos.",
+      "elementos_de_correspondencia": [
+        "Imagética da decomposição: 'Um punhado de vermes', 'na morte deste corpo morto'.",
+        "Tom pessimista e hiperbólico sobre a condição humana.",
+        "Vocabulário incomum e erudito combinado com imagens chocantes."
+      ]
+    },
+    {
+      "nome": "Simbolismo / Decadentismo (ex.: Cruz e Sousa e afins)",
+      "justificativa": "Uso de vocabulário sonhador, místico e blasfemo, além de tonalidade melancólica, sinestesias e ênfase em estado de alma, que lembram tônicas simbolistas.",
+      "elementos_de_correspondencia": [
+        "Uso de metáforas excessivas e personificações ('O sol é um blasfemo fulgor').",
+        "Tonalidade noturna, luto e sentimento de desencanto cósmico.",
+        "Linguagem solene e musicalidade buscada mesmo em verso livre."
+      ]
+    },
+    {
+      "nome": "Poesia engajada / Modernismo social (afinidade com poetas como Carlos Drummond de Andrade em trechos de denúncia)",
+      "justificativa": "Forte presença de denúncia social, tirania e coro coletivo de indignação; defesa da poesia como instrumento de resistência aproxima o poema de vertentes modernistas comprometidas com a realidade sociopolítica.",
+      "elementos_de_correspondencia": [
+        "'As mãos rudes de um tirano', 'povo oprimido', 'Um coro de vozes indignadas' — temática de denúncia social.",
+        "Transformação da poesia em ato ético/político ('Sua poesia... Ajuda o povo oprimido a sobreviver').",
+        "Alternância entre observação social e voz coletiva."
+      ]
+    }
+  ],
+  "avaliacao_por_dimensao": {
+    "coesao_e_coerencia": {
+      "nivel": "satisfatório",
+      "justificativa": "O poema mantém um eixo temático coerente (sofrimento → denúncia → poesia como resposta), mas apresenta transições abruptas e algumas imagens soltas que quebram parcialmente a fluidez."
+    },
+    "originalidade_e_criatividade": {
+      "nivel": "regular",
+      "justificativa": "Há imagens fortes ('silêncio goteja nos ouvidos') e combinações inusitadas, porém muitas imagens e motivações (sangue, vermes, tirano, voz do povo) soam convencionais ou já vistas em tradição mórbida/engajada."
+    },
+    "dominio_formal_e_metrico": {
+      "nivel": "regular",
+      "justificativa": "Uso consistente do verso livre e de recursos retóricos (anáforas, cadência discursiva), mas falta rigor métrico ou inovação formal clara; ritmo é por vezes prolixo e irregular."
+    },
+    "uso_da_lingua_e_vocabulario": {
+      "nivel": "satisfatório",
+      "justificativa": "Variação de registros e vocabulário rico conferem autoridade estilística; contudo, em alguns pontos o léxico soa forçado ou excessivamente solene diante de imagens prosaicas."
+    },
+    "aderencia_a_um_estilo_reconhecivel": {
+      "nivel": "satisfatório",
+      "justificativa": "O texto exibe traços reconhecíveis do Simbolismo/Decadentismo e da poesia engajada do modernismo brasileiro, ainda que sem fidelidade estrita a um único modelo."
+    }
+  },
+  "qualidade_literaria_geral": {
+    "veredicto": "Poema de forte carga imagética e intenção ética, porém irregular na execução formal e na originalidade de motivos.",
+    "justificativa_geral": "O texto combina imagens poderosas e uma atitude poética comprometida (denúncia e defesa da poesia), o que lhe garante intensidade emocional e relevância temática. No entanto, o manejo formal é desigual: transições abruptas, vocabulário por vezes antitético e recursos retóricos empregados sem consistência elegem lacunas na coesão estética. A mistura de registros funciona em passagens, mas em outras cria dissonância entre o sublime e o prosaico.",
+    "pontos_fortes": [
+      "Imagens viscerais e memoráveis ('vermes', 'silêncio goteja nos ouvidos').",
+      "Fusão entre sofrimento individual e denúncia coletiva, conferindo dimensão social à lírica.",
+      "Uso eficaz de figuras (anáfora, personificação) para elevar a carga dramática."
+    ],
+    "pontos_a_melhorar": [
+      "Aprimorar coesão entre estrofes e suavizar transições temáticas abruptas.",
+      "Rever o equilíbrio entre vocabulário erudito e imagens prosaicas para evitar dissonâncias estilísticas.",
+      "Trabalhar ritmo interno e concisão em alguns versos para fortalecer o impacto e a musicalidade."
+    ]
+  }
+}
