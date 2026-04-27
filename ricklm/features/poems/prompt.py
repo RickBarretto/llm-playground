@@ -1,0 +1,39 @@
+from __future__ import annotations
+
+from pathlib import Path
+from typing import Self
+import toml
+
+import attrs
+
+__all__ = ["Prompt"]
+
+@attrs.frozen(kw_only=True)
+class Prompt:
+    style: str = attrs.field()
+    context: str = attrs.field(default="")
+    examples: list[str] = attrs.field(factory=list)
+
+    @classmethod
+    def from_toml(cls, toml_file: str) -> Self:
+        """Load a Prompt from a TOML file path.
+
+        Expects a TOML structure like the example in the workspace
+        where `general.style` and `general.context` exist and
+        `[[poems]]` entries may contain `sample` strings.
+        """
+        with open(Path(toml_file), "r", encoding="utf-8") as fh:
+            data = toml.load(fh)
+
+        general = data.get("general", {})
+        style = general.get("style", "")
+        context = general.get("context", "")
+
+        examples: list[str] = []
+        poems = data.get("poems") or []
+        
+        for entry in poems:
+            if (sample := entry.get("sample")):
+                examples.append(sample.strip())
+
+        return cls(style=style, context=context.strip(), examples=examples)
