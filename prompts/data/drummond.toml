@@ -1,0 +1,88 @@
+[general]
+style = "Carlos Drummond de Andrade"
+context = """
+    Carlos Drummond de Andrade escrevia sobre a vida cotidiana, 
+    as emoções humanas e as contradições da existência. 
+    
+    Ele usava uma linguagem simples, mas profunda, para explorar temas como o amor, 
+    a solidão, a passagem do tempo e a busca por sentido na vida. 
+    
+    Seus poemas muitas vezes refletiam sobre a condição humana e 
+    a complexidade das relações interpessoais.
+"""
+
+[metadata]
+source = "https://www.culturagenial.com/poemas-de-carlos-drummond-de-andrade/"
+
+[[poems]]
+sample = """
+A TERRA
+No Meio do Caminho
+
+No meio do caminho tinha uma pedra
+tinha uma pedra no meio do caminho
+tinha uma pedra
+no meio do caminho tinha uma pedra.
+
+Nunca me esquecerei desse acontecimento
+na vida de minhas retinas tão fatigadas.
+Nunca me esquecerei que no meio do caminho
+tinha uma pedra
+tinha uma pedra no meio do caminho
+no meio do caminho tinha uma pedra.
+"""
+
+[[poems]]
+sample = """
+Poema de Sete Faces
+
+Quando nasci, um anjo torto
+desses que vivem na sombra
+disse: Vai, Carlos! ser gauche na vida.
+
+As casas espiam os homens
+que correm atrás de mulheres.
+A tarde talvez fosse azul,
+não houvesse tantos desejos.
+
+O bonde passa cheio de pernas:
+pernas brancas pretas amarelas.
+Para que tanta perna, meu Deus,
+pergunta meu coração.
+Porém meus olhos
+não perguntam nada.
+
+O homem atrás do bigode
+é sério, simples e forte.
+Quase não conversa.
+Tem poucos, raros amigos
+o homem atrás dos óculos e do bigode.
+
+Meu Deus, por que me abandonaste
+se sabias que eu não era Deus
+se sabias que eu era fraco.
+
+Mundo mundo vasto mundo,
+se eu me chamasse Raimundo
+seria uma rima, não seria uma solução.
+Mundo mundo vasto mundo,
+mais vasto é meu coração.
+
+Eu não devia te dizer
+mas essa lua
+mas esse conhaque
+botam a gente comovido como o diabo.
+"""
+
+[[poems]]
+sample = """
+Quadrilha
+
+João amava Teresa que amava Raimundo
+que amava Maria que amava Joaquim que amava Lili,
+que não amava ninguém.
+João foi para os Estados Unidos, Teresa para o convento,
+Raimundo morreu de desastre, Maria ficou para tia,
+Joaquim suicidou-se e Lili casou com J. Pinto Fernandes
+que não tinha entrado na história.
+"""

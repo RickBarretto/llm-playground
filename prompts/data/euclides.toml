@@ -1,0 +1,47 @@
+[general]
+style = "Euclides da Cunha"
+context = """
+    Euclides da Cunha foi um escritor, engenheiro e jornalista brasileiro, 
+    conhecido principalmente por sua obra 'Os Sertões', 
+    que é um estudo sobre a região do sertão nordestino e a Guerra de Canudos. 
+    
+    Ele escrevia com uma linguagem rica e detalhada, 
+    explorando temas como a natureza, a cultura e a história do Brasil. 
+    
+    Seus textos muitas vezes refletiam sobre as dificuldades enfrentadas pelas pessoas 
+    que viviam no sertão e a complexidade das relações sociais e políticas na época.
+"""
+
+[metadata]
+source = "https://www1.folha.uol.com.br/fol/brasil500/histcanudos12.htm"
+
+[[poems]]
+sample = """
+A TERRA
+
+Ao sobrevir das chuvas, a terra, como vimos, transfigura-se em mutações fantásticas, contrastando com a desolação anterior.
+Os vales secos fazem-se rios. Insulam-se os cômoros escalvados, repentinamente verdejantes. A vegetação recama de flores, cobrindo-os, os grotões escancelados, e disfarça a dureza das barrancas, e arredonda em colinas os acervos de blocos disjungidos -de sorte que as chapadas grandes, entremeadas de convales, se ligam em curvas mais suaves aos tabuleiros altos. Cai a temperatura. Com o desaparecer das soalheiras anula-se a secura anormal dos ares. Novos tons na paisagem: a transparência do espaço salienta as linhas mais ligeiras, em todas as variantes da forma e da cor.
+Dilatam-se os horizontes. O firmamento, sem o azul carregado dos desertos, alteia-se, mais profundo, ante o expandir revivescente da terra.
+E o sertão é um vale fértil. É um pomar vastíssimo, sem dono.
+Depois tudo isto se acaba. Voltam os dias torturantes; a atmosfera asfixiadora; o empedramento do solo; a nudez da flora; e nas ocasiões em que os estios se ligam sem a intermitência das chuvas -o espasmo assombrador da seca.
+"""
+
+[[poems]]
+sample = """
+O HOMEM
+
+O sertanejo é, antes de tudo, um forte. Não tem o raquitismo exaustivo dos mestiços neurastênicos do litoral.
+A sua aparência, entretanto, ao primeiro lance de vista, revela o contrário. Falta-lhe a plástica impecável, o desempeno, a estrutura corretíssima das organizações atléticas.
+É desgracioso, desengonçado, torto. Hércules-Quasímodo, reflete no aspecto a fealdade típica dos fracos. O andar sem firmeza, sem aprumo, quase gingante e sinuoso, aparenta a translação de membros desarticulados. Agrava-o a postura normalmente abatida, num manifestar de displicência que lhe dá um caráter de humildade deprimente. A pé, quando parado, recosta-se invariavelmente ao primeiro umbral ou parede que encontra; a cavalo, se sofreia o animal para trocar duas palavras com um conhecido, cai logo sobre um dos estribos, descansando sobre a espenda da sela. Caminhando, mesmo a passo rápido, não traça trajetória retilínea e firme. Avança celeremente, num bambolear característico, de que parecem ser o traço geométrico os meandros das trilhas sertanejas. (...)
+É o homem permanentemente fatigado.
+"""
+
+[[poems]]
+sample = """
+A LUTA
+
+Concluídas as pesquisas nos arredores, e recolhidas as armas e munições de guerra, os jagunços reuniram os cadáveres que jaziam esparsos em vários pontos. Decapitaram-nos. Queimaram os corpos. Alinharam depois, nas duas bordas da estrada, as cabeças, regularmente espaçadas, fronteando-se, faces volvidas para o caminho. Por cima, nos arbustos marginais mais altos, dependuraram os restos de fardas, calças e dólmãs multicores, selins, cinturões, quepes de listras rubras, capotes, mantas, cantis e mochilas...
+A caatinga mirrada e nua, apareceu repentinamente desabrochando numa florescência extravagantemente colorida no vermelho forte das divisas, no azul desmaiado dos dólmãs e nos brilhos vivos das chapas dos talins e estribos oscilantes...
+Um pormenor doloroso completou essa encenação cruel: a uma banda avultava, empalado, erguido num galho seco, de angico, o corpo do coronel Tamarindo.
+Era assombroso... Como um manequim terrivelmente lúgubre, o cadáver desaprumado, braços e pernas pendidos, oscilando à feição do vento no galho flexível e vergado, aparecia nos ermos feito uma visão demoníaca.
+"""
