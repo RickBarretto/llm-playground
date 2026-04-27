@@ -34,7 +34,7 @@ class Gaia(GeneratesText):
 @attrs.frozen
 class Tucano(GeneratesText):
     owner: ClassVar[str] = "TucanoBR"
-    _model: ClassVar[str] = "Tucano-1b1-Instruct"
+    _model: ClassVar[str] = "Tucano-{size}-Instruct"
     size: Literal["1.1B", "2.4B"] = "2.4B"
 
     def _normalize_size(self, size: str) -> str:
