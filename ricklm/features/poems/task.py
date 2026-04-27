@@ -14,21 +14,23 @@ class Poem:
     style: str = attrs.field()
     title: str = attrs.field(default="", alias="titled")
     context: str = attrs.field(default="", alias="knowing")
-    examples: list[str] = attrs.field(factory=list, alias="eg")
+    examples: list[str] = attrs.field(factory=list, alias="eg") # type: ignore
 
 
     def __enter__(self):
         self.model.__enter__()
         return self
 
-    def __exit__(self, exc_type, exc_val, exc_tb):
-        self.model.__exit__(exc_type, exc_val, exc_tb)
+    def __exit__(self, exc_type, exc_val, exc_tb): # type: ignore
+        self.model.__exit__(exc_type, exc_val, exc_tb) # type: ignore
 
     def store(self, root: str) -> str:
-        path = Path(root) / "poems" / self.style.replace(" ", "_").lower() / f"{self.model.name}.txt"
+        poems: Path = Path(root) / "poems" / self.style.replace(" ", "_").lower()
+        filename: str = f"{self.model}.txt"
+        file: Path = poems / filename
 
         content = str(self)
-        store_to(content, root=root, path=path)
+        store_to(content, file=file)
 
         return content
 
@@ -36,7 +38,8 @@ class Poem:
     def prompt(self) -> str:
         title_part = f' intitulado "{self.title}"' if self.title else ""
         context_part = f" considerando o contexto: {self.context}" if self.context else ""
-        examples_part = f" com os seguintes exemplos: {'\n\n---\n\n'.join(self.examples)}" if self.examples else ""
+        examples = '\n\n---\n\n'.join(self.examples)
+        examples_part = f" com os seguintes exemplos: {examples}" if self.examples else ""
         return f"Escreva um poema original no estilo de {self.style}{title_part}{context_part}{examples_part}."
     
     @property

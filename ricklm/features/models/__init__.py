@@ -1,4 +1,4 @@
-from typing import Literal, ClassVar, overload
+from typing import Literal, ClassVar
 
 import attrs
 
@@ -65,5 +65,5 @@ class TeenyTinyLlama(GeneratesText):
     def text(self, prompt: str) -> str:
         pipe = self.pipeline("text-generation")
         instruction = f"<instruction>{prompt}</instruction>"
-        response = pipe(instruction, max_new_tokens=512, do_sample=True, temperature=0.7)
-        return normalize(response[0]["generated_text"].replace(instruction, "", 1))
+        response = pipe(instruction, max_new_tokens=512, do_sample=True, temperature=0.7) # type: ignore
+        return normalize(response[0]["generated_text"].replace(instruction, "", 1)) # type: ignore

@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 from pathlib import Path
-from typing import Self
 import toml
 
 import attrs
@@ -12,10 +11,10 @@ __all__ = ["Prompt"]
 class Prompt:
     style: str = attrs.field()
     context: str = attrs.field(default="")
-    examples: list[str] = attrs.field(factory=list)
+    examples: list[str] = attrs.field(factory=list) # type: ignore
 
     @classmethod
-    def from_toml(cls, toml_file: str) -> Self:
+    def from_toml(cls, toml_file: str) -> "Prompt":
         """Load a Prompt from a TOML file path.
 
         Expects a TOML structure like the example in the workspace
@@ -30,7 +29,7 @@ class Prompt:
         context = general.get("context", "")
 
         examples: list[str] = []
-        poems = data.get("poems") or []
+        poems: list[dict[str, str]] = data.get("poems") or []
         
         for entry in poems:
             if (sample := entry.get("sample")):
