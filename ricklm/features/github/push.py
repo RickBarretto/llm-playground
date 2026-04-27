@@ -16,7 +16,7 @@ def push_to_github(
     email: str | None = None,
     repo: str = "RickBarretto/llm-playground",
     branch: str = "main",
-    message: str = "Add evaluation results",
+    message: str = "Publish generated poems",
     root: Path,
 ) -> None:
     """Stage ``evaluations/``, commit, and push to *repo* on *branch*."""
@@ -54,4 +54,4 @@ def push_to_github(
 
     git("commit", "-m", message)
     git("push", "origin", branch)
-    print(f"Pushed evaluation results to {repo} ({branch})")
+    print(f"Pushed generated poems to {repo} ({branch})")
