@@ -1,5 +1,6 @@
 import attrs
 
+from ricklm.features.store import store_to
 from ricklm.shared.models.capabilities import GeneratesText
 
 __all__ = ["Poem"]
@@ -20,6 +21,14 @@ class Poem:
 
     def __exit__(self, exc_type, exc_val, exc_tb):
         self.model.__exit__(exc_type, exc_val, exc_tb)
+
+    def store(self, root: str) -> str:
+        path = Path(root) / "poems" / self.style.replace(" ", "_").lower() / f"{self.model.name}.txt"
+
+        content = str(self)
+        store_to(content, root=root, path=path)
+
+        return content
 
     @property
     def prompt(self) -> str:
