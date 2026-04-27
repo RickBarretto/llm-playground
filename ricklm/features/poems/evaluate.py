@@ -45,6 +45,11 @@ def _model_label(model: GeneratesText) -> str:
     return type(model).__name__
 
 
+def clear_evaluations(at: Path) -> None:
+    for file in at.glob("*.json"):
+        file.unlink()
+
+
 def evaluate(
     model: GeneratesText,
     requested: str,
