@@ -1,7 +1,5 @@
 from pathlib import Path
 
-from ricklm.features.github.push import push_to_github
-
 from attrs import frozen
 
 __all__ = ["GitHub", 'Path']
