@@ -14,6 +14,12 @@ class GeneratesText(Model):
         object.__setattr__(self, "_pipe", self.pipeline("text-generation"))
         return self
 
+    def __attrs_post_init__(self) -> None:
+        try:
+            object.__setattr__(self, "_pipe", self.pipeline("text-generation"))
+        except Exception as exc:  # pragma: no cover - runtime environment may not have HF access
+            raise RuntimeError(f"Failed to load model pipeline for {self.id}: {exc}") from exc
+
     def __exit__(self, exc_type, exc_value, traceback):
         self.pipeline.cache_clear()
         object.__setattr__(self, "_pipe", None)
