@@ -14,15 +14,15 @@ class Prompt:
     examples: list[str] = attrs.field(factory=list) # type: ignore
 
     @classmethod
-    def from_toml(cls, toml_file: str) -> "Prompt":
+    def from_toml(cls, file: Path) -> "Prompt":
         """Load a Prompt from a TOML file path.
 
         Expects a TOML structure like the example in the workspace
         where `general.style` and `general.context` exist and
         `[[poems]]` entries may contain `sample` strings.
         """
-        with open(Path(toml_file), "r", encoding="utf-8") as fh:
-            data = toml.load(fh)
+        with open(file, "r", encoding="utf-8") as f:
+            data = toml.load(f)
 
         general = data.get("general", {})
         style = general.get("style", "")

@@ -24,8 +24,8 @@ class Poem:
     def __exit__(self, exc_type, exc_val, exc_tb): # type: ignore
         self.model.__exit__(exc_type, exc_val, exc_tb) # type: ignore
 
-    def store(self, root: str) -> str:
-        poems: Path = Path(root) / "poems" / self.style.replace(" ", "_").lower()
+    def store(self, at: Path) -> str:
+        poems: Path = at / "poems" / self.style.replace(" ", "_").lower()
         filename: str = f"{self.model}.txt"
         file: Path = poems / filename
 
