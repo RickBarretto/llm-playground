@@ -1,3 +1,5 @@
+from pathlib import Path
+
 import attrs
 
 from ricklm.features.store import store_to
