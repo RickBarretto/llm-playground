@@ -8,6 +8,18 @@ from ricklm.shared.models.capabilities import GeneratesText, TextOutput, normali
 __all__ = ["AmadeusVerbo", "Gaia", "Tucano", "TeenyTinyLlama"]
 
 
+def strip_instruction_echo(text: str, instruction: str) -> str:
+    output = normalize(text)
+
+    if instruction in output:
+        output = output.replace(instruction, "", 1)
+
+    if "</instruction>" in output:
+        output = output.split("</instruction>", 1)[1]
+
+    return normalize(output)
+
+
 @attrs.frozen
 class AmadeusVerbo(GeneratesText):
     owner: ClassVar[str] = "amadeusai"
@@ -84,5 +96,5 @@ class TeenyTinyLlama(GeneratesText):
             temperature=temperature,
             **kwargs,
         )
-        output = normalize(response[0]["generated_text"].replace(instruction, "", 1)) # type: ignore
+        output = strip_instruction_echo(response[0]["generated_text"], instruction) # type: ignore
         return TextOutput(output)
