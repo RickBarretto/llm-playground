@@ -5,7 +5,7 @@ import unicodedata
 import attrs
 from transformers import Pipeline
 
-from ricklm.shared.models.base import Model
+from arcadia.shared.models.base import Model
 
 
 def normalize(response: str) -> str:

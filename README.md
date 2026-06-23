@@ -1,4 +1,6 @@
-# LLM Playground
+# Arcadia
+
+> Idealized, unspoiled natural landscape. [^1]
 
 This repository exists to install and run AI models quickly, mainly in Google Colab.
 
@@ -38,7 +40,7 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 ```python
 from pathlib import Path
-from ricklm import models
+from arcadia import models
 
 OUTPUT_DIR = Path("/content/outputs")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -54,7 +56,7 @@ with model as m:
 ## Chat
 
 ```python
-from ricklm import models
+from arcadia import models
 
 model = models.AmadeusVerbo("3B")
 
@@ -77,12 +79,12 @@ Prompts and templates should live outside this repository, next to the generated
 
 The preferred layout is a separate repository inside an Obsidian vault. Keep the prompt, generated response, evaluation, and derived documents together there so their history follows the experiment instead of the runtime code.
 
-## RickLM
+## LASIC's Arcadia
 
-`ricklm` is a minimal wrapper for loading a few PT-BR friendly models without repeatedly typing model names and package versions by hand.
+`arcadia` is a minimal wrapper for loading a few PT-BR friendly models without repeatedly typing model names and package versions by hand.
 
 ```python
-from ricklm import models
+from arcadia import models
 
 model = models.AmadeusVerbo("3B")
 ```
@@ -109,7 +111,7 @@ with model as m:
 
 This repository versions only the execution environment:
 
-- the `ricklm` package code;
+- the `arcadia` package code;
 - the execution notebook;
 - documentation for the execution workflow.
 
@@ -122,3 +124,6 @@ Do not version these artifacts in this repository:
 - documents derived from model outputs.
 
 These artifacts depend on the prompt, model, and execution settings, not only on the code. They should live in a separate repository, preferably inside an Obsidian vault.
+
+
+[^1]: https://poemanalysis.com/definition/arcadia/

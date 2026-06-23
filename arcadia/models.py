@@ -1,4 +1,4 @@
-from ricklm.features.models import AmadeusVerbo, Gaia, Tucano, TeenyTinyLlama
+from arcadia.features.models import AmadeusVerbo, Gaia, Tucano, TeenyTinyLlama
 
 __all__ = [
     "AmadeusVerbo",

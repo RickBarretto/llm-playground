@@ -1,5 +1,5 @@
 [project]
-name = "ricklm"
+name = "lasic-arcadia"
 version = "1.0.0"
 description = "Intuitive library to test LLMs"
 readme = "README.md"
