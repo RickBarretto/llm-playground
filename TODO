@@ -1,0 +1,11 @@
+# TODO list
+
+- [ ] Translate to portuguese:
+    - [ ] `rodar.ipynb`
+    - [ ] `README.pt-BR.md`
+- [ ] Update `pyproject`
+    - [ ] Description
+    - [ ] Author
+    - [ ] Maintainer
+- [ ] Properly document the API for future maintainance
+- [ ] Document the steps to include new models
